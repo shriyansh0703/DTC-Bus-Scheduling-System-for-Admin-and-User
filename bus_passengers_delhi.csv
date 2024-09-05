@@ -1,0 +1,3001 @@
+Date,Time,Bus Stop,Action,Number of Passengers
+2024-09-01,07:00:00,India Gate,Boarding,24
+2024-09-01,07:05:00,Red Fort,Boarding,8
+2024-09-01,07:10:00,Karol Bagh,Boarding,22
+2024-09-01,07:15:00,Delhi University,Boarding,19
+2024-09-01,07:20:00,Hauz Khas,Boarding,1
+2024-09-01,07:25:00,India Gate,Boarding,8
+2024-09-01,07:30:00,Delhi University,Boarding,18
+2024-09-01,07:35:00,Chandni Chowk,Deboarding,8
+2024-09-01,07:40:00,Nehru Place,Deboarding,26
+2024-09-01,07:45:00,Connaught Place,Boarding,23
+2024-09-01,07:50:00,Hauz Khas,Deboarding,9
+2024-09-01,07:55:00,Karol Bagh,Boarding,25
+2024-09-01,08:00:00,Rajiv Chowk,Boarding,3
+2024-09-01,08:05:00,Hauz Khas,Boarding,12
+2024-09-01,08:10:00,Rajiv Chowk,Deboarding,26
+2024-09-01,08:15:00,Connaught Place,Deboarding,18
+2024-09-01,08:20:00,India Gate,Deboarding,3
+2024-09-01,08:25:00,Delhi University,Deboarding,27
+2024-09-01,08:30:00,Gurgaon,Deboarding,19
+2024-09-01,08:35:00,Chandni Chowk,Boarding,2
+2024-09-01,08:40:00,Chandni Chowk,Deboarding,3
+2024-09-01,08:45:00,Chandni Chowk,Boarding,13
+2024-09-01,08:50:00,Red Fort,Deboarding,21
+2024-09-01,08:55:00,Rajiv Chowk,Boarding,12
+2024-09-01,09:00:00,Rajiv Chowk,Boarding,22
+2024-09-01,09:05:00,Red Fort,Boarding,20
+2024-09-01,09:10:00,Karol Bagh,Boarding,6
+2024-09-01,09:15:00,Nehru Place,Deboarding,9
+2024-09-01,09:20:00,Delhi University,Boarding,22
+2024-09-01,09:25:00,Rajiv Chowk,Boarding,8
+2024-09-01,09:30:00,Connaught Place,Deboarding,13
+2024-09-01,09:35:00,Red Fort,Boarding,7
+2024-09-01,09:40:00,Gurgaon,Deboarding,7
+2024-09-01,09:45:00,Nehru Place,Deboarding,29
+2024-09-01,09:50:00,Nehru Place,Boarding,9
+2024-09-01,09:55:00,Karol Bagh,Boarding,24
+2024-09-01,10:00:00,Delhi University,Deboarding,24
+2024-09-01,10:05:00,Gurgaon,Deboarding,29
+2024-09-01,10:10:00,Gurgaon,Deboarding,12
+2024-09-01,10:15:00,Chandni Chowk,Boarding,17
+2024-09-01,10:20:00,Nehru Place,Boarding,25
+2024-09-01,10:25:00,Connaught Place,Boarding,5
+2024-09-01,10:30:00,Karol Bagh,Deboarding,20
+2024-09-01,10:35:00,India Gate,Deboarding,13
+2024-09-01,10:40:00,Gurgaon,Deboarding,17
+2024-09-01,10:45:00,Red Fort,Boarding,22
+2024-09-01,10:50:00,India Gate,Deboarding,25
+2024-09-01,10:55:00,Rajiv Chowk,Boarding,10
+2024-09-01,11:00:00,Hauz Khas,Boarding,15
+2024-09-01,11:05:00,Connaught Place,Deboarding,17
+2024-09-01,11:10:00,Karol Bagh,Boarding,28
+2024-09-01,11:15:00,Red Fort,Boarding,5
+2024-09-01,11:20:00,Rajiv Chowk,Boarding,18
+2024-09-01,11:25:00,Delhi University,Boarding,20
+2024-09-01,11:30:00,Rajiv Chowk,Deboarding,1
+2024-09-01,11:35:00,India Gate,Deboarding,29
+2024-09-01,11:40:00,Red Fort,Boarding,2
+2024-09-01,11:45:00,Chandni Chowk,Boarding,3
+2024-09-01,11:50:00,Nehru Place,Boarding,25
+2024-09-01,11:55:00,Delhi University,Boarding,5
+2024-09-01,12:00:00,Nehru Place,Boarding,9
+2024-09-01,12:05:00,Delhi University,Deboarding,7
+2024-09-01,12:10:00,Delhi University,Boarding,23
+2024-09-01,12:15:00,Red Fort,Deboarding,22
+2024-09-01,12:20:00,Rajiv Chowk,Deboarding,29
+2024-09-01,12:25:00,Delhi University,Deboarding,4
+2024-09-01,12:30:00,Chandni Chowk,Boarding,3
+2024-09-01,12:35:00,Rajiv Chowk,Boarding,19
+2024-09-01,12:40:00,Delhi University,Boarding,19
+2024-09-01,12:45:00,Chandni Chowk,Boarding,3
+2024-09-01,12:50:00,Connaught Place,Boarding,3
+2024-09-01,12:55:00,Connaught Place,Deboarding,3
+2024-09-01,13:00:00,Delhi University,Boarding,9
+2024-09-01,13:05:00,Nehru Place,Boarding,18
+2024-09-01,13:10:00,Karol Bagh,Deboarding,8
+2024-09-01,13:15:00,Nehru Place,Deboarding,7
+2024-09-01,13:20:00,India Gate,Boarding,22
+2024-09-01,13:25:00,Hauz Khas,Deboarding,14
+2024-09-01,13:30:00,Hauz Khas,Deboarding,28
+2024-09-01,13:35:00,Connaught Place,Boarding,2
+2024-09-01,13:40:00,Hauz Khas,Deboarding,26
+2024-09-01,13:45:00,India Gate,Boarding,7
+2024-09-01,13:50:00,Chandni Chowk,Deboarding,5
+2024-09-01,13:55:00,Hauz Khas,Boarding,9
+2024-09-01,14:00:00,Nehru Place,Boarding,28
+2024-09-01,14:05:00,India Gate,Deboarding,26
+2024-09-01,14:10:00,Delhi University,Boarding,2
+2024-09-01,14:15:00,Delhi University,Boarding,3
+2024-09-01,14:20:00,Chandni Chowk,Boarding,14
+2024-09-01,14:25:00,Nehru Place,Deboarding,7
+2024-09-01,14:30:00,Hauz Khas,Boarding,6
+2024-09-01,14:35:00,Hauz Khas,Boarding,13
+2024-09-01,14:40:00,Red Fort,Deboarding,10
+2024-09-01,14:45:00,Hauz Khas,Deboarding,5
+2024-09-01,14:50:00,Chandni Chowk,Deboarding,7
+2024-09-01,14:55:00,Connaught Place,Boarding,24
+2024-09-01,15:00:00,Rajiv Chowk,Boarding,2
+2024-09-01,15:05:00,Gurgaon,Deboarding,17
+2024-09-01,15:10:00,Delhi University,Boarding,2
+2024-09-01,15:15:00,Delhi University,Boarding,28
+2024-09-01,15:20:00,Karol Bagh,Boarding,20
+2024-09-01,15:25:00,India Gate,Boarding,13
+2024-09-01,15:30:00,India Gate,Boarding,19
+2024-09-01,15:35:00,Gurgaon,Boarding,20
+2024-09-01,15:40:00,India Gate,Deboarding,22
+2024-09-01,15:45:00,Gurgaon,Deboarding,30
+2024-09-01,15:50:00,Red Fort,Boarding,22
+2024-09-01,15:55:00,Rajiv Chowk,Boarding,9
+2024-09-01,16:00:00,Hauz Khas,Boarding,22
+2024-09-01,16:05:00,Red Fort,Deboarding,11
+2024-09-01,16:10:00,India Gate,Boarding,15
+2024-09-01,16:15:00,Gurgaon,Boarding,3
+2024-09-01,16:20:00,Delhi University,Boarding,17
+2024-09-01,16:25:00,Red Fort,Boarding,30
+2024-09-01,16:30:00,Rajiv Chowk,Boarding,29
+2024-09-01,16:35:00,Chandni Chowk,Deboarding,10
+2024-09-01,16:40:00,Karol Bagh,Deboarding,27
+2024-09-01,16:45:00,Delhi University,Deboarding,20
+2024-09-01,16:50:00,Delhi University,Boarding,22
+2024-09-01,16:55:00,Delhi University,Deboarding,30
+2024-09-01,17:00:00,India Gate,Boarding,9
+2024-09-01,17:05:00,India Gate,Boarding,24
+2024-09-01,17:10:00,Delhi University,Boarding,9
+2024-09-01,17:15:00,Red Fort,Boarding,23
+2024-09-01,17:20:00,Rajiv Chowk,Boarding,22
+2024-09-01,17:25:00,Red Fort,Deboarding,9
+2024-09-01,17:30:00,Connaught Place,Boarding,21
+2024-09-01,17:35:00,Hauz Khas,Deboarding,2
+2024-09-01,17:40:00,Connaught Place,Deboarding,25
+2024-09-01,17:45:00,Karol Bagh,Deboarding,6
+2024-09-01,17:50:00,Nehru Place,Deboarding,18
+2024-09-01,17:55:00,Connaught Place,Boarding,3
+2024-09-01,18:00:00,Karol Bagh,Boarding,27
+2024-09-01,18:05:00,Rajiv Chowk,Boarding,14
+2024-09-01,18:10:00,Karol Bagh,Boarding,10
+2024-09-01,18:15:00,Rajiv Chowk,Boarding,29
+2024-09-01,18:20:00,Rajiv Chowk,Boarding,22
+2024-09-01,18:25:00,Chandni Chowk,Boarding,12
+2024-09-01,18:30:00,Delhi University,Deboarding,20
+2024-09-01,18:35:00,Karol Bagh,Boarding,28
+2024-09-01,18:40:00,Karol Bagh,Boarding,29
+2024-09-01,18:45:00,Hauz Khas,Boarding,6
+2024-09-01,18:50:00,Rajiv Chowk,Deboarding,26
+2024-09-01,18:55:00,Chandni Chowk,Deboarding,6
+2024-09-01,19:00:00,India Gate,Deboarding,28
+2024-09-01,19:05:00,Connaught Place,Deboarding,8
+2024-09-01,19:10:00,Chandni Chowk,Deboarding,12
+2024-09-01,19:15:00,Red Fort,Boarding,8
+2024-09-01,19:20:00,Connaught Place,Boarding,13
+2024-09-01,19:25:00,Rajiv Chowk,Deboarding,28
+2024-09-01,19:30:00,India Gate,Deboarding,12
+2024-09-01,19:35:00,Delhi University,Deboarding,22
+2024-09-01,19:40:00,Delhi University,Deboarding,1
+2024-09-01,19:45:00,India Gate,Deboarding,6
+2024-09-01,19:50:00,Gurgaon,Deboarding,2
+2024-09-01,19:55:00,India Gate,Deboarding,12
+2024-09-01,20:00:00,Rajiv Chowk,Deboarding,20
+2024-09-01,20:05:00,Delhi University,Boarding,13
+2024-09-01,20:10:00,Gurgaon,Boarding,9
+2024-09-01,20:15:00,Connaught Place,Deboarding,1
+2024-09-01,20:20:00,Delhi University,Boarding,12
+2024-09-01,20:25:00,Hauz Khas,Boarding,22
+2024-09-01,20:30:00,Rajiv Chowk,Deboarding,22
+2024-09-01,20:35:00,India Gate,Deboarding,17
+2024-09-01,20:40:00,Red Fort,Deboarding,11
+2024-09-01,20:45:00,Hauz Khas,Deboarding,18
+2024-09-01,20:50:00,Karol Bagh,Boarding,14
+2024-09-01,20:55:00,Hauz Khas,Boarding,20
+2024-09-01,21:00:00,Gurgaon,Deboarding,13
+2024-09-01,21:05:00,Delhi University,Boarding,10
+2024-09-01,21:10:00,Red Fort,Boarding,14
+2024-09-01,21:15:00,Gurgaon,Deboarding,15
+2024-09-01,21:20:00,Nehru Place,Deboarding,22
+2024-09-01,21:25:00,Chandni Chowk,Deboarding,26
+2024-09-01,21:30:00,Karol Bagh,Boarding,10
+2024-09-01,21:35:00,Delhi University,Deboarding,3
+2024-09-01,21:40:00,Chandni Chowk,Deboarding,8
+2024-09-01,21:45:00,Chandni Chowk,Boarding,1
+2024-09-01,21:50:00,Connaught Place,Boarding,16
+2024-09-01,21:55:00,Gurgaon,Boarding,15
+2024-09-01,22:00:00,Hauz Khas,Boarding,23
+2024-09-01,22:05:00,Hauz Khas,Deboarding,13
+2024-09-01,22:10:00,Chandni Chowk,Boarding,21
+2024-09-01,22:15:00,Connaught Place,Boarding,25
+2024-09-01,22:20:00,Hauz Khas,Boarding,6
+2024-09-01,22:25:00,Delhi University,Deboarding,2
+2024-09-01,22:30:00,Delhi University,Boarding,30
+2024-09-01,22:35:00,India Gate,Deboarding,5
+2024-09-01,22:40:00,Nehru Place,Deboarding,25
+2024-09-01,22:45:00,Nehru Place,Deboarding,27
+2024-09-01,22:50:00,Delhi University,Deboarding,29
+2024-09-01,22:55:00,Karol Bagh,Deboarding,15
+2024-09-01,23:00:00,Red Fort,Boarding,27
+2024-09-01,23:05:00,Red Fort,Deboarding,21
+2024-09-01,23:10:00,Chandni Chowk,Deboarding,15
+2024-09-01,23:15:00,India Gate,Deboarding,8
+2024-09-01,23:20:00,Red Fort,Deboarding,11
+2024-09-01,23:25:00,Delhi University,Boarding,5
+2024-09-01,23:30:00,Karol Bagh,Boarding,13
+2024-09-01,23:35:00,Karol Bagh,Boarding,3
+2024-09-01,23:40:00,Hauz Khas,Deboarding,11
+2024-09-01,23:45:00,Delhi University,Deboarding,14
+2024-09-01,23:50:00,Connaught Place,Boarding,27
+2024-09-01,23:55:00,Hauz Khas,Deboarding,29
+2024-09-02,00:00:00,Gurgaon,Boarding,28
+2024-09-02,00:05:00,Gurgaon,Deboarding,16
+2024-09-02,00:10:00,Connaught Place,Deboarding,10
+2024-09-02,00:15:00,Hauz Khas,Deboarding,18
+2024-09-02,00:20:00,Delhi University,Boarding,16
+2024-09-02,00:25:00,Chandni Chowk,Deboarding,14
+2024-09-02,00:30:00,Nehru Place,Boarding,13
+2024-09-02,00:35:00,Rajiv Chowk,Deboarding,24
+2024-09-02,00:40:00,Karol Bagh,Deboarding,30
+2024-09-02,00:45:00,Karol Bagh,Boarding,30
+2024-09-02,00:50:00,Hauz Khas,Boarding,3
+2024-09-02,00:55:00,Hauz Khas,Boarding,28
+2024-09-02,01:00:00,Nehru Place,Boarding,2
+2024-09-02,01:05:00,Red Fort,Deboarding,11
+2024-09-02,01:10:00,Chandni Chowk,Deboarding,11
+2024-09-02,01:15:00,Rajiv Chowk,Deboarding,9
+2024-09-02,01:20:00,Hauz Khas,Deboarding,27
+2024-09-02,01:25:00,India Gate,Deboarding,1
+2024-09-02,01:30:00,Delhi University,Boarding,12
+2024-09-02,01:35:00,Chandni Chowk,Boarding,25
+2024-09-02,01:40:00,Connaught Place,Boarding,8
+2024-09-02,01:45:00,Chandni Chowk,Boarding,20
+2024-09-02,01:50:00,Karol Bagh,Boarding,5
+2024-09-02,01:55:00,Nehru Place,Boarding,19
+2024-09-02,02:00:00,Chandni Chowk,Deboarding,23
+2024-09-02,02:05:00,Red Fort,Deboarding,6
+2024-09-02,02:10:00,Gurgaon,Boarding,25
+2024-09-02,02:15:00,Karol Bagh,Deboarding,4
+2024-09-02,02:20:00,Gurgaon,Boarding,30
+2024-09-02,02:25:00,Red Fort,Deboarding,13
+2024-09-02,02:30:00,Chandni Chowk,Boarding,19
+2024-09-02,02:35:00,Chandni Chowk,Boarding,23
+2024-09-02,02:40:00,Red Fort,Boarding,26
+2024-09-02,02:45:00,Gurgaon,Boarding,12
+2024-09-02,02:50:00,Delhi University,Deboarding,22
+2024-09-02,02:55:00,Rajiv Chowk,Boarding,17
+2024-09-02,03:00:00,Rajiv Chowk,Boarding,28
+2024-09-02,03:05:00,Hauz Khas,Deboarding,4
+2024-09-02,03:10:00,Hauz Khas,Deboarding,21
+2024-09-02,03:15:00,Nehru Place,Boarding,14
+2024-09-02,03:20:00,Karol Bagh,Deboarding,20
+2024-09-02,03:25:00,Delhi University,Deboarding,15
+2024-09-02,03:30:00,Hauz Khas,Deboarding,11
+2024-09-02,03:35:00,Chandni Chowk,Boarding,9
+2024-09-02,03:40:00,Nehru Place,Boarding,25
+2024-09-02,03:45:00,Nehru Place,Deboarding,11
+2024-09-02,03:50:00,Connaught Place,Deboarding,28
+2024-09-02,03:55:00,Rajiv Chowk,Boarding,16
+2024-09-02,04:00:00,Chandni Chowk,Deboarding,26
+2024-09-02,04:05:00,Red Fort,Deboarding,9
+2024-09-02,04:10:00,Gurgaon,Deboarding,18
+2024-09-02,04:15:00,Connaught Place,Boarding,3
+2024-09-02,04:20:00,Chandni Chowk,Deboarding,16
+2024-09-02,04:25:00,Delhi University,Boarding,23
+2024-09-02,04:30:00,Nehru Place,Deboarding,15
+2024-09-02,04:35:00,Connaught Place,Boarding,10
+2024-09-02,04:40:00,Chandni Chowk,Deboarding,23
+2024-09-02,04:45:00,Chandni Chowk,Deboarding,22
+2024-09-02,04:50:00,Gurgaon,Deboarding,16
+2024-09-02,04:55:00,Delhi University,Deboarding,14
+2024-09-02,05:00:00,Delhi University,Deboarding,12
+2024-09-02,05:05:00,Nehru Place,Deboarding,10
+2024-09-02,05:10:00,Red Fort,Boarding,4
+2024-09-02,05:15:00,Chandni Chowk,Deboarding,4
+2024-09-02,05:20:00,Delhi University,Boarding,7
+2024-09-02,05:25:00,Chandni Chowk,Deboarding,9
+2024-09-02,05:30:00,Gurgaon,Deboarding,4
+2024-09-02,05:35:00,Chandni Chowk,Deboarding,8
+2024-09-02,05:40:00,Rajiv Chowk,Boarding,10
+2024-09-02,05:45:00,Connaught Place,Boarding,9
+2024-09-02,05:50:00,Connaught Place,Boarding,18
+2024-09-02,05:55:00,Red Fort,Boarding,21
+2024-09-02,06:00:00,Nehru Place,Boarding,28
+2024-09-02,06:05:00,Connaught Place,Deboarding,16
+2024-09-02,06:10:00,Nehru Place,Deboarding,11
+2024-09-02,06:15:00,Karol Bagh,Boarding,9
+2024-09-02,06:20:00,Nehru Place,Boarding,27
+2024-09-02,06:25:00,India Gate,Deboarding,16
+2024-09-02,06:30:00,India Gate,Boarding,5
+2024-09-02,06:35:00,Karol Bagh,Deboarding,3
+2024-09-02,06:40:00,Chandni Chowk,Boarding,18
+2024-09-02,06:45:00,Hauz Khas,Boarding,25
+2024-09-02,06:50:00,Delhi University,Deboarding,15
+2024-09-02,06:55:00,Nehru Place,Deboarding,28
+2024-09-02,07:00:00,Gurgaon,Deboarding,10
+2024-09-02,07:05:00,Gurgaon,Boarding,20
+2024-09-02,07:10:00,India Gate,Boarding,21
+2024-09-02,07:15:00,Chandni Chowk,Deboarding,22
+2024-09-02,07:20:00,India Gate,Boarding,8
+2024-09-02,07:25:00,Karol Bagh,Boarding,6
+2024-09-02,07:30:00,Connaught Place,Deboarding,15
+2024-09-02,07:35:00,Gurgaon,Deboarding,10
+2024-09-02,07:40:00,Connaught Place,Boarding,10
+2024-09-02,07:45:00,Red Fort,Deboarding,3
+2024-09-02,07:50:00,Chandni Chowk,Deboarding,26
+2024-09-02,07:55:00,Gurgaon,Boarding,14
+2024-09-02,08:00:00,India Gate,Boarding,21
+2024-09-02,08:05:00,Karol Bagh,Deboarding,27
+2024-09-02,08:10:00,Karol Bagh,Boarding,2
+2024-09-02,08:15:00,Karol Bagh,Deboarding,20
+2024-09-02,08:20:00,Gurgaon,Deboarding,15
+2024-09-02,08:25:00,India Gate,Deboarding,23
+2024-09-02,08:30:00,Red Fort,Deboarding,9
+2024-09-02,08:35:00,Delhi University,Deboarding,15
+2024-09-02,08:40:00,India Gate,Boarding,29
+2024-09-02,08:45:00,Hauz Khas,Deboarding,20
+2024-09-02,08:50:00,Red Fort,Boarding,3
+2024-09-02,08:55:00,Chandni Chowk,Boarding,25
+2024-09-02,09:00:00,Red Fort,Boarding,25
+2024-09-02,09:05:00,Karol Bagh,Deboarding,17
+2024-09-02,09:10:00,Nehru Place,Deboarding,6
+2024-09-02,09:15:00,Gurgaon,Deboarding,21
+2024-09-02,09:20:00,Nehru Place,Boarding,16
+2024-09-02,09:25:00,Rajiv Chowk,Deboarding,11
+2024-09-02,09:30:00,Rajiv Chowk,Boarding,28
+2024-09-02,09:35:00,Karol Bagh,Deboarding,14
+2024-09-02,09:40:00,Nehru Place,Deboarding,22
+2024-09-02,09:45:00,Hauz Khas,Boarding,15
+2024-09-02,09:50:00,India Gate,Deboarding,9
+2024-09-02,09:55:00,Rajiv Chowk,Boarding,25
+2024-09-02,10:00:00,Hauz Khas,Boarding,22
+2024-09-02,10:05:00,Delhi University,Deboarding,14
+2024-09-02,10:10:00,Connaught Place,Boarding,17
+2024-09-02,10:15:00,Rajiv Chowk,Deboarding,21
+2024-09-02,10:20:00,Nehru Place,Boarding,7
+2024-09-02,10:25:00,Red Fort,Boarding,30
+2024-09-02,10:30:00,Red Fort,Deboarding,29
+2024-09-02,10:35:00,Nehru Place,Boarding,1
+2024-09-02,10:40:00,Gurgaon,Boarding,23
+2024-09-02,10:45:00,Karol Bagh,Deboarding,18
+2024-09-02,10:50:00,Connaught Place,Deboarding,3
+2024-09-02,10:55:00,Chandni Chowk,Boarding,15
+2024-09-02,11:00:00,India Gate,Boarding,16
+2024-09-02,11:05:00,Red Fort,Deboarding,14
+2024-09-02,11:10:00,Nehru Place,Deboarding,8
+2024-09-02,11:15:00,Nehru Place,Boarding,13
+2024-09-02,11:20:00,Chandni Chowk,Boarding,28
+2024-09-02,11:25:00,India Gate,Deboarding,25
+2024-09-02,11:30:00,Hauz Khas,Deboarding,30
+2024-09-02,11:35:00,Delhi University,Deboarding,27
+2024-09-02,11:40:00,Connaught Place,Deboarding,24
+2024-09-02,11:45:00,Red Fort,Deboarding,28
+2024-09-02,11:50:00,Karol Bagh,Deboarding,18
+2024-09-02,11:55:00,Nehru Place,Deboarding,11
+2024-09-02,12:00:00,Delhi University,Deboarding,15
+2024-09-02,12:05:00,Rajiv Chowk,Boarding,23
+2024-09-02,12:10:00,Chandni Chowk,Deboarding,8
+2024-09-02,12:15:00,Hauz Khas,Boarding,11
+2024-09-02,12:20:00,Nehru Place,Deboarding,13
+2024-09-02,12:25:00,Karol Bagh,Deboarding,2
+2024-09-02,12:30:00,Karol Bagh,Deboarding,28
+2024-09-02,12:35:00,India Gate,Deboarding,4
+2024-09-02,12:40:00,Delhi University,Deboarding,1
+2024-09-02,12:45:00,Karol Bagh,Deboarding,28
+2024-09-02,12:50:00,Karol Bagh,Boarding,16
+2024-09-02,12:55:00,Red Fort,Deboarding,20
+2024-09-02,13:00:00,Hauz Khas,Boarding,28
+2024-09-02,13:05:00,Rajiv Chowk,Deboarding,11
+2024-09-02,13:10:00,Nehru Place,Boarding,20
+2024-09-02,13:15:00,India Gate,Boarding,21
+2024-09-02,13:20:00,Red Fort,Boarding,24
+2024-09-02,13:25:00,India Gate,Deboarding,4
+2024-09-02,13:30:00,India Gate,Deboarding,6
+2024-09-02,13:35:00,Red Fort,Boarding,2
+2024-09-02,13:40:00,Rajiv Chowk,Boarding,10
+2024-09-02,13:45:00,Rajiv Chowk,Deboarding,14
+2024-09-02,13:50:00,Karol Bagh,Boarding,17
+2024-09-02,13:55:00,Hauz Khas,Boarding,6
+2024-09-02,14:00:00,Karol Bagh,Boarding,20
+2024-09-02,14:05:00,Hauz Khas,Boarding,16
+2024-09-02,14:10:00,Gurgaon,Boarding,8
+2024-09-02,14:15:00,Nehru Place,Deboarding,15
+2024-09-02,14:20:00,Red Fort,Boarding,29
+2024-09-02,14:25:00,Nehru Place,Deboarding,22
+2024-09-02,14:30:00,Delhi University,Boarding,3
+2024-09-02,14:35:00,Nehru Place,Deboarding,19
+2024-09-02,14:40:00,Red Fort,Deboarding,23
+2024-09-02,14:45:00,Red Fort,Deboarding,28
+2024-09-02,14:50:00,Red Fort,Boarding,13
+2024-09-02,14:55:00,Nehru Place,Boarding,8
+2024-09-02,15:00:00,Hauz Khas,Deboarding,19
+2024-09-02,15:05:00,Red Fort,Deboarding,1
+2024-09-02,15:10:00,Hauz Khas,Deboarding,1
+2024-09-02,15:15:00,Gurgaon,Boarding,30
+2024-09-02,15:20:00,Gurgaon,Deboarding,27
+2024-09-02,15:25:00,Red Fort,Boarding,20
+2024-09-02,15:30:00,Rajiv Chowk,Boarding,21
+2024-09-02,15:35:00,Chandni Chowk,Deboarding,22
+2024-09-02,15:40:00,Karol Bagh,Boarding,29
+2024-09-02,15:45:00,Connaught Place,Deboarding,26
+2024-09-02,15:50:00,Nehru Place,Boarding,19
+2024-09-02,15:55:00,Rajiv Chowk,Boarding,3
+2024-09-02,16:00:00,Red Fort,Deboarding,24
+2024-09-02,16:05:00,Hauz Khas,Boarding,7
+2024-09-02,16:10:00,Karol Bagh,Deboarding,17
+2024-09-02,16:15:00,Delhi University,Deboarding,27
+2024-09-02,16:20:00,Karol Bagh,Deboarding,30
+2024-09-02,16:25:00,Nehru Place,Deboarding,24
+2024-09-02,16:30:00,Rajiv Chowk,Boarding,15
+2024-09-02,16:35:00,India Gate,Boarding,25
+2024-09-02,16:40:00,Chandni Chowk,Deboarding,28
+2024-09-02,16:45:00,Delhi University,Deboarding,3
+2024-09-02,16:50:00,Hauz Khas,Boarding,9
+2024-09-02,16:55:00,Delhi University,Boarding,15
+2024-09-02,17:00:00,Rajiv Chowk,Deboarding,19
+2024-09-02,17:05:00,Hauz Khas,Deboarding,4
+2024-09-02,17:10:00,Chandni Chowk,Deboarding,1
+2024-09-02,17:15:00,Gurgaon,Deboarding,30
+2024-09-02,17:20:00,Gurgaon,Boarding,21
+2024-09-02,17:25:00,India Gate,Deboarding,30
+2024-09-02,17:30:00,Red Fort,Deboarding,4
+2024-09-02,17:35:00,Karol Bagh,Boarding,2
+2024-09-02,17:40:00,Red Fort,Deboarding,4
+2024-09-02,17:45:00,India Gate,Boarding,29
+2024-09-02,17:50:00,Delhi University,Boarding,13
+2024-09-02,17:55:00,Nehru Place,Deboarding,22
+2024-09-02,18:00:00,Delhi University,Deboarding,19
+2024-09-02,18:05:00,Karol Bagh,Deboarding,21
+2024-09-02,18:10:00,India Gate,Deboarding,20
+2024-09-02,18:15:00,Hauz Khas,Deboarding,2
+2024-09-02,18:20:00,Rajiv Chowk,Boarding,15
+2024-09-02,18:25:00,Nehru Place,Boarding,28
+2024-09-02,18:30:00,Rajiv Chowk,Boarding,22
+2024-09-02,18:35:00,Rajiv Chowk,Deboarding,2
+2024-09-02,18:40:00,Hauz Khas,Deboarding,7
+2024-09-02,18:45:00,India Gate,Deboarding,3
+2024-09-02,18:50:00,Chandni Chowk,Boarding,2
+2024-09-02,18:55:00,Rajiv Chowk,Boarding,5
+2024-09-02,19:00:00,Gurgaon,Boarding,3
+2024-09-02,19:05:00,Delhi University,Boarding,19
+2024-09-02,19:10:00,Chandni Chowk,Boarding,11
+2024-09-02,19:15:00,Karol Bagh,Boarding,9
+2024-09-02,19:20:00,Karol Bagh,Boarding,18
+2024-09-02,19:25:00,Red Fort,Boarding,4
+2024-09-02,19:30:00,Connaught Place,Boarding,1
+2024-09-02,19:35:00,Rajiv Chowk,Boarding,19
+2024-09-02,19:40:00,Rajiv Chowk,Boarding,6
+2024-09-02,19:45:00,Red Fort,Boarding,5
+2024-09-02,19:50:00,Hauz Khas,Boarding,24
+2024-09-02,19:55:00,India Gate,Deboarding,15
+2024-09-02,20:00:00,Rajiv Chowk,Boarding,15
+2024-09-02,20:05:00,Delhi University,Boarding,20
+2024-09-02,20:10:00,Connaught Place,Deboarding,15
+2024-09-02,20:15:00,Connaught Place,Boarding,16
+2024-09-02,20:20:00,Hauz Khas,Deboarding,22
+2024-09-02,20:25:00,India Gate,Deboarding,23
+2024-09-02,20:30:00,Nehru Place,Boarding,29
+2024-09-02,20:35:00,India Gate,Deboarding,20
+2024-09-02,20:40:00,Karol Bagh,Boarding,5
+2024-09-02,20:45:00,Red Fort,Deboarding,13
+2024-09-02,20:50:00,Gurgaon,Deboarding,15
+2024-09-02,20:55:00,Delhi University,Deboarding,4
+2024-09-02,21:00:00,India Gate,Boarding,14
+2024-09-02,21:05:00,Nehru Place,Boarding,14
+2024-09-02,21:10:00,Rajiv Chowk,Deboarding,13
+2024-09-02,21:15:00,Hauz Khas,Boarding,11
+2024-09-02,21:20:00,Hauz Khas,Deboarding,22
+2024-09-02,21:25:00,Red Fort,Deboarding,5
+2024-09-02,21:30:00,Nehru Place,Boarding,3
+2024-09-02,21:35:00,India Gate,Boarding,14
+2024-09-02,21:40:00,India Gate,Deboarding,26
+2024-09-02,21:45:00,Karol Bagh,Boarding,19
+2024-09-02,21:50:00,Delhi University,Deboarding,22
+2024-09-02,21:55:00,India Gate,Deboarding,12
+2024-09-02,22:00:00,Hauz Khas,Boarding,10
+2024-09-02,22:05:00,Gurgaon,Deboarding,12
+2024-09-02,22:10:00,India Gate,Boarding,5
+2024-09-02,22:15:00,Nehru Place,Boarding,28
+2024-09-02,22:20:00,India Gate,Deboarding,28
+2024-09-02,22:25:00,Delhi University,Deboarding,4
+2024-09-02,22:30:00,Red Fort,Boarding,26
+2024-09-02,22:35:00,Hauz Khas,Boarding,20
+2024-09-02,22:40:00,Red Fort,Boarding,6
+2024-09-02,22:45:00,Red Fort,Deboarding,30
+2024-09-02,22:50:00,Rajiv Chowk,Deboarding,1
+2024-09-02,22:55:00,Karol Bagh,Boarding,19
+2024-09-02,23:00:00,Hauz Khas,Boarding,5
+2024-09-02,23:05:00,Connaught Place,Boarding,24
+2024-09-02,23:10:00,Delhi University,Boarding,13
+2024-09-02,23:15:00,Hauz Khas,Deboarding,11
+2024-09-02,23:20:00,Karol Bagh,Deboarding,10
+2024-09-02,23:25:00,Rajiv Chowk,Boarding,29
+2024-09-02,23:30:00,Connaught Place,Boarding,6
+2024-09-02,23:35:00,Gurgaon,Boarding,22
+2024-09-02,23:40:00,India Gate,Deboarding,15
+2024-09-02,23:45:00,Hauz Khas,Deboarding,20
+2024-09-02,23:50:00,Nehru Place,Deboarding,9
+2024-09-02,23:55:00,Chandni Chowk,Boarding,12
+2024-09-03,00:00:00,Hauz Khas,Boarding,10
+2024-09-03,00:05:00,Gurgaon,Deboarding,17
+2024-09-03,00:10:00,Red Fort,Boarding,8
+2024-09-03,00:15:00,Hauz Khas,Boarding,1
+2024-09-03,00:20:00,Chandni Chowk,Deboarding,7
+2024-09-03,00:25:00,Karol Bagh,Deboarding,10
+2024-09-03,00:30:00,Rajiv Chowk,Boarding,1
+2024-09-03,00:35:00,Nehru Place,Deboarding,6
+2024-09-03,00:40:00,Karol Bagh,Deboarding,18
+2024-09-03,00:45:00,Chandni Chowk,Deboarding,3
+2024-09-03,00:50:00,Hauz Khas,Boarding,14
+2024-09-03,00:55:00,Connaught Place,Deboarding,30
+2024-09-03,01:00:00,India Gate,Deboarding,19
+2024-09-03,01:05:00,Hauz Khas,Deboarding,23
+2024-09-03,01:10:00,Hauz Khas,Deboarding,4
+2024-09-03,01:15:00,Hauz Khas,Boarding,11
+2024-09-03,01:20:00,Karol Bagh,Deboarding,27
+2024-09-03,01:25:00,Rajiv Chowk,Boarding,14
+2024-09-03,01:30:00,India Gate,Boarding,14
+2024-09-03,01:35:00,Gurgaon,Deboarding,17
+2024-09-03,01:40:00,India Gate,Deboarding,28
+2024-09-03,01:45:00,Red Fort,Deboarding,8
+2024-09-03,01:50:00,Rajiv Chowk,Boarding,3
+2024-09-03,01:55:00,Delhi University,Boarding,17
+2024-09-03,02:00:00,Delhi University,Boarding,29
+2024-09-03,02:05:00,Rajiv Chowk,Deboarding,24
+2024-09-03,02:10:00,Karol Bagh,Boarding,4
+2024-09-03,02:15:00,Karol Bagh,Deboarding,7
+2024-09-03,02:20:00,Karol Bagh,Boarding,25
+2024-09-03,02:25:00,India Gate,Boarding,25
+2024-09-03,02:30:00,Nehru Place,Deboarding,25
+2024-09-03,02:35:00,Gurgaon,Deboarding,22
+2024-09-03,02:40:00,Gurgaon,Deboarding,28
+2024-09-03,02:45:00,Rajiv Chowk,Boarding,15
+2024-09-03,02:50:00,India Gate,Deboarding,15
+2024-09-03,02:55:00,Red Fort,Deboarding,19
+2024-09-03,03:00:00,Connaught Place,Deboarding,17
+2024-09-03,03:05:00,India Gate,Deboarding,15
+2024-09-03,03:10:00,Nehru Place,Boarding,2
+2024-09-03,03:15:00,Rajiv Chowk,Deboarding,3
+2024-09-03,03:20:00,India Gate,Deboarding,15
+2024-09-03,03:25:00,Gurgaon,Boarding,15
+2024-09-03,03:30:00,Gurgaon,Boarding,11
+2024-09-03,03:35:00,Gurgaon,Deboarding,17
+2024-09-03,03:40:00,Karol Bagh,Boarding,15
+2024-09-03,03:45:00,India Gate,Deboarding,23
+2024-09-03,03:50:00,India Gate,Boarding,2
+2024-09-03,03:55:00,Chandni Chowk,Deboarding,15
+2024-09-03,04:00:00,Delhi University,Boarding,12
+2024-09-03,04:05:00,Rajiv Chowk,Deboarding,13
+2024-09-03,04:10:00,Hauz Khas,Deboarding,22
+2024-09-03,04:15:00,Gurgaon,Boarding,26
+2024-09-03,04:20:00,Rajiv Chowk,Boarding,11
+2024-09-03,04:25:00,India Gate,Deboarding,10
+2024-09-03,04:30:00,Red Fort,Boarding,11
+2024-09-03,04:35:00,India Gate,Boarding,30
+2024-09-03,04:40:00,Rajiv Chowk,Deboarding,21
+2024-09-03,04:45:00,Hauz Khas,Boarding,20
+2024-09-03,04:50:00,India Gate,Deboarding,18
+2024-09-03,04:55:00,Hauz Khas,Deboarding,27
+2024-09-03,05:00:00,Karol Bagh,Boarding,21
+2024-09-03,05:05:00,Hauz Khas,Deboarding,1
+2024-09-03,05:10:00,Rajiv Chowk,Deboarding,6
+2024-09-03,05:15:00,Chandni Chowk,Deboarding,25
+2024-09-03,05:20:00,Nehru Place,Boarding,8
+2024-09-03,05:25:00,Karol Bagh,Boarding,3
+2024-09-03,05:30:00,Red Fort,Boarding,17
+2024-09-03,05:35:00,Delhi University,Boarding,22
+2024-09-03,05:40:00,Rajiv Chowk,Boarding,20
+2024-09-03,05:45:00,Hauz Khas,Boarding,6
+2024-09-03,05:50:00,Karol Bagh,Boarding,24
+2024-09-03,05:55:00,Nehru Place,Boarding,14
+2024-09-03,06:00:00,Rajiv Chowk,Boarding,15
+2024-09-03,06:05:00,Gurgaon,Deboarding,25
+2024-09-03,06:10:00,Nehru Place,Boarding,18
+2024-09-03,06:15:00,Chandni Chowk,Deboarding,26
+2024-09-03,06:20:00,Nehru Place,Boarding,12
+2024-09-03,06:25:00,Gurgaon,Deboarding,15
+2024-09-03,06:30:00,Red Fort,Deboarding,17
+2024-09-03,06:35:00,Delhi University,Deboarding,6
+2024-09-03,06:40:00,Chandni Chowk,Boarding,28
+2024-09-03,06:45:00,Red Fort,Boarding,21
+2024-09-03,06:50:00,Nehru Place,Deboarding,18
+2024-09-03,06:55:00,India Gate,Boarding,10
+2024-09-03,07:00:00,India Gate,Boarding,9
+2024-09-03,07:05:00,Nehru Place,Boarding,27
+2024-09-03,07:10:00,Hauz Khas,Boarding,30
+2024-09-03,07:15:00,Chandni Chowk,Deboarding,29
+2024-09-03,07:20:00,Rajiv Chowk,Boarding,14
+2024-09-03,07:25:00,Connaught Place,Deboarding,17
+2024-09-03,07:30:00,Rajiv Chowk,Boarding,13
+2024-09-03,07:35:00,India Gate,Deboarding,8
+2024-09-03,07:40:00,Connaught Place,Deboarding,30
+2024-09-03,07:45:00,India Gate,Deboarding,26
+2024-09-03,07:50:00,Karol Bagh,Boarding,2
+2024-09-03,07:55:00,Red Fort,Deboarding,23
+2024-09-03,08:00:00,Karol Bagh,Deboarding,15
+2024-09-03,08:05:00,Gurgaon,Boarding,29
+2024-09-03,08:10:00,India Gate,Boarding,9
+2024-09-03,08:15:00,Chandni Chowk,Boarding,18
+2024-09-03,08:20:00,Gurgaon,Deboarding,4
+2024-09-03,08:25:00,Red Fort,Boarding,10
+2024-09-03,08:30:00,India Gate,Boarding,8
+2024-09-03,08:35:00,Hauz Khas,Deboarding,3
+2024-09-03,08:40:00,India Gate,Deboarding,20
+2024-09-03,08:45:00,Delhi University,Boarding,21
+2024-09-03,08:50:00,Delhi University,Boarding,23
+2024-09-03,08:55:00,Karol Bagh,Deboarding,14
+2024-09-03,09:00:00,Connaught Place,Deboarding,8
+2024-09-03,09:05:00,Gurgaon,Deboarding,6
+2024-09-03,09:10:00,India Gate,Deboarding,3
+2024-09-03,09:15:00,Delhi University,Boarding,13
+2024-09-03,09:20:00,Nehru Place,Boarding,21
+2024-09-03,09:25:00,Hauz Khas,Deboarding,9
+2024-09-03,09:30:00,Connaught Place,Deboarding,26
+2024-09-03,09:35:00,India Gate,Deboarding,8
+2024-09-03,09:40:00,India Gate,Deboarding,5
+2024-09-03,09:45:00,Connaught Place,Deboarding,18
+2024-09-03,09:50:00,Rajiv Chowk,Boarding,27
+2024-09-03,09:55:00,Nehru Place,Deboarding,21
+2024-09-03,10:00:00,Karol Bagh,Boarding,3
+2024-09-03,10:05:00,Nehru Place,Boarding,10
+2024-09-03,10:10:00,Chandni Chowk,Boarding,26
+2024-09-03,10:15:00,Chandni Chowk,Boarding,11
+2024-09-03,10:20:00,Red Fort,Deboarding,27
+2024-09-03,10:25:00,Delhi University,Deboarding,9
+2024-09-03,10:30:00,Connaught Place,Boarding,10
+2024-09-03,10:35:00,Rajiv Chowk,Boarding,28
+2024-09-03,10:40:00,Rajiv Chowk,Deboarding,4
+2024-09-03,10:45:00,Rajiv Chowk,Deboarding,29
+2024-09-03,10:50:00,Hauz Khas,Deboarding,29
+2024-09-03,10:55:00,Hauz Khas,Deboarding,6
+2024-09-03,11:00:00,Nehru Place,Deboarding,12
+2024-09-03,11:05:00,Delhi University,Deboarding,26
+2024-09-03,11:10:00,India Gate,Deboarding,3
+2024-09-03,11:15:00,Hauz Khas,Boarding,18
+2024-09-03,11:20:00,Red Fort,Deboarding,4
+2024-09-03,11:25:00,India Gate,Deboarding,22
+2024-09-03,11:30:00,Red Fort,Deboarding,15
+2024-09-03,11:35:00,Gurgaon,Deboarding,6
+2024-09-03,11:40:00,Nehru Place,Deboarding,15
+2024-09-03,11:45:00,Connaught Place,Deboarding,20
+2024-09-03,11:50:00,Hauz Khas,Deboarding,21
+2024-09-03,11:55:00,Connaught Place,Boarding,22
+2024-09-03,12:00:00,Hauz Khas,Deboarding,17
+2024-09-03,12:05:00,Karol Bagh,Boarding,5
+2024-09-03,12:10:00,Gurgaon,Deboarding,2
+2024-09-03,12:15:00,Karol Bagh,Boarding,8
+2024-09-03,12:20:00,Rajiv Chowk,Deboarding,13
+2024-09-03,12:25:00,Gurgaon,Boarding,20
+2024-09-03,12:30:00,Karol Bagh,Deboarding,12
+2024-09-03,12:35:00,Rajiv Chowk,Deboarding,25
+2024-09-03,12:40:00,India Gate,Boarding,17
+2024-09-03,12:45:00,Rajiv Chowk,Deboarding,11
+2024-09-03,12:50:00,Red Fort,Boarding,4
+2024-09-03,12:55:00,Connaught Place,Boarding,16
+2024-09-03,13:00:00,Delhi University,Deboarding,30
+2024-09-03,13:05:00,Delhi University,Boarding,9
+2024-09-03,13:10:00,Red Fort,Deboarding,7
+2024-09-03,13:15:00,Gurgaon,Deboarding,23
+2024-09-03,13:20:00,Nehru Place,Boarding,4
+2024-09-03,13:25:00,Karol Bagh,Boarding,15
+2024-09-03,13:30:00,Karol Bagh,Deboarding,3
+2024-09-03,13:35:00,Rajiv Chowk,Deboarding,23
+2024-09-03,13:40:00,India Gate,Deboarding,29
+2024-09-03,13:45:00,Red Fort,Boarding,23
+2024-09-03,13:50:00,Karol Bagh,Deboarding,17
+2024-09-03,13:55:00,Chandni Chowk,Boarding,7
+2024-09-03,14:00:00,Karol Bagh,Boarding,26
+2024-09-03,14:05:00,Nehru Place,Boarding,12
+2024-09-03,14:10:00,Delhi University,Deboarding,15
+2024-09-03,14:15:00,Delhi University,Boarding,20
+2024-09-03,14:20:00,India Gate,Boarding,10
+2024-09-03,14:25:00,Hauz Khas,Deboarding,17
+2024-09-03,14:30:00,Hauz Khas,Deboarding,27
+2024-09-03,14:35:00,Gurgaon,Boarding,5
+2024-09-03,14:40:00,Rajiv Chowk,Boarding,15
+2024-09-03,14:45:00,Nehru Place,Deboarding,5
+2024-09-03,14:50:00,Delhi University,Boarding,25
+2024-09-03,14:55:00,Karol Bagh,Deboarding,17
+2024-09-03,15:00:00,Connaught Place,Boarding,17
+2024-09-03,15:05:00,Karol Bagh,Deboarding,6
+2024-09-03,15:10:00,Karol Bagh,Deboarding,30
+2024-09-03,15:15:00,Chandni Chowk,Deboarding,17
+2024-09-03,15:20:00,Red Fort,Boarding,9
+2024-09-03,15:25:00,Chandni Chowk,Deboarding,5
+2024-09-03,15:30:00,Red Fort,Boarding,17
+2024-09-03,15:35:00,Karol Bagh,Boarding,6
+2024-09-03,15:40:00,Gurgaon,Deboarding,27
+2024-09-03,15:45:00,Gurgaon,Boarding,27
+2024-09-03,15:50:00,Connaught Place,Boarding,2
+2024-09-03,15:55:00,Gurgaon,Deboarding,21
+2024-09-03,16:00:00,Chandni Chowk,Deboarding,20
+2024-09-03,16:05:00,Connaught Place,Deboarding,29
+2024-09-03,16:10:00,Delhi University,Deboarding,21
+2024-09-03,16:15:00,Red Fort,Deboarding,8
+2024-09-03,16:20:00,Hauz Khas,Deboarding,15
+2024-09-03,16:25:00,India Gate,Boarding,6
+2024-09-03,16:30:00,Nehru Place,Deboarding,16
+2024-09-03,16:35:00,Nehru Place,Boarding,11
+2024-09-03,16:40:00,Gurgaon,Boarding,11
+2024-09-03,16:45:00,Rajiv Chowk,Deboarding,13
+2024-09-03,16:50:00,Karol Bagh,Deboarding,17
+2024-09-03,16:55:00,Delhi University,Boarding,11
+2024-09-03,17:00:00,Chandni Chowk,Deboarding,4
+2024-09-03,17:05:00,Red Fort,Deboarding,8
+2024-09-03,17:10:00,Karol Bagh,Boarding,2
+2024-09-03,17:15:00,Red Fort,Deboarding,28
+2024-09-03,17:20:00,Gurgaon,Deboarding,8
+2024-09-03,17:25:00,Karol Bagh,Deboarding,30
+2024-09-03,17:30:00,Gurgaon,Deboarding,7
+2024-09-03,17:35:00,Karol Bagh,Deboarding,17
+2024-09-03,17:40:00,Nehru Place,Deboarding,29
+2024-09-03,17:45:00,Red Fort,Deboarding,1
+2024-09-03,17:50:00,India Gate,Deboarding,17
+2024-09-03,17:55:00,Nehru Place,Boarding,7
+2024-09-03,18:00:00,Gurgaon,Deboarding,2
+2024-09-03,18:05:00,Connaught Place,Deboarding,16
+2024-09-03,18:10:00,Gurgaon,Deboarding,10
+2024-09-03,18:15:00,Delhi University,Boarding,28
+2024-09-03,18:20:00,India Gate,Deboarding,5
+2024-09-03,18:25:00,Red Fort,Deboarding,25
+2024-09-03,18:30:00,Hauz Khas,Deboarding,2
+2024-09-03,18:35:00,Hauz Khas,Boarding,19
+2024-09-03,18:40:00,Delhi University,Boarding,12
+2024-09-03,18:45:00,Delhi University,Deboarding,3
+2024-09-03,18:50:00,Hauz Khas,Deboarding,25
+2024-09-03,18:55:00,Delhi University,Deboarding,27
+2024-09-03,19:00:00,Gurgaon,Boarding,5
+2024-09-03,19:05:00,India Gate,Deboarding,12
+2024-09-03,19:10:00,Rajiv Chowk,Deboarding,25
+2024-09-03,19:15:00,Karol Bagh,Boarding,20
+2024-09-03,19:20:00,Delhi University,Deboarding,17
+2024-09-03,19:25:00,Connaught Place,Boarding,2
+2024-09-03,19:30:00,Karol Bagh,Deboarding,26
+2024-09-03,19:35:00,Nehru Place,Deboarding,5
+2024-09-03,19:40:00,Gurgaon,Boarding,11
+2024-09-03,19:45:00,Gurgaon,Deboarding,6
+2024-09-03,19:50:00,Hauz Khas,Deboarding,19
+2024-09-03,19:55:00,Rajiv Chowk,Deboarding,23
+2024-09-03,20:00:00,Gurgaon,Deboarding,16
+2024-09-03,20:05:00,Connaught Place,Deboarding,11
+2024-09-03,20:10:00,India Gate,Deboarding,19
+2024-09-03,20:15:00,Red Fort,Boarding,20
+2024-09-03,20:20:00,Nehru Place,Deboarding,21
+2024-09-03,20:25:00,Gurgaon,Boarding,24
+2024-09-03,20:30:00,Connaught Place,Deboarding,6
+2024-09-03,20:35:00,Delhi University,Deboarding,5
+2024-09-03,20:40:00,Chandni Chowk,Boarding,19
+2024-09-03,20:45:00,India Gate,Boarding,1
+2024-09-03,20:50:00,Nehru Place,Deboarding,14
+2024-09-03,20:55:00,Karol Bagh,Deboarding,23
+2024-09-03,21:00:00,Chandni Chowk,Deboarding,17
+2024-09-03,21:05:00,Gurgaon,Deboarding,28
+2024-09-03,21:10:00,Connaught Place,Boarding,17
+2024-09-03,21:15:00,Chandni Chowk,Deboarding,22
+2024-09-03,21:20:00,Nehru Place,Deboarding,11
+2024-09-03,21:25:00,Karol Bagh,Deboarding,30
+2024-09-03,21:30:00,Delhi University,Deboarding,18
+2024-09-03,21:35:00,Rajiv Chowk,Deboarding,20
+2024-09-03,21:40:00,Nehru Place,Boarding,8
+2024-09-03,21:45:00,Red Fort,Deboarding,8
+2024-09-03,21:50:00,Red Fort,Deboarding,23
+2024-09-03,21:55:00,Chandni Chowk,Deboarding,11
+2024-09-03,22:00:00,Nehru Place,Deboarding,18
+2024-09-03,22:05:00,Red Fort,Deboarding,4
+2024-09-03,22:10:00,Gurgaon,Deboarding,29
+2024-09-03,22:15:00,Hauz Khas,Deboarding,25
+2024-09-03,22:20:00,Karol Bagh,Deboarding,2
+2024-09-03,22:25:00,Red Fort,Boarding,12
+2024-09-03,22:30:00,Nehru Place,Deboarding,24
+2024-09-03,22:35:00,Nehru Place,Boarding,7
+2024-09-03,22:40:00,Delhi University,Deboarding,30
+2024-09-03,22:45:00,Delhi University,Deboarding,5
+2024-09-03,22:50:00,India Gate,Boarding,8
+2024-09-03,22:55:00,Connaught Place,Boarding,21
+2024-09-03,23:00:00,Chandni Chowk,Boarding,4
+2024-09-03,23:05:00,Hauz Khas,Deboarding,23
+2024-09-03,23:10:00,Nehru Place,Boarding,22
+2024-09-03,23:15:00,Karol Bagh,Boarding,18
+2024-09-03,23:20:00,Karol Bagh,Deboarding,21
+2024-09-03,23:25:00,Nehru Place,Deboarding,21
+2024-09-03,23:30:00,Chandni Chowk,Deboarding,11
+2024-09-03,23:35:00,Red Fort,Boarding,30
+2024-09-03,23:40:00,India Gate,Boarding,18
+2024-09-03,23:45:00,Connaught Place,Boarding,14
+2024-09-03,23:50:00,Karol Bagh,Boarding,27
+2024-09-03,23:55:00,Hauz Khas,Deboarding,6
+2024-09-04,00:00:00,Red Fort,Boarding,1
+2024-09-04,00:05:00,Red Fort,Boarding,30
+2024-09-04,00:10:00,Rajiv Chowk,Deboarding,15
+2024-09-04,00:15:00,Delhi University,Deboarding,29
+2024-09-04,00:20:00,Karol Bagh,Deboarding,9
+2024-09-04,00:25:00,Chandni Chowk,Boarding,11
+2024-09-04,00:30:00,Karol Bagh,Deboarding,21
+2024-09-04,00:35:00,Red Fort,Boarding,1
+2024-09-04,00:40:00,Rajiv Chowk,Deboarding,19
+2024-09-04,00:45:00,Chandni Chowk,Boarding,20
+2024-09-04,00:50:00,Hauz Khas,Deboarding,17
+2024-09-04,00:55:00,Rajiv Chowk,Boarding,13
+2024-09-04,01:00:00,India Gate,Boarding,5
+2024-09-04,01:05:00,Nehru Place,Deboarding,30
+2024-09-04,01:10:00,Chandni Chowk,Boarding,9
+2024-09-04,01:15:00,Hauz Khas,Boarding,15
+2024-09-04,01:20:00,Red Fort,Deboarding,10
+2024-09-04,01:25:00,Gurgaon,Boarding,9
+2024-09-04,01:30:00,Rajiv Chowk,Boarding,2
+2024-09-04,01:35:00,India Gate,Deboarding,10
+2024-09-04,01:40:00,Karol Bagh,Deboarding,22
+2024-09-04,01:45:00,Delhi University,Deboarding,23
+2024-09-04,01:50:00,India Gate,Deboarding,12
+2024-09-04,01:55:00,Gurgaon,Boarding,8
+2024-09-04,02:00:00,Karol Bagh,Deboarding,5
+2024-09-04,02:05:00,Nehru Place,Deboarding,14
+2024-09-04,02:10:00,Delhi University,Deboarding,25
+2024-09-04,02:15:00,Delhi University,Boarding,25
+2024-09-04,02:20:00,Chandni Chowk,Boarding,17
+2024-09-04,02:25:00,Nehru Place,Deboarding,3
+2024-09-04,02:30:00,Gurgaon,Boarding,2
+2024-09-04,02:35:00,Delhi University,Boarding,19
+2024-09-04,02:40:00,Delhi University,Boarding,6
+2024-09-04,02:45:00,Rajiv Chowk,Deboarding,4
+2024-09-04,02:50:00,Chandni Chowk,Deboarding,3
+2024-09-04,02:55:00,Delhi University,Deboarding,26
+2024-09-04,03:00:00,Connaught Place,Deboarding,5
+2024-09-04,03:05:00,Delhi University,Deboarding,15
+2024-09-04,03:10:00,Gurgaon,Boarding,18
+2024-09-04,03:15:00,Nehru Place,Deboarding,24
+2024-09-04,03:20:00,Connaught Place,Deboarding,9
+2024-09-04,03:25:00,Connaught Place,Boarding,19
+2024-09-04,03:30:00,India Gate,Boarding,14
+2024-09-04,03:35:00,Rajiv Chowk,Boarding,18
+2024-09-04,03:40:00,Connaught Place,Boarding,30
+2024-09-04,03:45:00,Nehru Place,Boarding,10
+2024-09-04,03:50:00,Hauz Khas,Boarding,25
+2024-09-04,03:55:00,Karol Bagh,Deboarding,12
+2024-09-04,04:00:00,Hauz Khas,Deboarding,28
+2024-09-04,04:05:00,Hauz Khas,Deboarding,3
+2024-09-04,04:10:00,Delhi University,Boarding,21
+2024-09-04,04:15:00,Rajiv Chowk,Boarding,6
+2024-09-04,04:20:00,Delhi University,Deboarding,17
+2024-09-04,04:25:00,Karol Bagh,Boarding,27
+2024-09-04,04:30:00,Connaught Place,Boarding,10
+2024-09-04,04:35:00,Nehru Place,Deboarding,18
+2024-09-04,04:40:00,Hauz Khas,Boarding,8
+2024-09-04,04:45:00,Nehru Place,Deboarding,5
+2024-09-04,04:50:00,Red Fort,Boarding,30
+2024-09-04,04:55:00,India Gate,Boarding,26
+2024-09-04,05:00:00,Hauz Khas,Boarding,8
+2024-09-04,05:05:00,Chandni Chowk,Boarding,4
+2024-09-04,05:10:00,Gurgaon,Boarding,15
+2024-09-04,05:15:00,Gurgaon,Boarding,8
+2024-09-04,05:20:00,Connaught Place,Deboarding,15
+2024-09-04,05:25:00,Chandni Chowk,Boarding,25
+2024-09-04,05:30:00,Connaught Place,Boarding,17
+2024-09-04,05:35:00,Red Fort,Boarding,27
+2024-09-04,05:40:00,Gurgaon,Deboarding,19
+2024-09-04,05:45:00,Gurgaon,Deboarding,8
+2024-09-04,05:50:00,Red Fort,Boarding,22
+2024-09-04,05:55:00,Delhi University,Boarding,14
+2024-09-04,06:00:00,Red Fort,Deboarding,2
+2024-09-04,06:05:00,Delhi University,Boarding,21
+2024-09-04,06:10:00,Hauz Khas,Deboarding,2
+2024-09-04,06:15:00,Rajiv Chowk,Deboarding,26
+2024-09-04,06:20:00,Delhi University,Deboarding,23
+2024-09-04,06:25:00,Hauz Khas,Deboarding,5
+2024-09-04,06:30:00,Red Fort,Deboarding,6
+2024-09-04,06:35:00,Delhi University,Deboarding,8
+2024-09-04,06:40:00,Chandni Chowk,Deboarding,28
+2024-09-04,06:45:00,Karol Bagh,Deboarding,30
+2024-09-04,06:50:00,Connaught Place,Deboarding,14
+2024-09-04,06:55:00,Delhi University,Boarding,13
+2024-09-04,07:00:00,Chandni Chowk,Deboarding,7
+2024-09-04,07:05:00,Rajiv Chowk,Boarding,30
+2024-09-04,07:10:00,Nehru Place,Deboarding,3
+2024-09-04,07:15:00,Delhi University,Boarding,2
+2024-09-04,07:20:00,Red Fort,Deboarding,22
+2024-09-04,07:25:00,Gurgaon,Boarding,28
+2024-09-04,07:30:00,India Gate,Boarding,26
+2024-09-04,07:35:00,Gurgaon,Boarding,16
+2024-09-04,07:40:00,Chandni Chowk,Deboarding,10
+2024-09-04,07:45:00,Connaught Place,Boarding,30
+2024-09-04,07:50:00,Chandni Chowk,Boarding,24
+2024-09-04,07:55:00,Nehru Place,Boarding,23
+2024-09-04,08:00:00,Gurgaon,Boarding,13
+2024-09-04,08:05:00,Chandni Chowk,Deboarding,25
+2024-09-04,08:10:00,Red Fort,Deboarding,15
+2024-09-04,08:15:00,Delhi University,Deboarding,10
+2024-09-04,08:20:00,Red Fort,Deboarding,17
+2024-09-04,08:25:00,Nehru Place,Deboarding,4
+2024-09-04,08:30:00,Nehru Place,Deboarding,30
+2024-09-04,08:35:00,Chandni Chowk,Deboarding,11
+2024-09-04,08:40:00,Hauz Khas,Boarding,19
+2024-09-04,08:45:00,Chandni Chowk,Boarding,1
+2024-09-04,08:50:00,Red Fort,Deboarding,10
+2024-09-04,08:55:00,Karol Bagh,Boarding,11
+2024-09-04,09:00:00,Chandni Chowk,Deboarding,19
+2024-09-04,09:05:00,Chandni Chowk,Deboarding,18
+2024-09-04,09:10:00,Rajiv Chowk,Deboarding,25
+2024-09-04,09:15:00,Nehru Place,Deboarding,15
+2024-09-04,09:20:00,Karol Bagh,Deboarding,6
+2024-09-04,09:25:00,Karol Bagh,Deboarding,6
+2024-09-04,09:30:00,Delhi University,Boarding,17
+2024-09-04,09:35:00,Connaught Place,Boarding,27
+2024-09-04,09:40:00,Connaught Place,Boarding,14
+2024-09-04,09:45:00,Karol Bagh,Boarding,3
+2024-09-04,09:50:00,Karol Bagh,Boarding,7
+2024-09-04,09:55:00,Delhi University,Deboarding,12
+2024-09-04,10:00:00,Connaught Place,Deboarding,22
+2024-09-04,10:05:00,Nehru Place,Boarding,1
+2024-09-04,10:10:00,Delhi University,Deboarding,1
+2024-09-04,10:15:00,Connaught Place,Deboarding,18
+2024-09-04,10:20:00,Red Fort,Boarding,17
+2024-09-04,10:25:00,Hauz Khas,Boarding,4
+2024-09-04,10:30:00,India Gate,Boarding,8
+2024-09-04,10:35:00,Chandni Chowk,Deboarding,27
+2024-09-04,10:40:00,Rajiv Chowk,Deboarding,26
+2024-09-04,10:45:00,Hauz Khas,Boarding,12
+2024-09-04,10:50:00,Hauz Khas,Deboarding,19
+2024-09-04,10:55:00,Chandni Chowk,Boarding,10
+2024-09-04,11:00:00,India Gate,Boarding,3
+2024-09-04,11:05:00,Hauz Khas,Deboarding,13
+2024-09-04,11:10:00,Delhi University,Deboarding,2
+2024-09-04,11:15:00,Connaught Place,Boarding,3
+2024-09-04,11:20:00,Nehru Place,Deboarding,21
+2024-09-04,11:25:00,Rajiv Chowk,Boarding,29
+2024-09-04,11:30:00,Delhi University,Boarding,8
+2024-09-04,11:35:00,Chandni Chowk,Deboarding,9
+2024-09-04,11:40:00,Connaught Place,Boarding,22
+2024-09-04,11:45:00,Red Fort,Boarding,6
+2024-09-04,11:50:00,Rajiv Chowk,Boarding,7
+2024-09-04,11:55:00,Gurgaon,Boarding,25
+2024-09-04,12:00:00,Hauz Khas,Boarding,10
+2024-09-04,12:05:00,Karol Bagh,Boarding,19
+2024-09-04,12:10:00,Hauz Khas,Deboarding,13
+2024-09-04,12:15:00,Karol Bagh,Boarding,17
+2024-09-04,12:20:00,Rajiv Chowk,Boarding,4
+2024-09-04,12:25:00,Hauz Khas,Boarding,27
+2024-09-04,12:30:00,India Gate,Deboarding,20
+2024-09-04,12:35:00,Gurgaon,Deboarding,25
+2024-09-04,12:40:00,Rajiv Chowk,Boarding,21
+2024-09-04,12:45:00,Red Fort,Deboarding,16
+2024-09-04,12:50:00,Chandni Chowk,Deboarding,18
+2024-09-04,12:55:00,Hauz Khas,Deboarding,6
+2024-09-04,13:00:00,Gurgaon,Deboarding,3
+2024-09-04,13:05:00,Gurgaon,Deboarding,26
+2024-09-04,13:10:00,Chandni Chowk,Boarding,3
+2024-09-04,13:15:00,Red Fort,Boarding,13
+2024-09-04,13:20:00,Karol Bagh,Deboarding,11
+2024-09-04,13:25:00,Rajiv Chowk,Boarding,3
+2024-09-04,13:30:00,Connaught Place,Deboarding,15
+2024-09-04,13:35:00,Rajiv Chowk,Deboarding,4
+2024-09-04,13:40:00,Karol Bagh,Boarding,6
+2024-09-04,13:45:00,Hauz Khas,Deboarding,18
+2024-09-04,13:50:00,Delhi University,Deboarding,4
+2024-09-04,13:55:00,Connaught Place,Boarding,12
+2024-09-04,14:00:00,Delhi University,Boarding,20
+2024-09-04,14:05:00,Gurgaon,Deboarding,28
+2024-09-04,14:10:00,Hauz Khas,Boarding,10
+2024-09-04,14:15:00,Hauz Khas,Deboarding,25
+2024-09-04,14:20:00,India Gate,Boarding,19
+2024-09-04,14:25:00,Delhi University,Boarding,22
+2024-09-04,14:30:00,Hauz Khas,Boarding,5
+2024-09-04,14:35:00,Red Fort,Deboarding,9
+2024-09-04,14:40:00,Nehru Place,Boarding,3
+2024-09-04,14:45:00,Karol Bagh,Deboarding,9
+2024-09-04,14:50:00,Hauz Khas,Deboarding,16
+2024-09-04,14:55:00,India Gate,Deboarding,9
+2024-09-04,15:00:00,Chandni Chowk,Deboarding,20
+2024-09-04,15:05:00,Gurgaon,Boarding,15
+2024-09-04,15:10:00,India Gate,Boarding,10
+2024-09-04,15:15:00,Connaught Place,Deboarding,11
+2024-09-04,15:20:00,Gurgaon,Deboarding,26
+2024-09-04,15:25:00,Rajiv Chowk,Deboarding,11
+2024-09-04,15:30:00,Hauz Khas,Boarding,10
+2024-09-04,15:35:00,Rajiv Chowk,Boarding,16
+2024-09-04,15:40:00,Rajiv Chowk,Boarding,13
+2024-09-04,15:45:00,Rajiv Chowk,Deboarding,24
+2024-09-04,15:50:00,Nehru Place,Boarding,11
+2024-09-04,15:55:00,Hauz Khas,Deboarding,27
+2024-09-04,16:00:00,Hauz Khas,Deboarding,4
+2024-09-04,16:05:00,Gurgaon,Boarding,19
+2024-09-04,16:10:00,Delhi University,Boarding,22
+2024-09-04,16:15:00,Delhi University,Boarding,24
+2024-09-04,16:20:00,Nehru Place,Boarding,15
+2024-09-04,16:25:00,Red Fort,Boarding,27
+2024-09-04,16:30:00,Hauz Khas,Deboarding,5
+2024-09-04,16:35:00,Red Fort,Boarding,9
+2024-09-04,16:40:00,Karol Bagh,Deboarding,26
+2024-09-04,16:45:00,Hauz Khas,Boarding,15
+2024-09-04,16:50:00,Gurgaon,Deboarding,19
+2024-09-04,16:55:00,Hauz Khas,Deboarding,18
+2024-09-04,17:00:00,Connaught Place,Deboarding,23
+2024-09-04,17:05:00,Delhi University,Boarding,4
+2024-09-04,17:10:00,Chandni Chowk,Deboarding,6
+2024-09-04,17:15:00,Gurgaon,Boarding,19
+2024-09-04,17:20:00,Hauz Khas,Deboarding,26
+2024-09-04,17:25:00,Hauz Khas,Boarding,1
+2024-09-04,17:30:00,India Gate,Deboarding,8
+2024-09-04,17:35:00,Delhi University,Boarding,15
+2024-09-04,17:40:00,Rajiv Chowk,Deboarding,15
+2024-09-04,17:45:00,Gurgaon,Boarding,12
+2024-09-04,17:50:00,Connaught Place,Deboarding,4
+2024-09-04,17:55:00,Red Fort,Deboarding,30
+2024-09-04,18:00:00,India Gate,Boarding,27
+2024-09-04,18:05:00,Karol Bagh,Deboarding,10
+2024-09-04,18:10:00,Rajiv Chowk,Deboarding,26
+2024-09-04,18:15:00,Chandni Chowk,Deboarding,12
+2024-09-04,18:20:00,Nehru Place,Boarding,15
+2024-09-04,18:25:00,Nehru Place,Deboarding,3
+2024-09-04,18:30:00,Red Fort,Boarding,26
+2024-09-04,18:35:00,India Gate,Boarding,28
+2024-09-04,18:40:00,Rajiv Chowk,Boarding,22
+2024-09-04,18:45:00,Karol Bagh,Boarding,17
+2024-09-04,18:50:00,Karol Bagh,Boarding,11
+2024-09-04,18:55:00,Delhi University,Deboarding,15
+2024-09-04,19:00:00,Chandni Chowk,Deboarding,21
+2024-09-04,19:05:00,Karol Bagh,Boarding,21
+2024-09-04,19:10:00,Hauz Khas,Deboarding,1
+2024-09-04,19:15:00,Gurgaon,Boarding,15
+2024-09-04,19:20:00,Gurgaon,Deboarding,13
+2024-09-04,19:25:00,Connaught Place,Boarding,7
+2024-09-04,19:30:00,Red Fort,Boarding,19
+2024-09-04,19:35:00,India Gate,Boarding,12
+2024-09-04,19:40:00,Rajiv Chowk,Boarding,15
+2024-09-04,19:45:00,India Gate,Deboarding,22
+2024-09-04,19:50:00,Nehru Place,Deboarding,20
+2024-09-04,19:55:00,Hauz Khas,Deboarding,19
+2024-09-04,20:00:00,India Gate,Deboarding,12
+2024-09-04,20:05:00,Nehru Place,Boarding,27
+2024-09-04,20:10:00,Red Fort,Boarding,22
+2024-09-04,20:15:00,Karol Bagh,Deboarding,4
+2024-09-04,20:20:00,Chandni Chowk,Deboarding,4
+2024-09-04,20:25:00,Karol Bagh,Deboarding,23
+2024-09-04,20:30:00,Karol Bagh,Deboarding,14
+2024-09-04,20:35:00,Gurgaon,Boarding,19
+2024-09-04,20:40:00,Hauz Khas,Deboarding,6
+2024-09-04,20:45:00,Nehru Place,Boarding,18
+2024-09-04,20:50:00,Karol Bagh,Deboarding,10
+2024-09-04,20:55:00,Karol Bagh,Boarding,11
+2024-09-04,21:00:00,Nehru Place,Boarding,28
+2024-09-04,21:05:00,Rajiv Chowk,Boarding,16
+2024-09-04,21:10:00,Karol Bagh,Boarding,27
+2024-09-04,21:15:00,Hauz Khas,Deboarding,14
+2024-09-04,21:20:00,Nehru Place,Deboarding,23
+2024-09-04,21:25:00,Nehru Place,Deboarding,6
+2024-09-04,21:30:00,India Gate,Boarding,26
+2024-09-04,21:35:00,Chandni Chowk,Deboarding,2
+2024-09-04,21:40:00,Red Fort,Boarding,18
+2024-09-04,21:45:00,Red Fort,Boarding,25
+2024-09-04,21:50:00,Nehru Place,Deboarding,18
+2024-09-04,21:55:00,Delhi University,Boarding,19
+2024-09-04,22:00:00,India Gate,Deboarding,25
+2024-09-04,22:05:00,Delhi University,Deboarding,18
+2024-09-04,22:10:00,Connaught Place,Deboarding,18
+2024-09-04,22:15:00,Chandni Chowk,Deboarding,4
+2024-09-04,22:20:00,Chandni Chowk,Deboarding,28
+2024-09-04,22:25:00,Connaught Place,Deboarding,9
+2024-09-04,22:30:00,Rajiv Chowk,Boarding,15
+2024-09-04,22:35:00,India Gate,Boarding,7
+2024-09-04,22:40:00,Gurgaon,Deboarding,28
+2024-09-04,22:45:00,Gurgaon,Deboarding,6
+2024-09-04,22:50:00,Gurgaon,Boarding,26
+2024-09-04,22:55:00,Chandni Chowk,Boarding,26
+2024-09-04,23:00:00,Connaught Place,Deboarding,18
+2024-09-04,23:05:00,Red Fort,Boarding,11
+2024-09-04,23:10:00,Red Fort,Deboarding,19
+2024-09-04,23:15:00,Red Fort,Boarding,5
+2024-09-04,23:20:00,Hauz Khas,Boarding,9
+2024-09-04,23:25:00,Karol Bagh,Boarding,8
+2024-09-04,23:30:00,Karol Bagh,Deboarding,27
+2024-09-04,23:35:00,Chandni Chowk,Deboarding,16
+2024-09-04,23:40:00,Karol Bagh,Deboarding,21
+2024-09-04,23:45:00,Hauz Khas,Deboarding,15
+2024-09-04,23:50:00,India Gate,Boarding,13
+2024-09-04,23:55:00,Delhi University,Deboarding,23
+2024-09-05,00:00:00,Rajiv Chowk,Deboarding,16
+2024-09-05,00:05:00,Rajiv Chowk,Boarding,28
+2024-09-05,00:10:00,India Gate,Deboarding,21
+2024-09-05,00:15:00,Rajiv Chowk,Boarding,26
+2024-09-05,00:20:00,Delhi University,Deboarding,7
+2024-09-05,00:25:00,Hauz Khas,Boarding,16
+2024-09-05,00:30:00,Red Fort,Deboarding,27
+2024-09-05,00:35:00,Red Fort,Deboarding,18
+2024-09-05,00:40:00,Gurgaon,Boarding,19
+2024-09-05,00:45:00,Nehru Place,Deboarding,29
+2024-09-05,00:50:00,Connaught Place,Boarding,4
+2024-09-05,00:55:00,Nehru Place,Boarding,4
+2024-09-05,01:00:00,Karol Bagh,Deboarding,15
+2024-09-05,01:05:00,Connaught Place,Deboarding,7
+2024-09-05,01:10:00,Karol Bagh,Deboarding,6
+2024-09-05,01:15:00,Red Fort,Boarding,21
+2024-09-05,01:20:00,Rajiv Chowk,Deboarding,3
+2024-09-05,01:25:00,Rajiv Chowk,Boarding,2
+2024-09-05,01:30:00,Hauz Khas,Deboarding,24
+2024-09-05,01:35:00,Chandni Chowk,Deboarding,21
+2024-09-05,01:40:00,India Gate,Boarding,1
+2024-09-05,01:45:00,Chandni Chowk,Deboarding,3
+2024-09-05,01:50:00,Karol Bagh,Boarding,17
+2024-09-05,01:55:00,Nehru Place,Boarding,1
+2024-09-05,02:00:00,Rajiv Chowk,Boarding,28
+2024-09-05,02:05:00,Hauz Khas,Boarding,16
+2024-09-05,02:10:00,India Gate,Boarding,13
+2024-09-05,02:15:00,India Gate,Boarding,4
+2024-09-05,02:20:00,Rajiv Chowk,Deboarding,29
+2024-09-05,02:25:00,Red Fort,Boarding,13
+2024-09-05,02:30:00,Karol Bagh,Boarding,3
+2024-09-05,02:35:00,Delhi University,Boarding,20
+2024-09-05,02:40:00,Karol Bagh,Deboarding,12
+2024-09-05,02:45:00,Chandni Chowk,Boarding,30
+2024-09-05,02:50:00,Hauz Khas,Deboarding,28
+2024-09-05,02:55:00,Chandni Chowk,Boarding,29
+2024-09-05,03:00:00,India Gate,Boarding,25
+2024-09-05,03:05:00,India Gate,Deboarding,12
+2024-09-05,03:10:00,Hauz Khas,Deboarding,26
+2024-09-05,03:15:00,Karol Bagh,Boarding,9
+2024-09-05,03:20:00,India Gate,Boarding,18
+2024-09-05,03:25:00,Gurgaon,Deboarding,25
+2024-09-05,03:30:00,Connaught Place,Deboarding,7
+2024-09-05,03:35:00,Delhi University,Boarding,24
+2024-09-05,03:40:00,Hauz Khas,Deboarding,21
+2024-09-05,03:45:00,Connaught Place,Boarding,16
+2024-09-05,03:50:00,Hauz Khas,Boarding,8
+2024-09-05,03:55:00,Nehru Place,Boarding,17
+2024-09-05,04:00:00,Connaught Place,Deboarding,30
+2024-09-05,04:05:00,Rajiv Chowk,Boarding,13
+2024-09-05,04:10:00,Gurgaon,Deboarding,12
+2024-09-05,04:15:00,Delhi University,Boarding,25
+2024-09-05,04:20:00,Nehru Place,Boarding,1
+2024-09-05,04:25:00,Gurgaon,Boarding,1
+2024-09-05,04:30:00,Red Fort,Boarding,2
+2024-09-05,04:35:00,Connaught Place,Deboarding,17
+2024-09-05,04:40:00,Red Fort,Deboarding,14
+2024-09-05,04:45:00,Hauz Khas,Boarding,21
+2024-09-05,04:50:00,Delhi University,Boarding,9
+2024-09-05,04:55:00,India Gate,Deboarding,3
+2024-09-05,05:00:00,Delhi University,Boarding,26
+2024-09-05,05:05:00,Karol Bagh,Deboarding,13
+2024-09-05,05:10:00,Gurgaon,Boarding,10
+2024-09-05,05:15:00,Hauz Khas,Boarding,2
+2024-09-05,05:20:00,Chandni Chowk,Boarding,30
+2024-09-05,05:25:00,Hauz Khas,Boarding,15
+2024-09-05,05:30:00,Gurgaon,Boarding,10
+2024-09-05,05:35:00,Karol Bagh,Boarding,1
+2024-09-05,05:40:00,Karol Bagh,Boarding,6
+2024-09-05,05:45:00,Nehru Place,Deboarding,17
+2024-09-05,05:50:00,Delhi University,Deboarding,6
+2024-09-05,05:55:00,Rajiv Chowk,Boarding,24
+2024-09-05,06:00:00,Red Fort,Boarding,25
+2024-09-05,06:05:00,Connaught Place,Deboarding,26
+2024-09-05,06:10:00,Hauz Khas,Deboarding,17
+2024-09-05,06:15:00,India Gate,Deboarding,23
+2024-09-05,06:20:00,Gurgaon,Boarding,16
+2024-09-05,06:25:00,Nehru Place,Deboarding,2
+2024-09-05,06:30:00,Nehru Place,Boarding,12
+2024-09-05,06:35:00,Karol Bagh,Deboarding,25
+2024-09-05,06:40:00,India Gate,Boarding,8
+2024-09-05,06:45:00,Delhi University,Boarding,2
+2024-09-05,06:50:00,Connaught Place,Boarding,2
+2024-09-05,06:55:00,Nehru Place,Deboarding,13
+2024-09-05,07:00:00,Karol Bagh,Boarding,30
+2024-09-05,07:05:00,Connaught Place,Deboarding,8
+2024-09-05,07:10:00,Rajiv Chowk,Boarding,14
+2024-09-05,07:15:00,Rajiv Chowk,Deboarding,27
+2024-09-05,07:20:00,India Gate,Deboarding,4
+2024-09-05,07:25:00,Delhi University,Boarding,6
+2024-09-05,07:30:00,Chandni Chowk,Boarding,13
+2024-09-05,07:35:00,India Gate,Deboarding,28
+2024-09-05,07:40:00,Red Fort,Deboarding,11
+2024-09-05,07:45:00,India Gate,Deboarding,1
+2024-09-05,07:50:00,Rajiv Chowk,Boarding,10
+2024-09-05,07:55:00,Gurgaon,Deboarding,24
+2024-09-05,08:00:00,Gurgaon,Boarding,15
+2024-09-05,08:05:00,Rajiv Chowk,Deboarding,25
+2024-09-05,08:10:00,Chandni Chowk,Boarding,5
+2024-09-05,08:15:00,Connaught Place,Deboarding,1
+2024-09-05,08:20:00,Chandni Chowk,Deboarding,21
+2024-09-05,08:25:00,Connaught Place,Deboarding,1
+2024-09-05,08:30:00,Hauz Khas,Deboarding,4
+2024-09-05,08:35:00,Chandni Chowk,Boarding,14
+2024-09-05,08:40:00,Nehru Place,Boarding,5
+2024-09-05,08:45:00,Red Fort,Boarding,2
+2024-09-05,08:50:00,Chandni Chowk,Deboarding,23
+2024-09-05,08:55:00,Rajiv Chowk,Deboarding,24
+2024-09-05,09:00:00,India Gate,Boarding,17
+2024-09-05,09:05:00,Karol Bagh,Deboarding,3
+2024-09-05,09:10:00,Gurgaon,Boarding,14
+2024-09-05,09:15:00,Karol Bagh,Boarding,10
+2024-09-05,09:20:00,Red Fort,Deboarding,30
+2024-09-05,09:25:00,Hauz Khas,Deboarding,11
+2024-09-05,09:30:00,Nehru Place,Deboarding,8
+2024-09-05,09:35:00,India Gate,Boarding,5
+2024-09-05,09:40:00,Gurgaon,Boarding,5
+2024-09-05,09:45:00,India Gate,Boarding,15
+2024-09-05,09:50:00,Nehru Place,Deboarding,14
+2024-09-05,09:55:00,India Gate,Deboarding,25
+2024-09-05,10:00:00,Chandni Chowk,Deboarding,10
+2024-09-05,10:05:00,Nehru Place,Deboarding,28
+2024-09-05,10:10:00,India Gate,Boarding,6
+2024-09-05,10:15:00,Red Fort,Boarding,7
+2024-09-05,10:20:00,Rajiv Chowk,Boarding,3
+2024-09-05,10:25:00,Chandni Chowk,Deboarding,13
+2024-09-05,10:30:00,Delhi University,Boarding,22
+2024-09-05,10:35:00,Red Fort,Deboarding,27
+2024-09-05,10:40:00,Karol Bagh,Boarding,13
+2024-09-05,10:45:00,Nehru Place,Boarding,4
+2024-09-05,10:50:00,Nehru Place,Boarding,26
+2024-09-05,10:55:00,Karol Bagh,Boarding,1
+2024-09-05,11:00:00,Connaught Place,Boarding,5
+2024-09-05,11:05:00,Chandni Chowk,Deboarding,12
+2024-09-05,11:10:00,India Gate,Deboarding,30
+2024-09-05,11:15:00,India Gate,Boarding,3
+2024-09-05,11:20:00,Chandni Chowk,Deboarding,26
+2024-09-05,11:25:00,Karol Bagh,Boarding,29
+2024-09-05,11:30:00,Rajiv Chowk,Boarding,2
+2024-09-05,11:35:00,Nehru Place,Boarding,6
+2024-09-05,11:40:00,Gurgaon,Deboarding,27
+2024-09-05,11:45:00,Hauz Khas,Deboarding,1
+2024-09-05,11:50:00,Hauz Khas,Deboarding,6
+2024-09-05,11:55:00,Rajiv Chowk,Boarding,30
+2024-09-05,12:00:00,Karol Bagh,Deboarding,9
+2024-09-05,12:05:00,Nehru Place,Boarding,2
+2024-09-05,12:10:00,Gurgaon,Boarding,21
+2024-09-05,12:15:00,Red Fort,Deboarding,14
+2024-09-05,12:20:00,Delhi University,Deboarding,2
+2024-09-05,12:25:00,India Gate,Deboarding,13
+2024-09-05,12:30:00,Karol Bagh,Deboarding,7
+2024-09-05,12:35:00,Delhi University,Boarding,21
+2024-09-05,12:40:00,Delhi University,Boarding,13
+2024-09-05,12:45:00,Rajiv Chowk,Deboarding,18
+2024-09-05,12:50:00,Nehru Place,Deboarding,30
+2024-09-05,12:55:00,Gurgaon,Deboarding,13
+2024-09-05,13:00:00,Red Fort,Boarding,1
+2024-09-05,13:05:00,Rajiv Chowk,Boarding,1
+2024-09-05,13:10:00,Red Fort,Boarding,26
+2024-09-05,13:15:00,Nehru Place,Deboarding,25
+2024-09-05,13:20:00,Gurgaon,Boarding,6
+2024-09-05,13:25:00,India Gate,Boarding,22
+2024-09-05,13:30:00,Chandni Chowk,Deboarding,18
+2024-09-05,13:35:00,Connaught Place,Boarding,19
+2024-09-05,13:40:00,Hauz Khas,Deboarding,30
+2024-09-05,13:45:00,Karol Bagh,Boarding,8
+2024-09-05,13:50:00,Gurgaon,Deboarding,26
+2024-09-05,13:55:00,Rajiv Chowk,Boarding,23
+2024-09-05,14:00:00,Rajiv Chowk,Boarding,19
+2024-09-05,14:05:00,Chandni Chowk,Deboarding,18
+2024-09-05,14:10:00,Red Fort,Boarding,16
+2024-09-05,14:15:00,Connaught Place,Boarding,2
+2024-09-05,14:20:00,Chandni Chowk,Boarding,1
+2024-09-05,14:25:00,Delhi University,Deboarding,1
+2024-09-05,14:30:00,Rajiv Chowk,Boarding,26
+2024-09-05,14:35:00,Karol Bagh,Deboarding,23
+2024-09-05,14:40:00,Karol Bagh,Deboarding,2
+2024-09-05,14:45:00,Connaught Place,Boarding,19
+2024-09-05,14:50:00,Karol Bagh,Boarding,28
+2024-09-05,14:55:00,Delhi University,Deboarding,3
+2024-09-05,15:00:00,Rajiv Chowk,Deboarding,19
+2024-09-05,15:05:00,India Gate,Deboarding,10
+2024-09-05,15:10:00,Rajiv Chowk,Boarding,6
+2024-09-05,15:15:00,Hauz Khas,Deboarding,21
+2024-09-05,15:20:00,Rajiv Chowk,Boarding,23
+2024-09-05,15:25:00,Delhi University,Deboarding,8
+2024-09-05,15:30:00,Gurgaon,Boarding,13
+2024-09-05,15:35:00,Red Fort,Deboarding,5
+2024-09-05,15:40:00,Karol Bagh,Boarding,23
+2024-09-05,15:45:00,Gurgaon,Deboarding,28
+2024-09-05,15:50:00,Gurgaon,Boarding,6
+2024-09-05,15:55:00,Gurgaon,Deboarding,30
+2024-09-05,16:00:00,Gurgaon,Boarding,21
+2024-09-05,16:05:00,Gurgaon,Boarding,30
+2024-09-05,16:10:00,Nehru Place,Boarding,11
+2024-09-05,16:15:00,India Gate,Boarding,12
+2024-09-05,16:20:00,Rajiv Chowk,Boarding,21
+2024-09-05,16:25:00,India Gate,Deboarding,15
+2024-09-05,16:30:00,Connaught Place,Deboarding,7
+2024-09-05,16:35:00,Chandni Chowk,Boarding,12
+2024-09-05,16:40:00,Red Fort,Boarding,24
+2024-09-05,16:45:00,Connaught Place,Boarding,13
+2024-09-05,16:50:00,Nehru Place,Deboarding,6
+2024-09-05,16:55:00,Hauz Khas,Deboarding,29
+2024-09-05,17:00:00,Hauz Khas,Deboarding,18
+2024-09-05,17:05:00,Hauz Khas,Boarding,27
+2024-09-05,17:10:00,Nehru Place,Boarding,6
+2024-09-05,17:15:00,Nehru Place,Boarding,26
+2024-09-05,17:20:00,Connaught Place,Deboarding,1
+2024-09-05,17:25:00,Rajiv Chowk,Deboarding,4
+2024-09-05,17:30:00,India Gate,Deboarding,6
+2024-09-05,17:35:00,Hauz Khas,Boarding,24
+2024-09-05,17:40:00,India Gate,Boarding,11
+2024-09-05,17:45:00,Gurgaon,Deboarding,23
+2024-09-05,17:50:00,Connaught Place,Deboarding,21
+2024-09-05,17:55:00,Karol Bagh,Deboarding,6
+2024-09-05,18:00:00,Connaught Place,Boarding,11
+2024-09-05,18:05:00,Chandni Chowk,Boarding,14
+2024-09-05,18:10:00,Delhi University,Deboarding,22
+2024-09-05,18:15:00,Red Fort,Deboarding,8
+2024-09-05,18:20:00,India Gate,Boarding,13
+2024-09-05,18:25:00,Gurgaon,Deboarding,5
+2024-09-05,18:30:00,Connaught Place,Deboarding,1
+2024-09-05,18:35:00,Hauz Khas,Boarding,10
+2024-09-05,18:40:00,Gurgaon,Deboarding,7
+2024-09-05,18:45:00,India Gate,Boarding,7
+2024-09-05,18:50:00,Karol Bagh,Deboarding,3
+2024-09-05,18:55:00,Nehru Place,Boarding,10
+2024-09-05,19:00:00,Hauz Khas,Deboarding,16
+2024-09-05,19:05:00,Red Fort,Boarding,21
+2024-09-05,19:10:00,Delhi University,Deboarding,6
+2024-09-05,19:15:00,Rajiv Chowk,Deboarding,12
+2024-09-05,19:20:00,Karol Bagh,Deboarding,2
+2024-09-05,19:25:00,Red Fort,Deboarding,15
+2024-09-05,19:30:00,Red Fort,Boarding,27
+2024-09-05,19:35:00,Red Fort,Boarding,5
+2024-09-05,19:40:00,India Gate,Boarding,22
+2024-09-05,19:45:00,Rajiv Chowk,Deboarding,25
+2024-09-05,19:50:00,Gurgaon,Boarding,18
+2024-09-05,19:55:00,Connaught Place,Deboarding,27
+2024-09-05,20:00:00,Delhi University,Deboarding,18
+2024-09-05,20:05:00,Nehru Place,Boarding,16
+2024-09-05,20:10:00,Red Fort,Boarding,13
+2024-09-05,20:15:00,Connaught Place,Boarding,4
+2024-09-05,20:20:00,Nehru Place,Boarding,6
+2024-09-05,20:25:00,Chandni Chowk,Boarding,5
+2024-09-05,20:30:00,Connaught Place,Deboarding,3
+2024-09-05,20:35:00,Hauz Khas,Boarding,27
+2024-09-05,20:40:00,Karol Bagh,Deboarding,11
+2024-09-05,20:45:00,India Gate,Boarding,13
+2024-09-05,20:50:00,Delhi University,Deboarding,18
+2024-09-05,20:55:00,Rajiv Chowk,Deboarding,17
+2024-09-05,21:00:00,Nehru Place,Boarding,26
+2024-09-05,21:05:00,Gurgaon,Deboarding,4
+2024-09-05,21:10:00,Hauz Khas,Boarding,5
+2024-09-05,21:15:00,Gurgaon,Boarding,30
+2024-09-05,21:20:00,India Gate,Boarding,26
+2024-09-05,21:25:00,Red Fort,Deboarding,29
+2024-09-05,21:30:00,Hauz Khas,Deboarding,13
+2024-09-05,21:35:00,Nehru Place,Deboarding,2
+2024-09-05,21:40:00,Karol Bagh,Deboarding,13
+2024-09-05,21:45:00,Karol Bagh,Deboarding,2
+2024-09-05,21:50:00,Hauz Khas,Deboarding,23
+2024-09-05,21:55:00,Chandni Chowk,Boarding,24
+2024-09-05,22:00:00,Nehru Place,Deboarding,29
+2024-09-05,22:05:00,Rajiv Chowk,Boarding,11
+2024-09-05,22:10:00,Red Fort,Deboarding,9
+2024-09-05,22:15:00,Nehru Place,Boarding,28
+2024-09-05,22:20:00,Chandni Chowk,Boarding,10
+2024-09-05,22:25:00,Nehru Place,Deboarding,9
+2024-09-05,22:30:00,Hauz Khas,Boarding,7
+2024-09-05,22:35:00,Nehru Place,Boarding,30
+2024-09-05,22:40:00,Hauz Khas,Deboarding,25
+2024-09-05,22:45:00,Delhi University,Deboarding,27
+2024-09-05,22:50:00,Connaught Place,Boarding,3
+2024-09-05,22:55:00,Red Fort,Deboarding,5
+2024-09-05,23:00:00,Delhi University,Boarding,6
+2024-09-05,23:05:00,Chandni Chowk,Boarding,27
+2024-09-05,23:10:00,Connaught Place,Boarding,2
+2024-09-05,23:15:00,Nehru Place,Boarding,30
+2024-09-05,23:20:00,Rajiv Chowk,Boarding,9
+2024-09-05,23:25:00,Rajiv Chowk,Deboarding,17
+2024-09-05,23:30:00,Hauz Khas,Boarding,22
+2024-09-05,23:35:00,Connaught Place,Boarding,12
+2024-09-05,23:40:00,Nehru Place,Deboarding,6
+2024-09-05,23:45:00,Nehru Place,Deboarding,12
+2024-09-05,23:50:00,Karol Bagh,Deboarding,24
+2024-09-05,23:55:00,India Gate,Deboarding,1
+2024-09-06,00:00:00,Hauz Khas,Boarding,6
+2024-09-06,00:05:00,Gurgaon,Boarding,28
+2024-09-06,00:10:00,Chandni Chowk,Boarding,22
+2024-09-06,00:15:00,Chandni Chowk,Deboarding,21
+2024-09-06,00:20:00,Hauz Khas,Boarding,28
+2024-09-06,00:25:00,Connaught Place,Deboarding,30
+2024-09-06,00:30:00,Karol Bagh,Boarding,20
+2024-09-06,00:35:00,Connaught Place,Boarding,9
+2024-09-06,00:40:00,Gurgaon,Deboarding,23
+2024-09-06,00:45:00,Red Fort,Deboarding,29
+2024-09-06,00:50:00,Hauz Khas,Deboarding,15
+2024-09-06,00:55:00,Red Fort,Boarding,15
+2024-09-06,01:00:00,Red Fort,Deboarding,19
+2024-09-06,01:05:00,India Gate,Boarding,17
+2024-09-06,01:10:00,Rajiv Chowk,Deboarding,10
+2024-09-06,01:15:00,India Gate,Deboarding,3
+2024-09-06,01:20:00,Rajiv Chowk,Deboarding,21
+2024-09-06,01:25:00,Rajiv Chowk,Deboarding,9
+2024-09-06,01:30:00,Red Fort,Boarding,5
+2024-09-06,01:35:00,Delhi University,Boarding,29
+2024-09-06,01:40:00,Connaught Place,Deboarding,22
+2024-09-06,01:45:00,Rajiv Chowk,Boarding,24
+2024-09-06,01:50:00,Connaught Place,Deboarding,10
+2024-09-06,01:55:00,Red Fort,Deboarding,13
+2024-09-06,02:00:00,Hauz Khas,Boarding,19
+2024-09-06,02:05:00,Gurgaon,Boarding,11
+2024-09-06,02:10:00,Chandni Chowk,Deboarding,30
+2024-09-06,02:15:00,Rajiv Chowk,Deboarding,28
+2024-09-06,02:20:00,Karol Bagh,Boarding,10
+2024-09-06,02:25:00,India Gate,Deboarding,5
+2024-09-06,02:30:00,Red Fort,Boarding,22
+2024-09-06,02:35:00,Rajiv Chowk,Boarding,8
+2024-09-06,02:40:00,Rajiv Chowk,Boarding,24
+2024-09-06,02:45:00,Red Fort,Deboarding,26
+2024-09-06,02:50:00,Rajiv Chowk,Deboarding,9
+2024-09-06,02:55:00,Gurgaon,Deboarding,15
+2024-09-06,03:00:00,India Gate,Deboarding,2
+2024-09-06,03:05:00,Gurgaon,Boarding,16
+2024-09-06,03:10:00,Chandni Chowk,Boarding,28
+2024-09-06,03:15:00,Hauz Khas,Deboarding,14
+2024-09-06,03:20:00,Connaught Place,Boarding,5
+2024-09-06,03:25:00,Chandni Chowk,Deboarding,14
+2024-09-06,03:30:00,Gurgaon,Deboarding,5
+2024-09-06,03:35:00,Rajiv Chowk,Boarding,25
+2024-09-06,03:40:00,India Gate,Deboarding,11
+2024-09-06,03:45:00,Karol Bagh,Deboarding,21
+2024-09-06,03:50:00,Connaught Place,Boarding,15
+2024-09-06,03:55:00,Red Fort,Boarding,25
+2024-09-06,04:00:00,Karol Bagh,Boarding,16
+2024-09-06,04:05:00,India Gate,Boarding,20
+2024-09-06,04:10:00,Hauz Khas,Deboarding,13
+2024-09-06,04:15:00,Hauz Khas,Deboarding,13
+2024-09-06,04:20:00,Connaught Place,Boarding,18
+2024-09-06,04:25:00,Chandni Chowk,Deboarding,1
+2024-09-06,04:30:00,Rajiv Chowk,Boarding,1
+2024-09-06,04:35:00,Connaught Place,Boarding,8
+2024-09-06,04:40:00,Rajiv Chowk,Deboarding,5
+2024-09-06,04:45:00,India Gate,Deboarding,17
+2024-09-06,04:50:00,Gurgaon,Deboarding,6
+2024-09-06,04:55:00,India Gate,Boarding,10
+2024-09-06,05:00:00,Red Fort,Deboarding,24
+2024-09-06,05:05:00,Delhi University,Deboarding,14
+2024-09-06,05:10:00,Karol Bagh,Deboarding,29
+2024-09-06,05:15:00,Nehru Place,Deboarding,25
+2024-09-06,05:20:00,Chandni Chowk,Boarding,30
+2024-09-06,05:25:00,Hauz Khas,Boarding,8
+2024-09-06,05:30:00,Chandni Chowk,Boarding,7
+2024-09-06,05:35:00,Connaught Place,Boarding,4
+2024-09-06,05:40:00,Rajiv Chowk,Boarding,13
+2024-09-06,05:45:00,Red Fort,Boarding,20
+2024-09-06,05:50:00,Connaught Place,Boarding,21
+2024-09-06,05:55:00,Connaught Place,Boarding,23
+2024-09-06,06:00:00,India Gate,Deboarding,15
+2024-09-06,06:05:00,Hauz Khas,Boarding,18
+2024-09-06,06:10:00,Red Fort,Deboarding,23
+2024-09-06,06:15:00,Karol Bagh,Boarding,23
+2024-09-06,06:20:00,Connaught Place,Deboarding,14
+2024-09-06,06:25:00,India Gate,Deboarding,20
+2024-09-06,06:30:00,Gurgaon,Boarding,14
+2024-09-06,06:35:00,India Gate,Boarding,10
+2024-09-06,06:40:00,India Gate,Boarding,16
+2024-09-06,06:45:00,Chandni Chowk,Boarding,25
+2024-09-06,06:50:00,Red Fort,Boarding,12
+2024-09-06,06:55:00,Hauz Khas,Deboarding,6
+2024-09-06,07:00:00,Connaught Place,Deboarding,30
+2024-09-06,07:05:00,Chandni Chowk,Deboarding,11
+2024-09-06,07:10:00,Chandni Chowk,Boarding,1
+2024-09-06,07:15:00,India Gate,Boarding,27
+2024-09-06,07:20:00,Gurgaon,Deboarding,5
+2024-09-06,07:25:00,India Gate,Boarding,24
+2024-09-06,07:30:00,India Gate,Deboarding,21
+2024-09-06,07:35:00,Chandni Chowk,Deboarding,10
+2024-09-06,07:40:00,Red Fort,Deboarding,2
+2024-09-06,07:45:00,India Gate,Boarding,28
+2024-09-06,07:50:00,Connaught Place,Deboarding,12
+2024-09-06,07:55:00,Rajiv Chowk,Deboarding,24
+2024-09-06,08:00:00,India Gate,Boarding,28
+2024-09-06,08:05:00,Connaught Place,Boarding,28
+2024-09-06,08:10:00,Karol Bagh,Boarding,11
+2024-09-06,08:15:00,Rajiv Chowk,Deboarding,20
+2024-09-06,08:20:00,Red Fort,Boarding,12
+2024-09-06,08:25:00,Rajiv Chowk,Boarding,4
+2024-09-06,08:30:00,Hauz Khas,Deboarding,15
+2024-09-06,08:35:00,Red Fort,Deboarding,23
+2024-09-06,08:40:00,Nehru Place,Deboarding,21
+2024-09-06,08:45:00,Karol Bagh,Boarding,5
+2024-09-06,08:50:00,Connaught Place,Boarding,4
+2024-09-06,08:55:00,Hauz Khas,Deboarding,26
+2024-09-06,09:00:00,Gurgaon,Deboarding,6
+2024-09-06,09:05:00,Gurgaon,Deboarding,25
+2024-09-06,09:10:00,Rajiv Chowk,Boarding,28
+2024-09-06,09:15:00,Karol Bagh,Deboarding,30
+2024-09-06,09:20:00,Nehru Place,Boarding,29
+2024-09-06,09:25:00,Hauz Khas,Deboarding,2
+2024-09-06,09:30:00,India Gate,Deboarding,21
+2024-09-06,09:35:00,Rajiv Chowk,Boarding,23
+2024-09-06,09:40:00,Delhi University,Boarding,22
+2024-09-06,09:45:00,Rajiv Chowk,Boarding,14
+2024-09-06,09:50:00,Chandni Chowk,Deboarding,12
+2024-09-06,09:55:00,Hauz Khas,Boarding,27
+2024-09-06,10:00:00,Delhi University,Boarding,1
+2024-09-06,10:05:00,Karol Bagh,Deboarding,28
+2024-09-06,10:10:00,Nehru Place,Boarding,3
+2024-09-06,10:15:00,Nehru Place,Deboarding,8
+2024-09-06,10:20:00,Rajiv Chowk,Deboarding,2
+2024-09-06,10:25:00,Delhi University,Boarding,18
+2024-09-06,10:30:00,Hauz Khas,Deboarding,27
+2024-09-06,10:35:00,Chandni Chowk,Boarding,15
+2024-09-06,10:40:00,Nehru Place,Deboarding,3
+2024-09-06,10:45:00,Nehru Place,Deboarding,11
+2024-09-06,10:50:00,India Gate,Deboarding,24
+2024-09-06,10:55:00,Connaught Place,Boarding,13
+2024-09-06,11:00:00,Hauz Khas,Boarding,18
+2024-09-06,11:05:00,Delhi University,Boarding,27
+2024-09-06,11:10:00,India Gate,Deboarding,29
+2024-09-06,11:15:00,Delhi University,Boarding,21
+2024-09-06,11:20:00,Nehru Place,Deboarding,12
+2024-09-06,11:25:00,Connaught Place,Boarding,28
+2024-09-06,11:30:00,Nehru Place,Deboarding,18
+2024-09-06,11:35:00,Gurgaon,Deboarding,23
+2024-09-06,11:40:00,Rajiv Chowk,Deboarding,4
+2024-09-06,11:45:00,India Gate,Boarding,1
+2024-09-06,11:50:00,Rajiv Chowk,Deboarding,27
+2024-09-06,11:55:00,Red Fort,Deboarding,23
+2024-09-06,12:00:00,India Gate,Boarding,29
+2024-09-06,12:05:00,Karol Bagh,Deboarding,5
+2024-09-06,12:10:00,Hauz Khas,Boarding,9
+2024-09-06,12:15:00,Gurgaon,Boarding,7
+2024-09-06,12:20:00,India Gate,Deboarding,7
+2024-09-06,12:25:00,Nehru Place,Boarding,23
+2024-09-06,12:30:00,Rajiv Chowk,Boarding,25
+2024-09-06,12:35:00,Hauz Khas,Boarding,30
+2024-09-06,12:40:00,Gurgaon,Boarding,25
+2024-09-06,12:45:00,Nehru Place,Deboarding,22
+2024-09-06,12:50:00,Gurgaon,Boarding,16
+2024-09-06,12:55:00,Connaught Place,Boarding,18
+2024-09-06,13:00:00,Hauz Khas,Deboarding,30
+2024-09-06,13:05:00,Delhi University,Boarding,23
+2024-09-06,13:10:00,Gurgaon,Boarding,24
+2024-09-06,13:15:00,Karol Bagh,Boarding,13
+2024-09-06,13:20:00,Gurgaon,Deboarding,17
+2024-09-06,13:25:00,Hauz Khas,Deboarding,20
+2024-09-06,13:30:00,Chandni Chowk,Deboarding,13
+2024-09-06,13:35:00,Rajiv Chowk,Deboarding,15
+2024-09-06,13:40:00,Karol Bagh,Boarding,14
+2024-09-06,13:45:00,Gurgaon,Deboarding,27
+2024-09-06,13:50:00,Delhi University,Deboarding,23
+2024-09-06,13:55:00,Delhi University,Boarding,7
+2024-09-06,14:00:00,Chandni Chowk,Deboarding,22
+2024-09-06,14:05:00,Rajiv Chowk,Boarding,23
+2024-09-06,14:10:00,Karol Bagh,Deboarding,23
+2024-09-06,14:15:00,India Gate,Deboarding,18
+2024-09-06,14:20:00,Nehru Place,Deboarding,22
+2024-09-06,14:25:00,Delhi University,Deboarding,29
+2024-09-06,14:30:00,Hauz Khas,Boarding,17
+2024-09-06,14:35:00,India Gate,Boarding,13
+2024-09-06,14:40:00,Karol Bagh,Boarding,22
+2024-09-06,14:45:00,Connaught Place,Boarding,9
+2024-09-06,14:50:00,Karol Bagh,Deboarding,22
+2024-09-06,14:55:00,Red Fort,Boarding,27
+2024-09-06,15:00:00,Connaught Place,Deboarding,7
+2024-09-06,15:05:00,Delhi University,Boarding,12
+2024-09-06,15:10:00,Nehru Place,Boarding,20
+2024-09-06,15:15:00,Delhi University,Boarding,24
+2024-09-06,15:20:00,Delhi University,Deboarding,8
+2024-09-06,15:25:00,Delhi University,Deboarding,23
+2024-09-06,15:30:00,Connaught Place,Deboarding,13
+2024-09-06,15:35:00,Hauz Khas,Deboarding,18
+2024-09-06,15:40:00,Connaught Place,Boarding,24
+2024-09-06,15:45:00,Red Fort,Boarding,20
+2024-09-06,15:50:00,Nehru Place,Boarding,30
+2024-09-06,15:55:00,Rajiv Chowk,Boarding,25
+2024-09-06,16:00:00,Chandni Chowk,Deboarding,15
+2024-09-06,16:05:00,Karol Bagh,Boarding,6
+2024-09-06,16:10:00,Karol Bagh,Boarding,13
+2024-09-06,16:15:00,Connaught Place,Deboarding,9
+2024-09-06,16:20:00,Delhi University,Deboarding,5
+2024-09-06,16:25:00,Karol Bagh,Deboarding,1
+2024-09-06,16:30:00,Rajiv Chowk,Deboarding,23
+2024-09-06,16:35:00,Karol Bagh,Boarding,5
+2024-09-06,16:40:00,Rajiv Chowk,Boarding,25
+2024-09-06,16:45:00,Gurgaon,Deboarding,16
+2024-09-06,16:50:00,Gurgaon,Deboarding,3
+2024-09-06,16:55:00,Rajiv Chowk,Boarding,6
+2024-09-06,17:00:00,Delhi University,Boarding,26
+2024-09-06,17:05:00,Delhi University,Boarding,14
+2024-09-06,17:10:00,Delhi University,Deboarding,3
+2024-09-06,17:15:00,Rajiv Chowk,Boarding,29
+2024-09-06,17:20:00,Chandni Chowk,Deboarding,11
+2024-09-06,17:25:00,Rajiv Chowk,Deboarding,7
+2024-09-06,17:30:00,Gurgaon,Deboarding,18
+2024-09-06,17:35:00,Connaught Place,Boarding,22
+2024-09-06,17:40:00,Rajiv Chowk,Deboarding,8
+2024-09-06,17:45:00,Gurgaon,Boarding,2
+2024-09-06,17:50:00,Rajiv Chowk,Deboarding,30
+2024-09-06,17:55:00,India Gate,Deboarding,9
+2024-09-06,18:00:00,Delhi University,Deboarding,1
+2024-09-06,18:05:00,Delhi University,Deboarding,17
+2024-09-06,18:10:00,Delhi University,Deboarding,16
+2024-09-06,18:15:00,Connaught Place,Deboarding,29
+2024-09-06,18:20:00,Chandni Chowk,Deboarding,17
+2024-09-06,18:25:00,India Gate,Boarding,6
+2024-09-06,18:30:00,Delhi University,Boarding,21
+2024-09-06,18:35:00,India Gate,Boarding,22
+2024-09-06,18:40:00,Chandni Chowk,Deboarding,27
+2024-09-06,18:45:00,India Gate,Boarding,18
+2024-09-06,18:50:00,Hauz Khas,Boarding,24
+2024-09-06,18:55:00,Karol Bagh,Boarding,15
+2024-09-06,19:00:00,Rajiv Chowk,Boarding,3
+2024-09-06,19:05:00,India Gate,Boarding,6
+2024-09-06,19:10:00,Red Fort,Boarding,19
+2024-09-06,19:15:00,Chandni Chowk,Deboarding,14
+2024-09-06,19:20:00,Hauz Khas,Deboarding,21
+2024-09-06,19:25:00,Hauz Khas,Deboarding,11
+2024-09-06,19:30:00,Connaught Place,Deboarding,22
+2024-09-06,19:35:00,India Gate,Boarding,21
+2024-09-06,19:40:00,Gurgaon,Boarding,25
+2024-09-06,19:45:00,Gurgaon,Boarding,23
+2024-09-06,19:50:00,India Gate,Deboarding,30
+2024-09-06,19:55:00,Delhi University,Boarding,10
+2024-09-06,20:00:00,Red Fort,Boarding,10
+2024-09-06,20:05:00,Nehru Place,Deboarding,13
+2024-09-06,20:10:00,Connaught Place,Deboarding,6
+2024-09-06,20:15:00,Delhi University,Boarding,5
+2024-09-06,20:20:00,Hauz Khas,Deboarding,21
+2024-09-06,20:25:00,Karol Bagh,Deboarding,22
+2024-09-06,20:30:00,Rajiv Chowk,Boarding,18
+2024-09-06,20:35:00,Delhi University,Boarding,4
+2024-09-06,20:40:00,Connaught Place,Boarding,19
+2024-09-06,20:45:00,Gurgaon,Deboarding,18
+2024-09-06,20:50:00,Delhi University,Boarding,10
+2024-09-06,20:55:00,Chandni Chowk,Deboarding,7
+2024-09-06,21:00:00,Hauz Khas,Boarding,6
+2024-09-06,21:05:00,Karol Bagh,Boarding,20
+2024-09-06,21:10:00,Red Fort,Boarding,4
+2024-09-06,21:15:00,Karol Bagh,Boarding,28
+2024-09-06,21:20:00,Delhi University,Deboarding,21
+2024-09-06,21:25:00,Delhi University,Boarding,10
+2024-09-06,21:30:00,India Gate,Deboarding,4
+2024-09-06,21:35:00,Chandni Chowk,Deboarding,11
+2024-09-06,21:40:00,Rajiv Chowk,Boarding,22
+2024-09-06,21:45:00,Chandni Chowk,Boarding,10
+2024-09-06,21:50:00,Gurgaon,Boarding,29
+2024-09-06,21:55:00,Chandni Chowk,Deboarding,16
+2024-09-06,22:00:00,Nehru Place,Deboarding,20
+2024-09-06,22:05:00,Red Fort,Boarding,19
+2024-09-06,22:10:00,Gurgaon,Deboarding,26
+2024-09-06,22:15:00,Rajiv Chowk,Deboarding,6
+2024-09-06,22:20:00,Connaught Place,Deboarding,8
+2024-09-06,22:25:00,Chandni Chowk,Deboarding,9
+2024-09-06,22:30:00,Rajiv Chowk,Boarding,22
+2024-09-06,22:35:00,Rajiv Chowk,Deboarding,15
+2024-09-06,22:40:00,Nehru Place,Deboarding,25
+2024-09-06,22:45:00,Red Fort,Deboarding,18
+2024-09-06,22:50:00,India Gate,Boarding,21
+2024-09-06,22:55:00,Gurgaon,Boarding,27
+2024-09-06,23:00:00,Red Fort,Boarding,29
+2024-09-06,23:05:00,Delhi University,Boarding,9
+2024-09-06,23:10:00,India Gate,Boarding,29
+2024-09-06,23:15:00,Connaught Place,Boarding,27
+2024-09-06,23:20:00,Gurgaon,Deboarding,25
+2024-09-06,23:25:00,Gurgaon,Boarding,30
+2024-09-06,23:30:00,Connaught Place,Deboarding,18
+2024-09-06,23:35:00,Delhi University,Deboarding,21
+2024-09-06,23:40:00,Karol Bagh,Deboarding,13
+2024-09-06,23:45:00,Chandni Chowk,Deboarding,5
+2024-09-06,23:50:00,Nehru Place,Boarding,13
+2024-09-06,23:55:00,Rajiv Chowk,Boarding,22
+2024-09-07,00:00:00,Chandni Chowk,Boarding,25
+2024-09-07,00:05:00,Delhi University,Boarding,15
+2024-09-07,00:10:00,Karol Bagh,Boarding,19
+2024-09-07,00:15:00,Gurgaon,Boarding,24
+2024-09-07,00:20:00,Nehru Place,Deboarding,2
+2024-09-07,00:25:00,Chandni Chowk,Deboarding,8
+2024-09-07,00:30:00,India Gate,Deboarding,12
+2024-09-07,00:35:00,Chandni Chowk,Boarding,22
+2024-09-07,00:40:00,Chandni Chowk,Deboarding,13
+2024-09-07,00:45:00,Nehru Place,Deboarding,29
+2024-09-07,00:50:00,Connaught Place,Boarding,21
+2024-09-07,00:55:00,Rajiv Chowk,Boarding,23
+2024-09-07,01:00:00,Delhi University,Deboarding,27
+2024-09-07,01:05:00,Red Fort,Boarding,13
+2024-09-07,01:10:00,Hauz Khas,Deboarding,19
+2024-09-07,01:15:00,India Gate,Deboarding,13
+2024-09-07,01:20:00,Chandni Chowk,Deboarding,12
+2024-09-07,01:25:00,Rajiv Chowk,Deboarding,26
+2024-09-07,01:30:00,Nehru Place,Boarding,17
+2024-09-07,01:35:00,Karol Bagh,Deboarding,6
+2024-09-07,01:40:00,Chandni Chowk,Boarding,17
+2024-09-07,01:45:00,Red Fort,Boarding,5
+2024-09-07,01:50:00,Karol Bagh,Boarding,12
+2024-09-07,01:55:00,Gurgaon,Boarding,22
+2024-09-07,02:00:00,Chandni Chowk,Deboarding,26
+2024-09-07,02:05:00,Rajiv Chowk,Boarding,16
+2024-09-07,02:10:00,Nehru Place,Deboarding,7
+2024-09-07,02:15:00,Gurgaon,Boarding,21
+2024-09-07,02:20:00,Hauz Khas,Boarding,8
+2024-09-07,02:25:00,Connaught Place,Boarding,19
+2024-09-07,02:30:00,Gurgaon,Boarding,5
+2024-09-07,02:35:00,Delhi University,Boarding,29
+2024-09-07,02:40:00,Gurgaon,Boarding,2
+2024-09-07,02:45:00,Karol Bagh,Deboarding,30
+2024-09-07,02:50:00,Karol Bagh,Deboarding,20
+2024-09-07,02:55:00,Gurgaon,Boarding,29
+2024-09-07,03:00:00,Red Fort,Boarding,7
+2024-09-07,03:05:00,Nehru Place,Deboarding,28
+2024-09-07,03:10:00,Nehru Place,Boarding,8
+2024-09-07,03:15:00,Hauz Khas,Boarding,26
+2024-09-07,03:20:00,Gurgaon,Boarding,20
+2024-09-07,03:25:00,Delhi University,Deboarding,6
+2024-09-07,03:30:00,Rajiv Chowk,Deboarding,20
+2024-09-07,03:35:00,Gurgaon,Boarding,8
+2024-09-07,03:40:00,Hauz Khas,Deboarding,5
+2024-09-07,03:45:00,India Gate,Boarding,7
+2024-09-07,03:50:00,Delhi University,Deboarding,27
+2024-09-07,03:55:00,Karol Bagh,Boarding,6
+2024-09-07,04:00:00,Nehru Place,Boarding,29
+2024-09-07,04:05:00,Delhi University,Boarding,3
+2024-09-07,04:10:00,Nehru Place,Boarding,29
+2024-09-07,04:15:00,Gurgaon,Boarding,29
+2024-09-07,04:20:00,Hauz Khas,Deboarding,12
+2024-09-07,04:25:00,Connaught Place,Deboarding,8
+2024-09-07,04:30:00,Nehru Place,Deboarding,12
+2024-09-07,04:35:00,Gurgaon,Boarding,14
+2024-09-07,04:40:00,Karol Bagh,Deboarding,16
+2024-09-07,04:45:00,Chandni Chowk,Boarding,10
+2024-09-07,04:50:00,Gurgaon,Deboarding,9
+2024-09-07,04:55:00,Chandni Chowk,Boarding,23
+2024-09-07,05:00:00,Connaught Place,Boarding,17
+2024-09-07,05:05:00,Connaught Place,Deboarding,21
+2024-09-07,05:10:00,Chandni Chowk,Deboarding,14
+2024-09-07,05:15:00,Rajiv Chowk,Boarding,5
+2024-09-07,05:20:00,Hauz Khas,Deboarding,9
+2024-09-07,05:25:00,Delhi University,Deboarding,19
+2024-09-07,05:30:00,Rajiv Chowk,Deboarding,22
+2024-09-07,05:35:00,Hauz Khas,Boarding,14
+2024-09-07,05:40:00,Delhi University,Deboarding,6
+2024-09-07,05:45:00,Rajiv Chowk,Deboarding,9
+2024-09-07,05:50:00,Red Fort,Deboarding,25
+2024-09-07,05:55:00,Hauz Khas,Boarding,28
+2024-09-07,06:00:00,India Gate,Boarding,15
+2024-09-07,06:05:00,Karol Bagh,Boarding,7
+2024-09-07,06:10:00,Delhi University,Deboarding,26
+2024-09-07,06:15:00,Rajiv Chowk,Boarding,6
+2024-09-07,06:20:00,Hauz Khas,Boarding,26
+2024-09-07,06:25:00,India Gate,Boarding,16
+2024-09-07,06:30:00,Gurgaon,Deboarding,3
+2024-09-07,06:35:00,India Gate,Deboarding,8
+2024-09-07,06:40:00,Rajiv Chowk,Boarding,20
+2024-09-07,06:45:00,Connaught Place,Deboarding,30
+2024-09-07,06:50:00,Hauz Khas,Deboarding,23
+2024-09-07,06:55:00,Gurgaon,Boarding,25
+2024-09-07,07:00:00,Karol Bagh,Deboarding,15
+2024-09-07,07:05:00,Connaught Place,Boarding,28
+2024-09-07,07:10:00,Delhi University,Deboarding,7
+2024-09-07,07:15:00,Connaught Place,Boarding,20
+2024-09-07,07:20:00,Karol Bagh,Boarding,12
+2024-09-07,07:25:00,Chandni Chowk,Boarding,6
+2024-09-07,07:30:00,India Gate,Deboarding,25
+2024-09-07,07:35:00,Hauz Khas,Deboarding,22
+2024-09-07,07:40:00,Hauz Khas,Deboarding,19
+2024-09-07,07:45:00,Chandni Chowk,Boarding,24
+2024-09-07,07:50:00,India Gate,Boarding,18
+2024-09-07,07:55:00,Red Fort,Deboarding,12
+2024-09-07,08:00:00,Red Fort,Boarding,20
+2024-09-07,08:05:00,Chandni Chowk,Deboarding,30
+2024-09-07,08:10:00,Hauz Khas,Boarding,9
+2024-09-07,08:15:00,Karol Bagh,Deboarding,17
+2024-09-07,08:20:00,India Gate,Boarding,17
+2024-09-07,08:25:00,Red Fort,Deboarding,4
+2024-09-07,08:30:00,Delhi University,Deboarding,29
+2024-09-07,08:35:00,Delhi University,Deboarding,23
+2024-09-07,08:40:00,Nehru Place,Deboarding,19
+2024-09-07,08:45:00,Nehru Place,Boarding,25
+2024-09-07,08:50:00,Rajiv Chowk,Deboarding,22
+2024-09-07,08:55:00,Nehru Place,Boarding,16
+2024-09-07,09:00:00,India Gate,Deboarding,3
+2024-09-07,09:05:00,Hauz Khas,Boarding,22
+2024-09-07,09:10:00,Chandni Chowk,Deboarding,14
+2024-09-07,09:15:00,Rajiv Chowk,Boarding,23
+2024-09-07,09:20:00,Red Fort,Boarding,10
+2024-09-07,09:25:00,India Gate,Deboarding,22
+2024-09-07,09:30:00,Rajiv Chowk,Boarding,18
+2024-09-07,09:35:00,Karol Bagh,Deboarding,11
+2024-09-07,09:40:00,Rajiv Chowk,Boarding,29
+2024-09-07,09:45:00,Gurgaon,Deboarding,6
+2024-09-07,09:50:00,Chandni Chowk,Deboarding,24
+2024-09-07,09:55:00,Chandni Chowk,Boarding,24
+2024-09-07,10:00:00,Chandni Chowk,Deboarding,7
+2024-09-07,10:05:00,Chandni Chowk,Boarding,27
+2024-09-07,10:10:00,Chandni Chowk,Deboarding,5
+2024-09-07,10:15:00,India Gate,Boarding,30
+2024-09-07,10:20:00,India Gate,Deboarding,20
+2024-09-07,10:25:00,Connaught Place,Boarding,28
+2024-09-07,10:30:00,Nehru Place,Deboarding,20
+2024-09-07,10:35:00,Rajiv Chowk,Deboarding,29
+2024-09-07,10:40:00,Gurgaon,Deboarding,16
+2024-09-07,10:45:00,Karol Bagh,Deboarding,13
+2024-09-07,10:50:00,Chandni Chowk,Boarding,2
+2024-09-07,10:55:00,Delhi University,Deboarding,16
+2024-09-07,11:00:00,Delhi University,Boarding,17
+2024-09-07,11:05:00,Rajiv Chowk,Deboarding,28
+2024-09-07,11:10:00,Karol Bagh,Deboarding,4
+2024-09-07,11:15:00,Delhi University,Deboarding,11
+2024-09-07,11:20:00,Connaught Place,Boarding,22
+2024-09-07,11:25:00,Chandni Chowk,Deboarding,19
+2024-09-07,11:30:00,India Gate,Deboarding,12
+2024-09-07,11:35:00,Gurgaon,Deboarding,6
+2024-09-07,11:40:00,Delhi University,Deboarding,8
+2024-09-07,11:45:00,Red Fort,Deboarding,20
+2024-09-07,11:50:00,Rajiv Chowk,Deboarding,6
+2024-09-07,11:55:00,Nehru Place,Deboarding,7
+2024-09-07,12:00:00,Hauz Khas,Deboarding,12
+2024-09-07,12:05:00,Hauz Khas,Deboarding,15
+2024-09-07,12:10:00,Karol Bagh,Boarding,19
+2024-09-07,12:15:00,Chandni Chowk,Boarding,24
+2024-09-07,12:20:00,Red Fort,Boarding,18
+2024-09-07,12:25:00,Hauz Khas,Deboarding,7
+2024-09-07,12:30:00,Karol Bagh,Boarding,16
+2024-09-07,12:35:00,Connaught Place,Boarding,14
+2024-09-07,12:40:00,Nehru Place,Boarding,29
+2024-09-07,12:45:00,Delhi University,Deboarding,26
+2024-09-07,12:50:00,Nehru Place,Deboarding,9
+2024-09-07,12:55:00,Delhi University,Boarding,13
+2024-09-07,13:00:00,India Gate,Boarding,2
+2024-09-07,13:05:00,Chandni Chowk,Deboarding,16
+2024-09-07,13:10:00,India Gate,Deboarding,24
+2024-09-07,13:15:00,Rajiv Chowk,Deboarding,12
+2024-09-07,13:20:00,Rajiv Chowk,Deboarding,12
+2024-09-07,13:25:00,Connaught Place,Deboarding,4
+2024-09-07,13:30:00,Rajiv Chowk,Boarding,19
+2024-09-07,13:35:00,Gurgaon,Boarding,25
+2024-09-07,13:40:00,Red Fort,Deboarding,11
+2024-09-07,13:45:00,Delhi University,Deboarding,25
+2024-09-07,13:50:00,Nehru Place,Boarding,13
+2024-09-07,13:55:00,Gurgaon,Deboarding,15
+2024-09-07,14:00:00,Karol Bagh,Boarding,21
+2024-09-07,14:05:00,Rajiv Chowk,Deboarding,21
+2024-09-07,14:10:00,Gurgaon,Deboarding,28
+2024-09-07,14:15:00,India Gate,Boarding,6
+2024-09-07,14:20:00,Rajiv Chowk,Boarding,11
+2024-09-07,14:25:00,Rajiv Chowk,Deboarding,23
+2024-09-07,14:30:00,Red Fort,Deboarding,9
+2024-09-07,14:35:00,Nehru Place,Deboarding,24
+2024-09-07,14:40:00,Gurgaon,Deboarding,14
+2024-09-07,14:45:00,Karol Bagh,Boarding,28
+2024-09-07,14:50:00,Connaught Place,Boarding,24
+2024-09-07,14:55:00,Chandni Chowk,Deboarding,24
+2024-09-07,15:00:00,India Gate,Boarding,6
+2024-09-07,15:05:00,Hauz Khas,Boarding,4
+2024-09-07,15:10:00,India Gate,Deboarding,18
+2024-09-07,15:15:00,Connaught Place,Boarding,25
+2024-09-07,15:20:00,Hauz Khas,Boarding,4
+2024-09-07,15:25:00,Red Fort,Boarding,3
+2024-09-07,15:30:00,Hauz Khas,Deboarding,8
+2024-09-07,15:35:00,Chandni Chowk,Deboarding,15
+2024-09-07,15:40:00,Karol Bagh,Boarding,17
+2024-09-07,15:45:00,Karol Bagh,Boarding,2
+2024-09-07,15:50:00,Rajiv Chowk,Deboarding,28
+2024-09-07,15:55:00,Nehru Place,Deboarding,28
+2024-09-07,16:00:00,Delhi University,Deboarding,18
+2024-09-07,16:05:00,Nehru Place,Boarding,23
+2024-09-07,16:10:00,Delhi University,Boarding,19
+2024-09-07,16:15:00,Gurgaon,Deboarding,21
+2024-09-07,16:20:00,Gurgaon,Deboarding,17
+2024-09-07,16:25:00,Delhi University,Deboarding,30
+2024-09-07,16:30:00,Rajiv Chowk,Deboarding,18
+2024-09-07,16:35:00,Chandni Chowk,Boarding,15
+2024-09-07,16:40:00,Red Fort,Deboarding,14
+2024-09-07,16:45:00,Red Fort,Boarding,10
+2024-09-07,16:50:00,Connaught Place,Boarding,17
+2024-09-07,16:55:00,Karol Bagh,Deboarding,10
+2024-09-07,17:00:00,Nehru Place,Boarding,23
+2024-09-07,17:05:00,Nehru Place,Deboarding,10
+2024-09-07,17:10:00,Connaught Place,Deboarding,26
+2024-09-07,17:15:00,Red Fort,Boarding,26
+2024-09-07,17:20:00,Connaught Place,Deboarding,7
+2024-09-07,17:25:00,Hauz Khas,Deboarding,13
+2024-09-07,17:30:00,Chandni Chowk,Boarding,23
+2024-09-07,17:35:00,Hauz Khas,Deboarding,8
+2024-09-07,17:40:00,Red Fort,Boarding,14
+2024-09-07,17:45:00,Chandni Chowk,Deboarding,10
+2024-09-07,17:50:00,Delhi University,Deboarding,14
+2024-09-07,17:55:00,Chandni Chowk,Boarding,6
+2024-09-07,18:00:00,Karol Bagh,Deboarding,4
+2024-09-07,18:05:00,Nehru Place,Deboarding,9
+2024-09-07,18:10:00,Gurgaon,Deboarding,7
+2024-09-07,18:15:00,Rajiv Chowk,Boarding,5
+2024-09-07,18:20:00,Connaught Place,Boarding,6
+2024-09-07,18:25:00,India Gate,Deboarding,9
+2024-09-07,18:30:00,Karol Bagh,Deboarding,24
+2024-09-07,18:35:00,Connaught Place,Boarding,3
+2024-09-07,18:40:00,Karol Bagh,Boarding,16
+2024-09-07,18:45:00,Chandni Chowk,Deboarding,14
+2024-09-07,18:50:00,Red Fort,Deboarding,12
+2024-09-07,18:55:00,Nehru Place,Boarding,11
+2024-09-07,19:00:00,India Gate,Boarding,2
+2024-09-07,19:05:00,Red Fort,Deboarding,3
+2024-09-07,19:10:00,Delhi University,Deboarding,6
+2024-09-07,19:15:00,Chandni Chowk,Deboarding,27
+2024-09-07,19:20:00,Hauz Khas,Boarding,4
+2024-09-07,19:25:00,Chandni Chowk,Deboarding,25
+2024-09-07,19:30:00,Nehru Place,Boarding,24
+2024-09-07,19:35:00,Connaught Place,Boarding,15
+2024-09-07,19:40:00,India Gate,Boarding,16
+2024-09-07,19:45:00,Hauz Khas,Deboarding,30
+2024-09-07,19:50:00,Rajiv Chowk,Boarding,21
+2024-09-07,19:55:00,Connaught Place,Boarding,9
+2024-09-07,20:00:00,Nehru Place,Deboarding,7
+2024-09-07,20:05:00,Rajiv Chowk,Boarding,28
+2024-09-07,20:10:00,Chandni Chowk,Boarding,8
+2024-09-07,20:15:00,Hauz Khas,Deboarding,1
+2024-09-07,20:20:00,Karol Bagh,Deboarding,19
+2024-09-07,20:25:00,India Gate,Deboarding,26
+2024-09-07,20:30:00,Chandni Chowk,Boarding,2
+2024-09-07,20:35:00,Gurgaon,Deboarding,23
+2024-09-07,20:40:00,Gurgaon,Boarding,12
+2024-09-07,20:45:00,India Gate,Boarding,6
+2024-09-07,20:50:00,Nehru Place,Boarding,22
+2024-09-07,20:55:00,Gurgaon,Deboarding,30
+2024-09-07,21:00:00,Connaught Place,Boarding,12
+2024-09-07,21:05:00,Karol Bagh,Boarding,5
+2024-09-07,21:10:00,Nehru Place,Boarding,11
+2024-09-07,21:15:00,Delhi University,Deboarding,26
+2024-09-07,21:20:00,Nehru Place,Boarding,1
+2024-09-07,21:25:00,Hauz Khas,Deboarding,24
+2024-09-07,21:30:00,Karol Bagh,Deboarding,29
+2024-09-07,21:35:00,Connaught Place,Deboarding,23
+2024-09-07,21:40:00,Nehru Place,Deboarding,18
+2024-09-07,21:45:00,Nehru Place,Boarding,19
+2024-09-07,21:50:00,Karol Bagh,Deboarding,11
+2024-09-07,21:55:00,Nehru Place,Deboarding,28
+2024-09-07,22:00:00,Gurgaon,Boarding,3
+2024-09-07,22:05:00,Delhi University,Boarding,15
+2024-09-07,22:10:00,Red Fort,Deboarding,18
+2024-09-07,22:15:00,Rajiv Chowk,Deboarding,1
+2024-09-07,22:20:00,Delhi University,Deboarding,24
+2024-09-07,22:25:00,Karol Bagh,Boarding,20
+2024-09-07,22:30:00,Rajiv Chowk,Boarding,11
+2024-09-07,22:35:00,India Gate,Deboarding,7
+2024-09-07,22:40:00,Delhi University,Deboarding,25
+2024-09-07,22:45:00,Delhi University,Boarding,20
+2024-09-07,22:50:00,Red Fort,Deboarding,14
+2024-09-07,22:55:00,Rajiv Chowk,Boarding,4
+2024-09-07,23:00:00,Delhi University,Boarding,2
+2024-09-07,23:05:00,Karol Bagh,Boarding,28
+2024-09-07,23:10:00,Connaught Place,Boarding,4
+2024-09-07,23:15:00,Nehru Place,Boarding,4
+2024-09-07,23:20:00,Connaught Place,Deboarding,22
+2024-09-07,23:25:00,Nehru Place,Deboarding,2
+2024-09-07,23:30:00,Rajiv Chowk,Boarding,20
+2024-09-07,23:35:00,India Gate,Boarding,30
+2024-09-07,23:40:00,Chandni Chowk,Deboarding,30
+2024-09-07,23:45:00,India Gate,Deboarding,26
+2024-09-07,23:50:00,Connaught Place,Deboarding,18
+2024-09-07,23:55:00,Hauz Khas,Deboarding,26
+2024-09-08,00:00:00,Connaught Place,Deboarding,17
+2024-09-08,00:05:00,Connaught Place,Boarding,27
+2024-09-08,00:10:00,Red Fort,Boarding,7
+2024-09-08,00:15:00,Delhi University,Boarding,4
+2024-09-08,00:20:00,Chandni Chowk,Deboarding,7
+2024-09-08,00:25:00,Chandni Chowk,Boarding,19
+2024-09-08,00:30:00,Karol Bagh,Deboarding,24
+2024-09-08,00:35:00,India Gate,Deboarding,22
+2024-09-08,00:40:00,Nehru Place,Deboarding,29
+2024-09-08,00:45:00,India Gate,Boarding,26
+2024-09-08,00:50:00,Karol Bagh,Deboarding,17
+2024-09-08,00:55:00,Rajiv Chowk,Boarding,18
+2024-09-08,01:00:00,Gurgaon,Deboarding,30
+2024-09-08,01:05:00,Rajiv Chowk,Deboarding,18
+2024-09-08,01:10:00,Rajiv Chowk,Deboarding,14
+2024-09-08,01:15:00,Hauz Khas,Deboarding,20
+2024-09-08,01:20:00,Chandni Chowk,Boarding,13
+2024-09-08,01:25:00,Delhi University,Deboarding,12
+2024-09-08,01:30:00,Nehru Place,Deboarding,13
+2024-09-08,01:35:00,Connaught Place,Boarding,10
+2024-09-08,01:40:00,Gurgaon,Boarding,17
+2024-09-08,01:45:00,Karol Bagh,Deboarding,1
+2024-09-08,01:50:00,Red Fort,Boarding,7
+2024-09-08,01:55:00,Rajiv Chowk,Boarding,25
+2024-09-08,02:00:00,Red Fort,Boarding,4
+2024-09-08,02:05:00,Connaught Place,Deboarding,12
+2024-09-08,02:10:00,Karol Bagh,Boarding,9
+2024-09-08,02:15:00,Rajiv Chowk,Boarding,8
+2024-09-08,02:20:00,Red Fort,Deboarding,3
+2024-09-08,02:25:00,Gurgaon,Deboarding,19
+2024-09-08,02:30:00,Chandni Chowk,Boarding,24
+2024-09-08,02:35:00,Rajiv Chowk,Deboarding,6
+2024-09-08,02:40:00,Nehru Place,Boarding,20
+2024-09-08,02:45:00,Red Fort,Boarding,24
+2024-09-08,02:50:00,Gurgaon,Deboarding,3
+2024-09-08,02:55:00,Connaught Place,Deboarding,12
+2024-09-08,03:00:00,Hauz Khas,Deboarding,30
+2024-09-08,03:05:00,India Gate,Boarding,24
+2024-09-08,03:10:00,Gurgaon,Boarding,21
+2024-09-08,03:15:00,Hauz Khas,Boarding,10
+2024-09-08,03:20:00,Delhi University,Boarding,11
+2024-09-08,03:25:00,Delhi University,Boarding,11
+2024-09-08,03:30:00,Delhi University,Boarding,5
+2024-09-08,03:35:00,Connaught Place,Deboarding,15
+2024-09-08,03:40:00,Gurgaon,Boarding,8
+2024-09-08,03:45:00,Hauz Khas,Deboarding,26
+2024-09-08,03:50:00,Hauz Khas,Boarding,5
+2024-09-08,03:55:00,Rajiv Chowk,Boarding,16
+2024-09-08,04:00:00,Gurgaon,Boarding,18
+2024-09-08,04:05:00,Hauz Khas,Deboarding,3
+2024-09-08,04:10:00,Hauz Khas,Deboarding,25
+2024-09-08,04:15:00,Karol Bagh,Boarding,16
+2024-09-08,04:20:00,Delhi University,Boarding,16
+2024-09-08,04:25:00,Hauz Khas,Boarding,18
+2024-09-08,04:30:00,Gurgaon,Boarding,8
+2024-09-08,04:35:00,India Gate,Deboarding,25
+2024-09-08,04:40:00,Hauz Khas,Deboarding,22
+2024-09-08,04:45:00,Gurgaon,Boarding,4
+2024-09-08,04:50:00,Hauz Khas,Deboarding,12
+2024-09-08,04:55:00,Rajiv Chowk,Boarding,11
+2024-09-08,05:00:00,Rajiv Chowk,Boarding,25
+2024-09-08,05:05:00,Red Fort,Boarding,12
+2024-09-08,05:10:00,Gurgaon,Deboarding,20
+2024-09-08,05:15:00,Karol Bagh,Deboarding,2
+2024-09-08,05:20:00,Chandni Chowk,Boarding,22
+2024-09-08,05:25:00,Rajiv Chowk,Boarding,25
+2024-09-08,05:30:00,India Gate,Boarding,24
+2024-09-08,05:35:00,Connaught Place,Boarding,20
+2024-09-08,05:40:00,Karol Bagh,Deboarding,1
+2024-09-08,05:45:00,Rajiv Chowk,Boarding,10
+2024-09-08,05:50:00,Nehru Place,Deboarding,1
+2024-09-08,05:55:00,Rajiv Chowk,Boarding,24
+2024-09-08,06:00:00,Delhi University,Boarding,7
+2024-09-08,06:05:00,Delhi University,Deboarding,18
+2024-09-08,06:10:00,Nehru Place,Boarding,23
+2024-09-08,06:15:00,Connaught Place,Deboarding,19
+2024-09-08,06:20:00,Delhi University,Boarding,9
+2024-09-08,06:25:00,Karol Bagh,Boarding,10
+2024-09-08,06:30:00,Chandni Chowk,Deboarding,2
+2024-09-08,06:35:00,Nehru Place,Boarding,3
+2024-09-08,06:40:00,Hauz Khas,Deboarding,22
+2024-09-08,06:45:00,Rajiv Chowk,Boarding,1
+2024-09-08,06:50:00,Red Fort,Deboarding,8
+2024-09-08,06:55:00,Hauz Khas,Boarding,29
+2024-09-08,07:00:00,Rajiv Chowk,Deboarding,28
+2024-09-08,07:05:00,Gurgaon,Boarding,6
+2024-09-08,07:10:00,Chandni Chowk,Deboarding,18
+2024-09-08,07:15:00,Connaught Place,Boarding,8
+2024-09-08,07:20:00,Delhi University,Deboarding,11
+2024-09-08,07:25:00,Nehru Place,Deboarding,24
+2024-09-08,07:30:00,Karol Bagh,Boarding,12
+2024-09-08,07:35:00,Rajiv Chowk,Deboarding,21
+2024-09-08,07:40:00,Red Fort,Boarding,17
+2024-09-08,07:45:00,Red Fort,Boarding,21
+2024-09-08,07:50:00,Red Fort,Deboarding,29
+2024-09-08,07:55:00,Connaught Place,Deboarding,8
+2024-09-08,08:00:00,Karol Bagh,Deboarding,29
+2024-09-08,08:05:00,Hauz Khas,Boarding,3
+2024-09-08,08:10:00,Hauz Khas,Boarding,14
+2024-09-08,08:15:00,Chandni Chowk,Boarding,14
+2024-09-08,08:20:00,Red Fort,Deboarding,15
+2024-09-08,08:25:00,Delhi University,Boarding,7
+2024-09-08,08:30:00,Karol Bagh,Boarding,28
+2024-09-08,08:35:00,Karol Bagh,Deboarding,23
+2024-09-08,08:40:00,Delhi University,Boarding,14
+2024-09-08,08:45:00,Karol Bagh,Boarding,11
+2024-09-08,08:50:00,India Gate,Boarding,6
+2024-09-08,08:55:00,Rajiv Chowk,Boarding,24
+2024-09-08,09:00:00,Connaught Place,Deboarding,29
+2024-09-08,09:05:00,Hauz Khas,Deboarding,10
+2024-09-08,09:10:00,Nehru Place,Deboarding,5
+2024-09-08,09:15:00,Chandni Chowk,Boarding,5
+2024-09-08,09:20:00,Karol Bagh,Boarding,25
+2024-09-08,09:25:00,Gurgaon,Deboarding,20
+2024-09-08,09:30:00,Gurgaon,Boarding,20
+2024-09-08,09:35:00,Chandni Chowk,Boarding,22
+2024-09-08,09:40:00,Connaught Place,Deboarding,3
+2024-09-08,09:45:00,Nehru Place,Boarding,17
+2024-09-08,09:50:00,Gurgaon,Deboarding,23
+2024-09-08,09:55:00,Rajiv Chowk,Boarding,28
+2024-09-08,10:00:00,Hauz Khas,Deboarding,16
+2024-09-08,10:05:00,Karol Bagh,Boarding,7
+2024-09-08,10:10:00,Chandni Chowk,Boarding,14
+2024-09-08,10:15:00,Connaught Place,Deboarding,14
+2024-09-08,10:20:00,Chandni Chowk,Boarding,25
+2024-09-08,10:25:00,Chandni Chowk,Boarding,6
+2024-09-08,10:30:00,Nehru Place,Deboarding,23
+2024-09-08,10:35:00,Rajiv Chowk,Deboarding,29
+2024-09-08,10:40:00,Chandni Chowk,Deboarding,13
+2024-09-08,10:45:00,Connaught Place,Deboarding,24
+2024-09-08,10:50:00,Rajiv Chowk,Deboarding,20
+2024-09-08,10:55:00,Gurgaon,Boarding,17
+2024-09-08,11:00:00,India Gate,Deboarding,15
+2024-09-08,11:05:00,Connaught Place,Boarding,17
+2024-09-08,11:10:00,Delhi University,Deboarding,24
+2024-09-08,11:15:00,Connaught Place,Deboarding,17
+2024-09-08,11:20:00,Connaught Place,Boarding,10
+2024-09-08,11:25:00,Nehru Place,Deboarding,29
+2024-09-08,11:30:00,Red Fort,Deboarding,15
+2024-09-08,11:35:00,Karol Bagh,Deboarding,10
+2024-09-08,11:40:00,Gurgaon,Boarding,23
+2024-09-08,11:45:00,Delhi University,Boarding,15
+2024-09-08,11:50:00,Nehru Place,Boarding,24
+2024-09-08,11:55:00,Delhi University,Boarding,6
+2024-09-08,12:00:00,Gurgaon,Boarding,13
+2024-09-08,12:05:00,Hauz Khas,Deboarding,15
+2024-09-08,12:10:00,Connaught Place,Boarding,15
+2024-09-08,12:15:00,Gurgaon,Boarding,29
+2024-09-08,12:20:00,Nehru Place,Boarding,9
+2024-09-08,12:25:00,Rajiv Chowk,Boarding,23
+2024-09-08,12:30:00,India Gate,Boarding,4
+2024-09-08,12:35:00,Nehru Place,Deboarding,3
+2024-09-08,12:40:00,Delhi University,Deboarding,24
+2024-09-08,12:45:00,Delhi University,Boarding,13
+2024-09-08,12:50:00,Delhi University,Deboarding,2
+2024-09-08,12:55:00,Karol Bagh,Deboarding,19
+2024-09-08,13:00:00,Karol Bagh,Boarding,28
+2024-09-08,13:05:00,Karol Bagh,Boarding,25
+2024-09-08,13:10:00,Connaught Place,Deboarding,10
+2024-09-08,13:15:00,Red Fort,Deboarding,10
+2024-09-08,13:20:00,Karol Bagh,Boarding,29
+2024-09-08,13:25:00,Karol Bagh,Boarding,1
+2024-09-08,13:30:00,Gurgaon,Deboarding,1
+2024-09-08,13:35:00,Nehru Place,Deboarding,28
+2024-09-08,13:40:00,Nehru Place,Boarding,20
+2024-09-08,13:45:00,Nehru Place,Boarding,7
+2024-09-08,13:50:00,Gurgaon,Deboarding,15
+2024-09-08,13:55:00,Hauz Khas,Deboarding,3
+2024-09-08,14:00:00,Gurgaon,Boarding,8
+2024-09-08,14:05:00,Delhi University,Deboarding,20
+2024-09-08,14:10:00,Delhi University,Boarding,2
+2024-09-08,14:15:00,Karol Bagh,Boarding,2
+2024-09-08,14:20:00,Rajiv Chowk,Boarding,5
+2024-09-08,14:25:00,Connaught Place,Deboarding,11
+2024-09-08,14:30:00,India Gate,Boarding,4
+2024-09-08,14:35:00,Hauz Khas,Boarding,6
+2024-09-08,14:40:00,Red Fort,Boarding,15
+2024-09-08,14:45:00,Gurgaon,Deboarding,30
+2024-09-08,14:50:00,Connaught Place,Boarding,25
+2024-09-08,14:55:00,Red Fort,Deboarding,12
+2024-09-08,15:00:00,Hauz Khas,Boarding,25
+2024-09-08,15:05:00,Hauz Khas,Boarding,10
+2024-09-08,15:10:00,Nehru Place,Boarding,4
+2024-09-08,15:15:00,Red Fort,Deboarding,17
+2024-09-08,15:20:00,Hauz Khas,Boarding,23
+2024-09-08,15:25:00,Chandni Chowk,Boarding,4
+2024-09-08,15:30:00,Gurgaon,Boarding,16
+2024-09-08,15:35:00,Gurgaon,Deboarding,14
+2024-09-08,15:40:00,Gurgaon,Deboarding,9
+2024-09-08,15:45:00,Delhi University,Deboarding,30
+2024-09-08,15:50:00,Karol Bagh,Deboarding,17
+2024-09-08,15:55:00,Nehru Place,Deboarding,26
+2024-09-08,16:00:00,Karol Bagh,Boarding,23
+2024-09-08,16:05:00,Red Fort,Boarding,1
+2024-09-08,16:10:00,India Gate,Boarding,15
+2024-09-08,16:15:00,India Gate,Boarding,26
+2024-09-08,16:20:00,Gurgaon,Deboarding,14
+2024-09-08,16:25:00,Connaught Place,Deboarding,12
+2024-09-08,16:30:00,Delhi University,Boarding,1
+2024-09-08,16:35:00,Chandni Chowk,Deboarding,9
+2024-09-08,16:40:00,India Gate,Deboarding,10
+2024-09-08,16:45:00,Delhi University,Deboarding,25
+2024-09-08,16:50:00,Connaught Place,Boarding,22
+2024-09-08,16:55:00,Rajiv Chowk,Deboarding,13
+2024-09-08,17:00:00,Gurgaon,Boarding,27
+2024-09-08,17:05:00,Karol Bagh,Boarding,11
+2024-09-08,17:10:00,Rajiv Chowk,Deboarding,30
+2024-09-08,17:15:00,Nehru Place,Boarding,21
+2024-09-08,17:20:00,Karol Bagh,Deboarding,5
+2024-09-08,17:25:00,Nehru Place,Deboarding,15
+2024-09-08,17:30:00,Hauz Khas,Boarding,27
+2024-09-08,17:35:00,Delhi University,Deboarding,19
+2024-09-08,17:40:00,Rajiv Chowk,Boarding,7
+2024-09-08,17:45:00,Gurgaon,Deboarding,26
+2024-09-08,17:50:00,Rajiv Chowk,Boarding,5
+2024-09-08,17:55:00,Red Fort,Boarding,11
+2024-09-08,18:00:00,Hauz Khas,Boarding,19
+2024-09-08,18:05:00,Gurgaon,Deboarding,6
+2024-09-08,18:10:00,Gurgaon,Boarding,28
+2024-09-08,18:15:00,Red Fort,Deboarding,23
+2024-09-08,18:20:00,Connaught Place,Deboarding,14
+2024-09-08,18:25:00,India Gate,Deboarding,29
+2024-09-08,18:30:00,Chandni Chowk,Deboarding,15
+2024-09-08,18:35:00,Red Fort,Boarding,17
+2024-09-08,18:40:00,Red Fort,Boarding,4
+2024-09-08,18:45:00,Rajiv Chowk,Boarding,25
+2024-09-08,18:50:00,Chandni Chowk,Boarding,15
+2024-09-08,18:55:00,Delhi University,Boarding,26
+2024-09-08,19:00:00,Nehru Place,Boarding,7
+2024-09-08,19:05:00,Rajiv Chowk,Deboarding,24
+2024-09-08,19:10:00,Delhi University,Deboarding,25
+2024-09-08,19:15:00,Rajiv Chowk,Boarding,25
+2024-09-08,19:20:00,India Gate,Boarding,7
+2024-09-08,19:25:00,Connaught Place,Deboarding,13
+2024-09-08,19:30:00,Delhi University,Boarding,1
+2024-09-08,19:35:00,Red Fort,Boarding,22
+2024-09-08,19:40:00,Gurgaon,Boarding,11
+2024-09-08,19:45:00,Nehru Place,Boarding,4
+2024-09-08,19:50:00,Delhi University,Deboarding,1
+2024-09-08,19:55:00,Gurgaon,Deboarding,21
+2024-09-08,20:00:00,Chandni Chowk,Deboarding,7
+2024-09-08,20:05:00,Chandni Chowk,Deboarding,9
+2024-09-08,20:10:00,Delhi University,Deboarding,25
+2024-09-08,20:15:00,Nehru Place,Boarding,9
+2024-09-08,20:20:00,Karol Bagh,Boarding,9
+2024-09-08,20:25:00,India Gate,Boarding,20
+2024-09-08,20:30:00,Delhi University,Boarding,7
+2024-09-08,20:35:00,Delhi University,Deboarding,18
+2024-09-08,20:40:00,Rajiv Chowk,Deboarding,5
+2024-09-08,20:45:00,Red Fort,Boarding,6
+2024-09-08,20:50:00,India Gate,Deboarding,20
+2024-09-08,20:55:00,Rajiv Chowk,Deboarding,2
+2024-09-08,21:00:00,Karol Bagh,Boarding,16
+2024-09-08,21:05:00,Connaught Place,Boarding,13
+2024-09-08,21:10:00,Connaught Place,Boarding,14
+2024-09-08,21:15:00,Hauz Khas,Boarding,23
+2024-09-08,21:20:00,Gurgaon,Deboarding,20
+2024-09-08,21:25:00,Rajiv Chowk,Deboarding,11
+2024-09-08,21:30:00,Chandni Chowk,Boarding,30
+2024-09-08,21:35:00,Nehru Place,Boarding,3
+2024-09-08,21:40:00,Nehru Place,Boarding,15
+2024-09-08,21:45:00,Red Fort,Deboarding,16
+2024-09-08,21:50:00,Chandni Chowk,Boarding,5
+2024-09-08,21:55:00,Gurgaon,Deboarding,30
+2024-09-08,22:00:00,Rajiv Chowk,Deboarding,6
+2024-09-08,22:05:00,Rajiv Chowk,Deboarding,15
+2024-09-08,22:10:00,Nehru Place,Boarding,3
+2024-09-08,22:15:00,Nehru Place,Boarding,12
+2024-09-08,22:20:00,Nehru Place,Deboarding,28
+2024-09-08,22:25:00,Karol Bagh,Deboarding,25
+2024-09-08,22:30:00,Rajiv Chowk,Boarding,17
+2024-09-08,22:35:00,India Gate,Deboarding,27
+2024-09-08,22:40:00,India Gate,Deboarding,18
+2024-09-08,22:45:00,India Gate,Deboarding,18
+2024-09-08,22:50:00,Nehru Place,Deboarding,19
+2024-09-08,22:55:00,Hauz Khas,Boarding,20
+2024-09-08,23:00:00,Chandni Chowk,Boarding,16
+2024-09-08,23:05:00,Hauz Khas,Boarding,11
+2024-09-08,23:10:00,Chandni Chowk,Deboarding,26
+2024-09-08,23:15:00,Hauz Khas,Deboarding,18
+2024-09-08,23:20:00,Chandni Chowk,Boarding,22
+2024-09-08,23:25:00,India Gate,Deboarding,4
+2024-09-08,23:30:00,Gurgaon,Deboarding,11
+2024-09-08,23:35:00,Delhi University,Boarding,27
+2024-09-08,23:40:00,Nehru Place,Boarding,10
+2024-09-08,23:45:00,Hauz Khas,Boarding,20
+2024-09-08,23:50:00,India Gate,Deboarding,11
+2024-09-08,23:55:00,Nehru Place,Boarding,3
+2024-09-09,00:00:00,Chandni Chowk,Boarding,29
+2024-09-09,00:05:00,Gurgaon,Boarding,25
+2024-09-09,00:10:00,Karol Bagh,Boarding,15
+2024-09-09,00:15:00,Delhi University,Deboarding,13
+2024-09-09,00:20:00,Gurgaon,Deboarding,7
+2024-09-09,00:25:00,Chandni Chowk,Deboarding,10
+2024-09-09,00:30:00,Gurgaon,Deboarding,30
+2024-09-09,00:35:00,Hauz Khas,Deboarding,3
+2024-09-09,00:40:00,Gurgaon,Boarding,20
+2024-09-09,00:45:00,Delhi University,Deboarding,28
+2024-09-09,00:50:00,Karol Bagh,Deboarding,2
+2024-09-09,00:55:00,Rajiv Chowk,Boarding,1
+2024-09-09,01:00:00,Delhi University,Deboarding,4
+2024-09-09,01:05:00,Red Fort,Boarding,8
+2024-09-09,01:10:00,Hauz Khas,Deboarding,21
+2024-09-09,01:15:00,Rajiv Chowk,Deboarding,13
+2024-09-09,01:20:00,Hauz Khas,Deboarding,18
+2024-09-09,01:25:00,Chandni Chowk,Boarding,16
+2024-09-09,01:30:00,Karol Bagh,Boarding,18
+2024-09-09,01:35:00,Hauz Khas,Deboarding,27
+2024-09-09,01:40:00,Hauz Khas,Boarding,10
+2024-09-09,01:45:00,Karol Bagh,Boarding,1
+2024-09-09,01:50:00,India Gate,Boarding,5
+2024-09-09,01:55:00,Nehru Place,Deboarding,5
+2024-09-09,02:00:00,India Gate,Boarding,21
+2024-09-09,02:05:00,Hauz Khas,Deboarding,29
+2024-09-09,02:10:00,Gurgaon,Deboarding,20
+2024-09-09,02:15:00,Karol Bagh,Deboarding,17
+2024-09-09,02:20:00,Hauz Khas,Deboarding,13
+2024-09-09,02:25:00,Rajiv Chowk,Boarding,6
+2024-09-09,02:30:00,Hauz Khas,Boarding,19
+2024-09-09,02:35:00,Nehru Place,Boarding,23
+2024-09-09,02:40:00,Delhi University,Deboarding,14
+2024-09-09,02:45:00,Delhi University,Deboarding,2
+2024-09-09,02:50:00,Connaught Place,Deboarding,23
+2024-09-09,02:55:00,Rajiv Chowk,Boarding,19
+2024-09-09,03:00:00,Nehru Place,Boarding,5
+2024-09-09,03:05:00,Delhi University,Deboarding,15
+2024-09-09,03:10:00,Delhi University,Boarding,17
+2024-09-09,03:15:00,Gurgaon,Boarding,8
+2024-09-09,03:20:00,Nehru Place,Boarding,22
+2024-09-09,03:25:00,Delhi University,Deboarding,20
+2024-09-09,03:30:00,Connaught Place,Deboarding,18
+2024-09-09,03:35:00,Connaught Place,Deboarding,15
+2024-09-09,03:40:00,Delhi University,Deboarding,19
+2024-09-09,03:45:00,Rajiv Chowk,Deboarding,12
+2024-09-09,03:50:00,Red Fort,Deboarding,6
+2024-09-09,03:55:00,Connaught Place,Deboarding,24
+2024-09-09,04:00:00,Gurgaon,Deboarding,2
+2024-09-09,04:05:00,Nehru Place,Boarding,19
+2024-09-09,04:10:00,Connaught Place,Deboarding,26
+2024-09-09,04:15:00,Gurgaon,Boarding,10
+2024-09-09,04:20:00,Nehru Place,Boarding,5
+2024-09-09,04:25:00,Delhi University,Boarding,28
+2024-09-09,04:30:00,Red Fort,Deboarding,5
+2024-09-09,04:35:00,Gurgaon,Deboarding,9
+2024-09-09,04:40:00,Red Fort,Boarding,24
+2024-09-09,04:45:00,India Gate,Boarding,30
+2024-09-09,04:50:00,Gurgaon,Boarding,22
+2024-09-09,04:55:00,Nehru Place,Deboarding,26
+2024-09-09,05:00:00,Karol Bagh,Deboarding,26
+2024-09-09,05:05:00,Chandni Chowk,Deboarding,6
+2024-09-09,05:10:00,Delhi University,Boarding,11
+2024-09-09,05:15:00,India Gate,Boarding,20
+2024-09-09,05:20:00,Karol Bagh,Deboarding,25
+2024-09-09,05:25:00,Hauz Khas,Deboarding,8
+2024-09-09,05:30:00,Nehru Place,Boarding,7
+2024-09-09,05:35:00,Gurgaon,Deboarding,2
+2024-09-09,05:40:00,Red Fort,Boarding,2
+2024-09-09,05:45:00,Karol Bagh,Deboarding,13
+2024-09-09,05:50:00,Nehru Place,Deboarding,16
+2024-09-09,05:55:00,Delhi University,Boarding,13
+2024-09-09,06:00:00,Hauz Khas,Deboarding,9
+2024-09-09,06:05:00,Karol Bagh,Deboarding,1
+2024-09-09,06:10:00,Red Fort,Deboarding,13
+2024-09-09,06:15:00,Rajiv Chowk,Boarding,4
+2024-09-09,06:20:00,Delhi University,Deboarding,28
+2024-09-09,06:25:00,Hauz Khas,Deboarding,11
+2024-09-09,06:30:00,Red Fort,Deboarding,26
+2024-09-09,06:35:00,India Gate,Deboarding,21
+2024-09-09,06:40:00,Gurgaon,Deboarding,15
+2024-09-09,06:45:00,Chandni Chowk,Boarding,17
+2024-09-09,06:50:00,Rajiv Chowk,Boarding,11
+2024-09-09,06:55:00,Delhi University,Boarding,22
+2024-09-09,07:00:00,Connaught Place,Boarding,1
+2024-09-09,07:05:00,Hauz Khas,Boarding,17
+2024-09-09,07:10:00,India Gate,Deboarding,12
+2024-09-09,07:15:00,Chandni Chowk,Deboarding,9
+2024-09-09,07:20:00,Chandni Chowk,Boarding,1
+2024-09-09,07:25:00,Gurgaon,Boarding,2
+2024-09-09,07:30:00,Gurgaon,Boarding,20
+2024-09-09,07:35:00,India Gate,Boarding,3
+2024-09-09,07:40:00,Gurgaon,Boarding,13
+2024-09-09,07:45:00,Gurgaon,Boarding,29
+2024-09-09,07:50:00,India Gate,Boarding,9
+2024-09-09,07:55:00,Red Fort,Deboarding,22
+2024-09-09,08:00:00,India Gate,Deboarding,30
+2024-09-09,08:05:00,Red Fort,Deboarding,23
+2024-09-09,08:10:00,Rajiv Chowk,Deboarding,6
+2024-09-09,08:15:00,India Gate,Deboarding,25
+2024-09-09,08:20:00,Connaught Place,Deboarding,13
+2024-09-09,08:25:00,Rajiv Chowk,Boarding,9
+2024-09-09,08:30:00,Red Fort,Boarding,15
+2024-09-09,08:35:00,India Gate,Deboarding,30
+2024-09-09,08:40:00,Chandni Chowk,Deboarding,6
+2024-09-09,08:45:00,Nehru Place,Boarding,5
+2024-09-09,08:50:00,Delhi University,Deboarding,7
+2024-09-09,08:55:00,Gurgaon,Boarding,30
+2024-09-09,09:00:00,Nehru Place,Deboarding,4
+2024-09-09,09:05:00,Connaught Place,Boarding,3
+2024-09-09,09:10:00,Gurgaon,Deboarding,25
+2024-09-09,09:15:00,Nehru Place,Boarding,29
+2024-09-09,09:20:00,Nehru Place,Boarding,21
+2024-09-09,09:25:00,Connaught Place,Boarding,22
+2024-09-09,09:30:00,Hauz Khas,Deboarding,5
+2024-09-09,09:35:00,Rajiv Chowk,Deboarding,19
+2024-09-09,09:40:00,Connaught Place,Deboarding,16
+2024-09-09,09:45:00,Hauz Khas,Deboarding,28
+2024-09-09,09:50:00,India Gate,Boarding,1
+2024-09-09,09:55:00,Hauz Khas,Deboarding,4
+2024-09-09,10:00:00,Gurgaon,Deboarding,11
+2024-09-09,10:05:00,Red Fort,Deboarding,2
+2024-09-09,10:10:00,India Gate,Deboarding,18
+2024-09-09,10:15:00,Rajiv Chowk,Boarding,27
+2024-09-09,10:20:00,Nehru Place,Deboarding,21
+2024-09-09,10:25:00,Chandni Chowk,Boarding,18
+2024-09-09,10:30:00,Connaught Place,Deboarding,22
+2024-09-09,10:35:00,Chandni Chowk,Deboarding,23
+2024-09-09,10:40:00,Hauz Khas,Boarding,21
+2024-09-09,10:45:00,Rajiv Chowk,Deboarding,3
+2024-09-09,10:50:00,Nehru Place,Boarding,5
+2024-09-09,10:55:00,Connaught Place,Boarding,1
+2024-09-09,11:00:00,Gurgaon,Boarding,16
+2024-09-09,11:05:00,Hauz Khas,Boarding,26
+2024-09-09,11:10:00,Delhi University,Deboarding,16
+2024-09-09,11:15:00,Delhi University,Deboarding,1
+2024-09-09,11:20:00,Connaught Place,Deboarding,2
+2024-09-09,11:25:00,Rajiv Chowk,Boarding,13
+2024-09-09,11:30:00,India Gate,Boarding,26
+2024-09-09,11:35:00,Delhi University,Deboarding,22
+2024-09-09,11:40:00,Delhi University,Boarding,24
+2024-09-09,11:45:00,Gurgaon,Boarding,30
+2024-09-09,11:50:00,India Gate,Boarding,24
+2024-09-09,11:55:00,Karol Bagh,Deboarding,21
+2024-09-09,12:00:00,Connaught Place,Deboarding,30
+2024-09-09,12:05:00,Gurgaon,Boarding,8
+2024-09-09,12:10:00,Karol Bagh,Boarding,6
+2024-09-09,12:15:00,Connaught Place,Deboarding,27
+2024-09-09,12:20:00,India Gate,Deboarding,20
+2024-09-09,12:25:00,Karol Bagh,Boarding,27
+2024-09-09,12:30:00,India Gate,Boarding,16
+2024-09-09,12:35:00,Gurgaon,Boarding,3
+2024-09-09,12:40:00,Chandni Chowk,Deboarding,11
+2024-09-09,12:45:00,Hauz Khas,Deboarding,4
+2024-09-09,12:50:00,Gurgaon,Boarding,11
+2024-09-09,12:55:00,Chandni Chowk,Boarding,19
+2024-09-09,13:00:00,Karol Bagh,Deboarding,3
+2024-09-09,13:05:00,India Gate,Deboarding,5
+2024-09-09,13:10:00,Hauz Khas,Boarding,23
+2024-09-09,13:15:00,Rajiv Chowk,Boarding,15
+2024-09-09,13:20:00,Chandni Chowk,Boarding,5
+2024-09-09,13:25:00,India Gate,Deboarding,25
+2024-09-09,13:30:00,Karol Bagh,Boarding,29
+2024-09-09,13:35:00,Nehru Place,Boarding,1
+2024-09-09,13:40:00,Connaught Place,Boarding,30
+2024-09-09,13:45:00,India Gate,Deboarding,14
+2024-09-09,13:50:00,Nehru Place,Boarding,7
+2024-09-09,13:55:00,Karol Bagh,Deboarding,17
+2024-09-09,14:00:00,Nehru Place,Deboarding,8
+2024-09-09,14:05:00,Karol Bagh,Boarding,20
+2024-09-09,14:10:00,Karol Bagh,Deboarding,20
+2024-09-09,14:15:00,India Gate,Deboarding,12
+2024-09-09,14:20:00,Hauz Khas,Boarding,18
+2024-09-09,14:25:00,Chandni Chowk,Boarding,4
+2024-09-09,14:30:00,Delhi University,Boarding,20
+2024-09-09,14:35:00,Rajiv Chowk,Boarding,15
+2024-09-09,14:40:00,Chandni Chowk,Deboarding,2
+2024-09-09,14:45:00,Chandni Chowk,Boarding,26
+2024-09-09,14:50:00,Karol Bagh,Deboarding,16
+2024-09-09,14:55:00,Karol Bagh,Boarding,22
+2024-09-09,15:00:00,Connaught Place,Boarding,21
+2024-09-09,15:05:00,Rajiv Chowk,Deboarding,7
+2024-09-09,15:10:00,Hauz Khas,Deboarding,11
+2024-09-09,15:15:00,Gurgaon,Deboarding,2
+2024-09-09,15:20:00,India Gate,Boarding,30
+2024-09-09,15:25:00,Delhi University,Boarding,6
+2024-09-09,15:30:00,Connaught Place,Deboarding,17
+2024-09-09,15:35:00,India Gate,Boarding,29
+2024-09-09,15:40:00,Chandni Chowk,Deboarding,19
+2024-09-09,15:45:00,Gurgaon,Deboarding,14
+2024-09-09,15:50:00,Chandni Chowk,Deboarding,8
+2024-09-09,15:55:00,India Gate,Deboarding,8
+2024-09-09,16:00:00,India Gate,Boarding,24
+2024-09-09,16:05:00,Hauz Khas,Boarding,13
+2024-09-09,16:10:00,Chandni Chowk,Boarding,16
+2024-09-09,16:15:00,Gurgaon,Deboarding,2
+2024-09-09,16:20:00,Hauz Khas,Boarding,7
+2024-09-09,16:25:00,Gurgaon,Deboarding,6
+2024-09-09,16:30:00,Hauz Khas,Deboarding,5
+2024-09-09,16:35:00,Nehru Place,Boarding,21
+2024-09-09,16:40:00,Rajiv Chowk,Deboarding,7
+2024-09-09,16:45:00,Rajiv Chowk,Boarding,2
+2024-09-09,16:50:00,Gurgaon,Boarding,9
+2024-09-09,16:55:00,Karol Bagh,Boarding,28
+2024-09-09,17:00:00,Nehru Place,Deboarding,14
+2024-09-09,17:05:00,Karol Bagh,Deboarding,8
+2024-09-09,17:10:00,Red Fort,Boarding,26
+2024-09-09,17:15:00,Gurgaon,Boarding,19
+2024-09-09,17:20:00,Delhi University,Boarding,3
+2024-09-09,17:25:00,Hauz Khas,Deboarding,28
+2024-09-09,17:30:00,Chandni Chowk,Deboarding,27
+2024-09-09,17:35:00,Nehru Place,Deboarding,1
+2024-09-09,17:40:00,Hauz Khas,Boarding,8
+2024-09-09,17:45:00,Rajiv Chowk,Deboarding,19
+2024-09-09,17:50:00,Chandni Chowk,Boarding,30
+2024-09-09,17:55:00,Gurgaon,Boarding,14
+2024-09-09,18:00:00,Connaught Place,Boarding,16
+2024-09-09,18:05:00,Delhi University,Boarding,14
+2024-09-09,18:10:00,Delhi University,Deboarding,16
+2024-09-09,18:15:00,India Gate,Deboarding,16
+2024-09-09,18:20:00,Chandni Chowk,Boarding,18
+2024-09-09,18:25:00,Connaught Place,Deboarding,7
+2024-09-09,18:30:00,Karol Bagh,Deboarding,10
+2024-09-09,18:35:00,Chandni Chowk,Boarding,1
+2024-09-09,18:40:00,Nehru Place,Deboarding,6
+2024-09-09,18:45:00,Nehru Place,Boarding,15
+2024-09-09,18:50:00,Nehru Place,Boarding,28
+2024-09-09,18:55:00,Hauz Khas,Boarding,26
+2024-09-09,19:00:00,Rajiv Chowk,Deboarding,23
+2024-09-09,19:05:00,Connaught Place,Boarding,13
+2024-09-09,19:10:00,Rajiv Chowk,Boarding,10
+2024-09-09,19:15:00,Hauz Khas,Deboarding,23
+2024-09-09,19:20:00,Gurgaon,Boarding,26
+2024-09-09,19:25:00,India Gate,Deboarding,24
+2024-09-09,19:30:00,Connaught Place,Deboarding,29
+2024-09-09,19:35:00,Connaught Place,Boarding,13
+2024-09-09,19:40:00,Rajiv Chowk,Deboarding,20
+2024-09-09,19:45:00,Connaught Place,Deboarding,12
+2024-09-09,19:50:00,Karol Bagh,Boarding,18
+2024-09-09,19:55:00,Chandni Chowk,Boarding,11
+2024-09-09,20:00:00,Chandni Chowk,Boarding,21
+2024-09-09,20:05:00,Nehru Place,Boarding,25
+2024-09-09,20:10:00,Chandni Chowk,Deboarding,12
+2024-09-09,20:15:00,Red Fort,Deboarding,9
+2024-09-09,20:20:00,Connaught Place,Boarding,12
+2024-09-09,20:25:00,Rajiv Chowk,Deboarding,16
+2024-09-09,20:30:00,Delhi University,Boarding,16
+2024-09-09,20:35:00,Delhi University,Deboarding,15
+2024-09-09,20:40:00,Gurgaon,Deboarding,26
+2024-09-09,20:45:00,India Gate,Boarding,29
+2024-09-09,20:50:00,Nehru Place,Boarding,3
+2024-09-09,20:55:00,Hauz Khas,Boarding,10
+2024-09-09,21:00:00,India Gate,Boarding,6
+2024-09-09,21:05:00,Red Fort,Boarding,23
+2024-09-09,21:10:00,Karol Bagh,Deboarding,5
+2024-09-09,21:15:00,Chandni Chowk,Boarding,10
+2024-09-09,21:20:00,Hauz Khas,Boarding,16
+2024-09-09,21:25:00,Rajiv Chowk,Deboarding,15
+2024-09-09,21:30:00,Connaught Place,Deboarding,7
+2024-09-09,21:35:00,India Gate,Boarding,28
+2024-09-09,21:40:00,Chandni Chowk,Deboarding,14
+2024-09-09,21:45:00,Gurgaon,Deboarding,21
+2024-09-09,21:50:00,Rajiv Chowk,Deboarding,19
+2024-09-09,21:55:00,Delhi University,Deboarding,15
+2024-09-09,22:00:00,Red Fort,Boarding,29
+2024-09-09,22:05:00,Red Fort,Boarding,26
+2024-09-09,22:10:00,Red Fort,Boarding,16
+2024-09-09,22:15:00,Rajiv Chowk,Deboarding,25
+2024-09-09,22:20:00,Connaught Place,Boarding,12
+2024-09-09,22:25:00,Red Fort,Deboarding,6
+2024-09-09,22:30:00,Gurgaon,Boarding,23
+2024-09-09,22:35:00,Delhi University,Deboarding,6
+2024-09-09,22:40:00,Karol Bagh,Boarding,6
+2024-09-09,22:45:00,Chandni Chowk,Boarding,2
+2024-09-09,22:50:00,Rajiv Chowk,Boarding,15
+2024-09-09,22:55:00,Red Fort,Deboarding,6
+2024-09-09,23:00:00,Chandni Chowk,Boarding,22
+2024-09-09,23:05:00,Rajiv Chowk,Deboarding,5
+2024-09-09,23:10:00,Rajiv Chowk,Deboarding,18
+2024-09-09,23:15:00,Karol Bagh,Deboarding,4
+2024-09-09,23:20:00,Connaught Place,Deboarding,30
+2024-09-09,23:25:00,Nehru Place,Boarding,15
+2024-09-09,23:30:00,Rajiv Chowk,Boarding,1
+2024-09-09,23:35:00,Delhi University,Deboarding,21
+2024-09-09,23:40:00,Red Fort,Deboarding,29
+2024-09-09,23:45:00,Red Fort,Boarding,26
+2024-09-09,23:50:00,Gurgaon,Deboarding,11
+2024-09-09,23:55:00,India Gate,Deboarding,29
+2024-09-10,00:00:00,Connaught Place,Boarding,22
+2024-09-10,00:05:00,Delhi University,Boarding,10
+2024-09-10,00:10:00,Connaught Place,Deboarding,20
+2024-09-10,00:15:00,Chandni Chowk,Deboarding,12
+2024-09-10,00:20:00,India Gate,Deboarding,2
+2024-09-10,00:25:00,Gurgaon,Boarding,19
+2024-09-10,00:30:00,Delhi University,Boarding,26
+2024-09-10,00:35:00,Red Fort,Boarding,1
+2024-09-10,00:40:00,India Gate,Deboarding,22
+2024-09-10,00:45:00,India Gate,Deboarding,7
+2024-09-10,00:50:00,Nehru Place,Deboarding,20
+2024-09-10,00:55:00,Gurgaon,Boarding,30
+2024-09-10,01:00:00,Rajiv Chowk,Deboarding,5
+2024-09-10,01:05:00,Hauz Khas,Deboarding,13
+2024-09-10,01:10:00,Rajiv Chowk,Boarding,10
+2024-09-10,01:15:00,Rajiv Chowk,Deboarding,10
+2024-09-10,01:20:00,Nehru Place,Boarding,7
+2024-09-10,01:25:00,Nehru Place,Deboarding,26
+2024-09-10,01:30:00,Nehru Place,Deboarding,6
+2024-09-10,01:35:00,Hauz Khas,Deboarding,5
+2024-09-10,01:40:00,Gurgaon,Boarding,5
+2024-09-10,01:45:00,Chandni Chowk,Deboarding,16
+2024-09-10,01:50:00,Delhi University,Deboarding,3
+2024-09-10,01:55:00,Gurgaon,Deboarding,3
+2024-09-10,02:00:00,Connaught Place,Deboarding,21
+2024-09-10,02:05:00,Red Fort,Deboarding,6
+2024-09-10,02:10:00,Delhi University,Deboarding,23
+2024-09-10,02:15:00,Gurgaon,Boarding,7
+2024-09-10,02:20:00,Karol Bagh,Deboarding,10
+2024-09-10,02:25:00,Delhi University,Deboarding,2
+2024-09-10,02:30:00,Red Fort,Deboarding,16
+2024-09-10,02:35:00,Delhi University,Deboarding,8
+2024-09-10,02:40:00,Connaught Place,Boarding,5
+2024-09-10,02:45:00,Red Fort,Deboarding,21
+2024-09-10,02:50:00,Nehru Place,Boarding,21
+2024-09-10,02:55:00,Red Fort,Deboarding,6
+2024-09-10,03:00:00,Nehru Place,Boarding,1
+2024-09-10,03:05:00,India Gate,Deboarding,16
+2024-09-10,03:10:00,India Gate,Deboarding,19
+2024-09-10,03:15:00,Nehru Place,Deboarding,28
+2024-09-10,03:20:00,Red Fort,Deboarding,23
+2024-09-10,03:25:00,India Gate,Deboarding,17
+2024-09-10,03:30:00,Gurgaon,Boarding,28
+2024-09-10,03:35:00,Red Fort,Boarding,19
+2024-09-10,03:40:00,Connaught Place,Boarding,11
+2024-09-10,03:45:00,Nehru Place,Boarding,12
+2024-09-10,03:50:00,Karol Bagh,Boarding,9
+2024-09-10,03:55:00,Rajiv Chowk,Deboarding,21
+2024-09-10,04:00:00,Rajiv Chowk,Boarding,10
+2024-09-10,04:05:00,Red Fort,Boarding,17
+2024-09-10,04:10:00,Chandni Chowk,Boarding,25
+2024-09-10,04:15:00,India Gate,Boarding,18
+2024-09-10,04:20:00,Rajiv Chowk,Deboarding,27
+2024-09-10,04:25:00,Red Fort,Deboarding,22
+2024-09-10,04:30:00,Rajiv Chowk,Boarding,18
+2024-09-10,04:35:00,Gurgaon,Deboarding,27
+2024-09-10,04:40:00,Karol Bagh,Boarding,5
+2024-09-10,04:45:00,Delhi University,Deboarding,12
+2024-09-10,04:50:00,Nehru Place,Deboarding,11
+2024-09-10,04:55:00,Karol Bagh,Boarding,7
+2024-09-10,05:00:00,Karol Bagh,Boarding,27
+2024-09-10,05:05:00,Chandni Chowk,Boarding,14
+2024-09-10,05:10:00,Nehru Place,Boarding,4
+2024-09-10,05:15:00,Karol Bagh,Boarding,16
+2024-09-10,05:20:00,Rajiv Chowk,Deboarding,23
+2024-09-10,05:25:00,Rajiv Chowk,Boarding,27
+2024-09-10,05:30:00,Nehru Place,Deboarding,6
+2024-09-10,05:35:00,Red Fort,Boarding,24
+2024-09-10,05:40:00,India Gate,Boarding,5
+2024-09-10,05:45:00,Karol Bagh,Boarding,10
+2024-09-10,05:50:00,Karol Bagh,Boarding,5
+2024-09-10,05:55:00,India Gate,Deboarding,23
+2024-09-10,06:00:00,India Gate,Boarding,1
+2024-09-10,06:05:00,Nehru Place,Deboarding,2
+2024-09-10,06:10:00,Chandni Chowk,Boarding,2
+2024-09-10,06:15:00,Delhi University,Boarding,16
+2024-09-10,06:20:00,India Gate,Deboarding,2
+2024-09-10,06:25:00,India Gate,Deboarding,22
+2024-09-10,06:30:00,Connaught Place,Boarding,26
+2024-09-10,06:35:00,India Gate,Boarding,19
+2024-09-10,06:40:00,Chandni Chowk,Boarding,22
+2024-09-10,06:45:00,Rajiv Chowk,Boarding,3
+2024-09-10,06:50:00,Karol Bagh,Deboarding,19
+2024-09-10,06:55:00,Rajiv Chowk,Deboarding,6
+2024-09-10,07:00:00,Delhi University,Boarding,17
+2024-09-10,07:05:00,Gurgaon,Boarding,4
+2024-09-10,07:10:00,Gurgaon,Boarding,17
+2024-09-10,07:15:00,Chandni Chowk,Boarding,10
+2024-09-10,07:20:00,Karol Bagh,Boarding,24
+2024-09-10,07:25:00,India Gate,Boarding,30
+2024-09-10,07:30:00,Delhi University,Deboarding,12
+2024-09-10,07:35:00,Gurgaon,Boarding,15
+2024-09-10,07:40:00,India Gate,Boarding,27
+2024-09-10,07:45:00,Rajiv Chowk,Deboarding,14
+2024-09-10,07:50:00,Chandni Chowk,Boarding,14
+2024-09-10,07:55:00,India Gate,Deboarding,4
+2024-09-10,08:00:00,Nehru Place,Boarding,17
+2024-09-10,08:05:00,Karol Bagh,Deboarding,25
+2024-09-10,08:10:00,Rajiv Chowk,Deboarding,18
+2024-09-10,08:15:00,Connaught Place,Boarding,11
+2024-09-10,08:20:00,Nehru Place,Boarding,13
+2024-09-10,08:25:00,Red Fort,Deboarding,20
+2024-09-10,08:30:00,Red Fort,Deboarding,8
+2024-09-10,08:35:00,Delhi University,Deboarding,10
+2024-09-10,08:40:00,Hauz Khas,Boarding,28
+2024-09-10,08:45:00,India Gate,Deboarding,22
+2024-09-10,08:50:00,Rajiv Chowk,Boarding,1
+2024-09-10,08:55:00,Nehru Place,Boarding,13
+2024-09-10,09:00:00,Nehru Place,Boarding,4
+2024-09-10,09:05:00,Karol Bagh,Deboarding,13
+2024-09-10,09:10:00,Gurgaon,Boarding,24
+2024-09-10,09:15:00,Karol Bagh,Boarding,12
+2024-09-10,09:20:00,Chandni Chowk,Deboarding,7
+2024-09-10,09:25:00,Gurgaon,Deboarding,4
+2024-09-10,09:30:00,Chandni Chowk,Deboarding,24
+2024-09-10,09:35:00,Nehru Place,Deboarding,25
+2024-09-10,09:40:00,Gurgaon,Deboarding,25
+2024-09-10,09:45:00,Hauz Khas,Deboarding,16
+2024-09-10,09:50:00,Gurgaon,Deboarding,16
+2024-09-10,09:55:00,Delhi University,Deboarding,5
+2024-09-10,10:00:00,Nehru Place,Boarding,4
+2024-09-10,10:05:00,Red Fort,Deboarding,16
+2024-09-10,10:10:00,Chandni Chowk,Boarding,1
+2024-09-10,10:15:00,India Gate,Boarding,27
+2024-09-10,10:20:00,India Gate,Deboarding,22
+2024-09-10,10:25:00,Connaught Place,Boarding,13
+2024-09-10,10:30:00,Gurgaon,Deboarding,5
+2024-09-10,10:35:00,Red Fort,Boarding,25
+2024-09-10,10:40:00,India Gate,Deboarding,26
+2024-09-10,10:45:00,Nehru Place,Boarding,10
+2024-09-10,10:50:00,Nehru Place,Deboarding,17
+2024-09-10,10:55:00,Red Fort,Deboarding,26
+2024-09-10,11:00:00,Delhi University,Boarding,25
+2024-09-10,11:05:00,Connaught Place,Deboarding,29
+2024-09-10,11:10:00,India Gate,Deboarding,15
+2024-09-10,11:15:00,Rajiv Chowk,Deboarding,15
+2024-09-10,11:20:00,Nehru Place,Boarding,2
+2024-09-10,11:25:00,Karol Bagh,Deboarding,29
+2024-09-10,11:30:00,Karol Bagh,Deboarding,14
+2024-09-10,11:35:00,Karol Bagh,Deboarding,23
+2024-09-10,11:40:00,Hauz Khas,Deboarding,25
+2024-09-10,11:45:00,India Gate,Deboarding,22
+2024-09-10,11:50:00,Delhi University,Deboarding,16
+2024-09-10,11:55:00,Delhi University,Boarding,17
+2024-09-10,12:00:00,Connaught Place,Deboarding,9
+2024-09-10,12:05:00,Nehru Place,Deboarding,20
+2024-09-10,12:10:00,Rajiv Chowk,Deboarding,11
+2024-09-10,12:15:00,Connaught Place,Boarding,19
+2024-09-10,12:20:00,Connaught Place,Boarding,27
+2024-09-10,12:25:00,Rajiv Chowk,Deboarding,26
+2024-09-10,12:30:00,Gurgaon,Boarding,25
+2024-09-10,12:35:00,Rajiv Chowk,Deboarding,4
+2024-09-10,12:40:00,Hauz Khas,Deboarding,12
+2024-09-10,12:45:00,Hauz Khas,Deboarding,2
+2024-09-10,12:50:00,Chandni Chowk,Boarding,8
+2024-09-10,12:55:00,Red Fort,Boarding,30
+2024-09-10,13:00:00,India Gate,Deboarding,4
+2024-09-10,13:05:00,Rajiv Chowk,Boarding,1
+2024-09-10,13:10:00,Delhi University,Deboarding,2
+2024-09-10,13:15:00,Nehru Place,Deboarding,19
+2024-09-10,13:20:00,Delhi University,Deboarding,9
+2024-09-10,13:25:00,Connaught Place,Deboarding,19
+2024-09-10,13:30:00,Connaught Place,Deboarding,13
+2024-09-10,13:35:00,Gurgaon,Deboarding,11
+2024-09-10,13:40:00,Gurgaon,Boarding,26
+2024-09-10,13:45:00,Nehru Place,Boarding,23
+2024-09-10,13:50:00,Chandni Chowk,Deboarding,16
+2024-09-10,13:55:00,Delhi University,Deboarding,6
+2024-09-10,14:00:00,Gurgaon,Deboarding,12
+2024-09-10,14:05:00,Hauz Khas,Boarding,16
+2024-09-10,14:10:00,India Gate,Boarding,10
+2024-09-10,14:15:00,Red Fort,Boarding,10
+2024-09-10,14:20:00,Gurgaon,Deboarding,26
+2024-09-10,14:25:00,Chandni Chowk,Boarding,23
+2024-09-10,14:30:00,Gurgaon,Boarding,19
+2024-09-10,14:35:00,Rajiv Chowk,Deboarding,3
+2024-09-10,14:40:00,Gurgaon,Deboarding,14
+2024-09-10,14:45:00,Chandni Chowk,Deboarding,26
+2024-09-10,14:50:00,India Gate,Deboarding,17
+2024-09-10,14:55:00,Red Fort,Deboarding,22
+2024-09-10,15:00:00,Delhi University,Deboarding,7
+2024-09-10,15:05:00,Hauz Khas,Deboarding,9
+2024-09-10,15:10:00,Gurgaon,Deboarding,22
+2024-09-10,15:15:00,Delhi University,Boarding,29
+2024-09-10,15:20:00,Connaught Place,Boarding,19
+2024-09-10,15:25:00,Nehru Place,Boarding,22
+2024-09-10,15:30:00,Nehru Place,Deboarding,30
+2024-09-10,15:35:00,Delhi University,Deboarding,30
+2024-09-10,15:40:00,Gurgaon,Boarding,17
+2024-09-10,15:45:00,Chandni Chowk,Deboarding,15
+2024-09-10,15:50:00,Karol Bagh,Boarding,5
+2024-09-10,15:55:00,Red Fort,Deboarding,14
+2024-09-10,16:00:00,Rajiv Chowk,Boarding,21
+2024-09-10,16:05:00,Chandni Chowk,Deboarding,9
+2024-09-10,16:10:00,Red Fort,Boarding,9
+2024-09-10,16:15:00,Gurgaon,Boarding,13
+2024-09-10,16:20:00,Chandni Chowk,Boarding,5
+2024-09-10,16:25:00,Chandni Chowk,Boarding,8
+2024-09-10,16:30:00,Red Fort,Deboarding,16
+2024-09-10,16:35:00,Delhi University,Deboarding,14
+2024-09-10,16:40:00,Connaught Place,Boarding,6
+2024-09-10,16:45:00,Red Fort,Boarding,1
+2024-09-10,16:50:00,Red Fort,Deboarding,22
+2024-09-10,16:55:00,Delhi University,Boarding,21
+2024-09-10,17:00:00,Connaught Place,Deboarding,26
+2024-09-10,17:05:00,Connaught Place,Boarding,28
+2024-09-10,17:10:00,India Gate,Deboarding,20
+2024-09-10,17:15:00,Red Fort,Boarding,29
+2024-09-10,17:20:00,Hauz Khas,Deboarding,22
+2024-09-10,17:25:00,India Gate,Deboarding,27
+2024-09-10,17:30:00,Karol Bagh,Boarding,4
+2024-09-10,17:35:00,Gurgaon,Boarding,17
+2024-09-10,17:40:00,Gurgaon,Deboarding,16
+2024-09-10,17:45:00,India Gate,Boarding,20
+2024-09-10,17:50:00,India Gate,Deboarding,11
+2024-09-10,17:55:00,Gurgaon,Deboarding,26
+2024-09-10,18:00:00,Chandni Chowk,Deboarding,7
+2024-09-10,18:05:00,Karol Bagh,Boarding,6
+2024-09-10,18:10:00,Chandni Chowk,Deboarding,15
+2024-09-10,18:15:00,Hauz Khas,Deboarding,28
+2024-09-10,18:20:00,Gurgaon,Boarding,16
+2024-09-10,18:25:00,Delhi University,Deboarding,23
+2024-09-10,18:30:00,India Gate,Deboarding,18
+2024-09-10,18:35:00,Hauz Khas,Deboarding,22
+2024-09-10,18:40:00,Chandni Chowk,Deboarding,29
+2024-09-10,18:45:00,Karol Bagh,Deboarding,16
+2024-09-10,18:50:00,Rajiv Chowk,Deboarding,1
+2024-09-10,18:55:00,Gurgaon,Boarding,27
+2024-09-10,19:00:00,Connaught Place,Boarding,9
+2024-09-10,19:05:00,Delhi University,Deboarding,10
+2024-09-10,19:10:00,Rajiv Chowk,Boarding,18
+2024-09-10,19:15:00,Chandni Chowk,Deboarding,13
+2024-09-10,19:20:00,Connaught Place,Deboarding,30
+2024-09-10,19:25:00,Red Fort,Deboarding,3
+2024-09-10,19:30:00,Chandni Chowk,Deboarding,7
+2024-09-10,19:35:00,Karol Bagh,Deboarding,21
+2024-09-10,19:40:00,Rajiv Chowk,Deboarding,26
+2024-09-10,19:45:00,Connaught Place,Deboarding,28
+2024-09-10,19:50:00,India Gate,Deboarding,16
+2024-09-10,19:55:00,Hauz Khas,Deboarding,23
+2024-09-10,20:00:00,Hauz Khas,Boarding,27
+2024-09-10,20:05:00,Karol Bagh,Deboarding,17
+2024-09-10,20:10:00,India Gate,Deboarding,14
+2024-09-10,20:15:00,Gurgaon,Deboarding,15
+2024-09-10,20:20:00,Connaught Place,Boarding,21
+2024-09-10,20:25:00,Karol Bagh,Deboarding,26
+2024-09-10,20:30:00,Karol Bagh,Boarding,13
+2024-09-10,20:35:00,Chandni Chowk,Deboarding,11
+2024-09-10,20:40:00,Gurgaon,Boarding,4
+2024-09-10,20:45:00,Karol Bagh,Boarding,17
+2024-09-10,20:50:00,Karol Bagh,Deboarding,26
+2024-09-10,20:55:00,Rajiv Chowk,Deboarding,16
+2024-09-10,21:00:00,Karol Bagh,Deboarding,6
+2024-09-10,21:05:00,Gurgaon,Deboarding,26
+2024-09-10,21:10:00,Red Fort,Boarding,3
+2024-09-10,21:15:00,Hauz Khas,Deboarding,6
+2024-09-10,21:20:00,Hauz Khas,Deboarding,27
+2024-09-10,21:25:00,Gurgaon,Boarding,1
+2024-09-10,21:30:00,Connaught Place,Boarding,30
+2024-09-10,21:35:00,India Gate,Deboarding,7
+2024-09-10,21:40:00,Red Fort,Boarding,2
+2024-09-10,21:45:00,Hauz Khas,Deboarding,20
+2024-09-10,21:50:00,Red Fort,Boarding,3
+2024-09-10,21:55:00,Rajiv Chowk,Boarding,19
+2024-09-10,22:00:00,India Gate,Boarding,23
+2024-09-10,22:05:00,Delhi University,Deboarding,25
+2024-09-10,22:10:00,Nehru Place,Deboarding,4
+2024-09-10,22:15:00,Chandni Chowk,Boarding,7
+2024-09-10,22:20:00,Red Fort,Deboarding,24
+2024-09-10,22:25:00,Nehru Place,Deboarding,5
+2024-09-10,22:30:00,Hauz Khas,Boarding,20
+2024-09-10,22:35:00,Chandni Chowk,Deboarding,24
+2024-09-10,22:40:00,Chandni Chowk,Deboarding,6
+2024-09-10,22:45:00,Hauz Khas,Boarding,1
+2024-09-10,22:50:00,Red Fort,Deboarding,8
+2024-09-10,22:55:00,Gurgaon,Deboarding,30
+2024-09-10,23:00:00,Chandni Chowk,Deboarding,19
+2024-09-10,23:05:00,Nehru Place,Boarding,1
+2024-09-10,23:10:00,Nehru Place,Boarding,28
+2024-09-10,23:15:00,Rajiv Chowk,Deboarding,22
+2024-09-10,23:20:00,Chandni Chowk,Deboarding,23
+2024-09-10,23:25:00,Hauz Khas,Deboarding,3
+2024-09-10,23:30:00,India Gate,Boarding,2
+2024-09-10,23:35:00,Rajiv Chowk,Boarding,16
+2024-09-10,23:40:00,Rajiv Chowk,Boarding,1
+2024-09-10,23:45:00,Red Fort,Deboarding,10
+2024-09-10,23:50:00,Hauz Khas,Deboarding,5
+2024-09-10,23:55:00,Delhi University,Boarding,19
+2024-09-11,00:00:00,Karol Bagh,Deboarding,6
+2024-09-11,00:05:00,Delhi University,Deboarding,30
+2024-09-11,00:10:00,Rajiv Chowk,Deboarding,5
+2024-09-11,00:15:00,India Gate,Deboarding,23
+2024-09-11,00:20:00,Delhi University,Deboarding,5
+2024-09-11,00:25:00,Red Fort,Boarding,11
+2024-09-11,00:30:00,Connaught Place,Boarding,16
+2024-09-11,00:35:00,Red Fort,Deboarding,30
+2024-09-11,00:40:00,Hauz Khas,Deboarding,29
+2024-09-11,00:45:00,Red Fort,Deboarding,17
+2024-09-11,00:50:00,Rajiv Chowk,Deboarding,29
+2024-09-11,00:55:00,Karol Bagh,Deboarding,24
+2024-09-11,01:00:00,Nehru Place,Boarding,18
+2024-09-11,01:05:00,Nehru Place,Boarding,7
+2024-09-11,01:10:00,Karol Bagh,Boarding,8
+2024-09-11,01:15:00,Karol Bagh,Boarding,16
+2024-09-11,01:20:00,Red Fort,Boarding,23
+2024-09-11,01:25:00,Nehru Place,Deboarding,4
+2024-09-11,01:30:00,Nehru Place,Boarding,15
+2024-09-11,01:35:00,Rajiv Chowk,Deboarding,15
+2024-09-11,01:40:00,Nehru Place,Boarding,28
+2024-09-11,01:45:00,Karol Bagh,Boarding,12
+2024-09-11,01:50:00,India Gate,Boarding,28
+2024-09-11,01:55:00,Red Fort,Boarding,27
+2024-09-11,02:00:00,Karol Bagh,Deboarding,19
+2024-09-11,02:05:00,Gurgaon,Boarding,19
+2024-09-11,02:10:00,Connaught Place,Boarding,14
+2024-09-11,02:15:00,India Gate,Boarding,25
+2024-09-11,02:20:00,Nehru Place,Boarding,29
+2024-09-11,02:25:00,Rajiv Chowk,Boarding,10
+2024-09-11,02:30:00,India Gate,Deboarding,12
+2024-09-11,02:35:00,Gurgaon,Boarding,27
+2024-09-11,02:40:00,Rajiv Chowk,Boarding,1
+2024-09-11,02:45:00,India Gate,Deboarding,27
+2024-09-11,02:50:00,Nehru Place,Deboarding,21
+2024-09-11,02:55:00,Red Fort,Boarding,11
+2024-09-11,03:00:00,Connaught Place,Deboarding,11
+2024-09-11,03:05:00,Gurgaon,Boarding,7
+2024-09-11,03:10:00,Connaught Place,Deboarding,11
+2024-09-11,03:15:00,Connaught Place,Boarding,18
+2024-09-11,03:20:00,Gurgaon,Deboarding,3
+2024-09-11,03:25:00,Hauz Khas,Deboarding,6
+2024-09-11,03:30:00,Chandni Chowk,Deboarding,3
+2024-09-11,03:35:00,Connaught Place,Boarding,6
+2024-09-11,03:40:00,Hauz Khas,Deboarding,10
+2024-09-11,03:45:00,Karol Bagh,Boarding,10
+2024-09-11,03:50:00,Nehru Place,Deboarding,24
+2024-09-11,03:55:00,Red Fort,Boarding,12
+2024-09-11,04:00:00,India Gate,Deboarding,17
+2024-09-11,04:05:00,Chandni Chowk,Deboarding,15
+2024-09-11,04:10:00,Hauz Khas,Deboarding,9
+2024-09-11,04:15:00,Gurgaon,Deboarding,3
+2024-09-11,04:20:00,Hauz Khas,Deboarding,20
+2024-09-11,04:25:00,Karol Bagh,Deboarding,21
+2024-09-11,04:30:00,Hauz Khas,Boarding,2
+2024-09-11,04:35:00,Delhi University,Deboarding,15
+2024-09-11,04:40:00,Chandni Chowk,Boarding,30
+2024-09-11,04:45:00,Nehru Place,Boarding,10
+2024-09-11,04:50:00,Nehru Place,Deboarding,3
+2024-09-11,04:55:00,Nehru Place,Deboarding,5
+2024-09-11,05:00:00,Karol Bagh,Deboarding,27
+2024-09-11,05:05:00,Chandni Chowk,Deboarding,10
+2024-09-11,05:10:00,Gurgaon,Boarding,18
+2024-09-11,05:15:00,India Gate,Boarding,17
+2024-09-11,05:20:00,India Gate,Deboarding,14
+2024-09-11,05:25:00,India Gate,Deboarding,22
+2024-09-11,05:30:00,Gurgaon,Deboarding,12
+2024-09-11,05:35:00,Red Fort,Boarding,25
+2024-09-11,05:40:00,Delhi University,Boarding,4
+2024-09-11,05:45:00,Nehru Place,Boarding,26
+2024-09-11,05:50:00,Karol Bagh,Deboarding,2
+2024-09-11,05:55:00,India Gate,Deboarding,29
+2024-09-11,06:00:00,Red Fort,Deboarding,19
+2024-09-11,06:05:00,Nehru Place,Deboarding,20
+2024-09-11,06:10:00,Red Fort,Deboarding,30
+2024-09-11,06:15:00,Karol Bagh,Boarding,6
+2024-09-11,06:20:00,India Gate,Deboarding,28
+2024-09-11,06:25:00,India Gate,Deboarding,18
+2024-09-11,06:30:00,Connaught Place,Boarding,13
+2024-09-11,06:35:00,India Gate,Boarding,6
+2024-09-11,06:40:00,Nehru Place,Deboarding,23
+2024-09-11,06:45:00,Hauz Khas,Deboarding,10
+2024-09-11,06:50:00,Gurgaon,Deboarding,23
+2024-09-11,06:55:00,Hauz Khas,Deboarding,3
+2024-09-11,07:00:00,Karol Bagh,Boarding,1
+2024-09-11,07:05:00,Chandni Chowk,Boarding,27
+2024-09-11,07:10:00,Connaught Place,Boarding,28
+2024-09-11,07:15:00,Connaught Place,Boarding,16
+2024-09-11,07:20:00,Karol Bagh,Boarding,14
+2024-09-11,07:25:00,Delhi University,Boarding,3
+2024-09-11,07:30:00,Red Fort,Deboarding,5
+2024-09-11,07:35:00,Nehru Place,Deboarding,1
+2024-09-11,07:40:00,India Gate,Boarding,29
+2024-09-11,07:45:00,Karol Bagh,Deboarding,16
+2024-09-11,07:50:00,Nehru Place,Boarding,28
+2024-09-11,07:55:00,Nehru Place,Boarding,7
+2024-09-11,08:00:00,Red Fort,Deboarding,2
+2024-09-11,08:05:00,Rajiv Chowk,Boarding,4
+2024-09-11,08:10:00,Hauz Khas,Deboarding,28
+2024-09-11,08:15:00,Nehru Place,Deboarding,2
+2024-09-11,08:20:00,Nehru Place,Deboarding,16
+2024-09-11,08:25:00,Delhi University,Deboarding,8
+2024-09-11,08:30:00,Connaught Place,Boarding,14
+2024-09-11,08:35:00,Gurgaon,Deboarding,18
+2024-09-11,08:40:00,India Gate,Deboarding,29
+2024-09-11,08:45:00,Hauz Khas,Deboarding,4
+2024-09-11,08:50:00,Nehru Place,Deboarding,15
+2024-09-11,08:55:00,Hauz Khas,Boarding,6
+2024-09-11,09:00:00,Red Fort,Boarding,16
+2024-09-11,09:05:00,Rajiv Chowk,Deboarding,8
+2024-09-11,09:10:00,Delhi University,Boarding,19
+2024-09-11,09:15:00,Rajiv Chowk,Deboarding,5
+2024-09-11,09:20:00,Red Fort,Deboarding,14
+2024-09-11,09:25:00,Rajiv Chowk,Deboarding,26
+2024-09-11,09:30:00,Karol Bagh,Boarding,10
+2024-09-11,09:35:00,India Gate,Deboarding,5
+2024-09-11,09:40:00,Karol Bagh,Boarding,6
+2024-09-11,09:45:00,Gurgaon,Deboarding,4
+2024-09-11,09:50:00,Hauz Khas,Deboarding,10
+2024-09-11,09:55:00,Chandni Chowk,Boarding,18
+2024-09-11,10:00:00,Connaught Place,Boarding,12
+2024-09-11,10:05:00,Red Fort,Deboarding,22
+2024-09-11,10:10:00,Karol Bagh,Boarding,27
+2024-09-11,10:15:00,Delhi University,Boarding,26
+2024-09-11,10:20:00,India Gate,Deboarding,14
+2024-09-11,10:25:00,India Gate,Boarding,4
+2024-09-11,10:30:00,Delhi University,Boarding,16
+2024-09-11,10:35:00,Red Fort,Deboarding,26
+2024-09-11,10:40:00,Rajiv Chowk,Boarding,25
+2024-09-11,10:45:00,Delhi University,Deboarding,29
+2024-09-11,10:50:00,Karol Bagh,Boarding,23
+2024-09-11,10:55:00,Connaught Place,Deboarding,26
+2024-09-11,11:00:00,Nehru Place,Boarding,4
+2024-09-11,11:05:00,Gurgaon,Boarding,27
+2024-09-11,11:10:00,Delhi University,Boarding,17
+2024-09-11,11:15:00,India Gate,Boarding,21
+2024-09-11,11:20:00,India Gate,Boarding,30
+2024-09-11,11:25:00,Rajiv Chowk,Boarding,24
+2024-09-11,11:30:00,Red Fort,Deboarding,25
+2024-09-11,11:35:00,Delhi University,Deboarding,24
+2024-09-11,11:40:00,India Gate,Boarding,21
+2024-09-11,11:45:00,Rajiv Chowk,Deboarding,27
+2024-09-11,11:50:00,Karol Bagh,Boarding,28
+2024-09-11,11:55:00,Chandni Chowk,Deboarding,14
+2024-09-11,12:00:00,Connaught Place,Boarding,27
+2024-09-11,12:05:00,Nehru Place,Deboarding,10
+2024-09-11,12:10:00,Delhi University,Boarding,3
+2024-09-11,12:15:00,Red Fort,Deboarding,23
+2024-09-11,12:20:00,Hauz Khas,Deboarding,21
+2024-09-11,12:25:00,Chandni Chowk,Boarding,25
+2024-09-11,12:30:00,Delhi University,Deboarding,26
+2024-09-11,12:35:00,Chandni Chowk,Boarding,26
+2024-09-11,12:40:00,Hauz Khas,Deboarding,30
+2024-09-11,12:45:00,Hauz Khas,Deboarding,28
+2024-09-11,12:50:00,Delhi University,Deboarding,1
+2024-09-11,12:55:00,Nehru Place,Boarding,25
+2024-09-11,13:00:00,Connaught Place,Boarding,3
+2024-09-11,13:05:00,Rajiv Chowk,Deboarding,13
+2024-09-11,13:10:00,Karol Bagh,Deboarding,2
+2024-09-11,13:15:00,Hauz Khas,Boarding,22
+2024-09-11,13:20:00,Karol Bagh,Boarding,21
+2024-09-11,13:25:00,Delhi University,Deboarding,14
+2024-09-11,13:30:00,Hauz Khas,Deboarding,24
+2024-09-11,13:35:00,Rajiv Chowk,Deboarding,1
+2024-09-11,13:40:00,Red Fort,Boarding,23
+2024-09-11,13:45:00,Hauz Khas,Deboarding,21
+2024-09-11,13:50:00,Chandni Chowk,Deboarding,23
+2024-09-11,13:55:00,Rajiv Chowk,Deboarding,25
+2024-09-11,14:00:00,Chandni Chowk,Deboarding,3
+2024-09-11,14:05:00,Connaught Place,Deboarding,13
+2024-09-11,14:10:00,Karol Bagh,Deboarding,7
+2024-09-11,14:15:00,India Gate,Deboarding,17
+2024-09-11,14:20:00,Rajiv Chowk,Boarding,1
+2024-09-11,14:25:00,Connaught Place,Deboarding,8
+2024-09-11,14:30:00,Red Fort,Deboarding,17
+2024-09-11,14:35:00,India Gate,Boarding,27
+2024-09-11,14:40:00,Rajiv Chowk,Deboarding,21
+2024-09-11,14:45:00,Delhi University,Deboarding,4
+2024-09-11,14:50:00,Connaught Place,Boarding,15
+2024-09-11,14:55:00,Red Fort,Boarding,15
+2024-09-11,15:00:00,Rajiv Chowk,Boarding,26
+2024-09-11,15:05:00,Gurgaon,Boarding,12
+2024-09-11,15:10:00,Red Fort,Deboarding,22
+2024-09-11,15:15:00,Gurgaon,Boarding,23
+2024-09-11,15:20:00,Hauz Khas,Boarding,4
+2024-09-11,15:25:00,Rajiv Chowk,Boarding,27
+2024-09-11,15:30:00,Rajiv Chowk,Deboarding,4
+2024-09-11,15:35:00,Karol Bagh,Deboarding,27
+2024-09-11,15:40:00,Hauz Khas,Boarding,3
+2024-09-11,15:45:00,Connaught Place,Deboarding,29
+2024-09-11,15:50:00,Karol Bagh,Deboarding,7
+2024-09-11,15:55:00,Nehru Place,Boarding,12
+2024-09-11,16:00:00,Delhi University,Deboarding,19
+2024-09-11,16:05:00,Delhi University,Deboarding,28
+2024-09-11,16:10:00,Red Fort,Deboarding,21
+2024-09-11,16:15:00,Hauz Khas,Deboarding,23
+2024-09-11,16:20:00,Nehru Place,Deboarding,27
+2024-09-11,16:25:00,Karol Bagh,Boarding,17
+2024-09-11,16:30:00,Karol Bagh,Deboarding,23
+2024-09-11,16:35:00,Nehru Place,Boarding,23
+2024-09-11,16:40:00,Delhi University,Boarding,23
+2024-09-11,16:45:00,Chandni Chowk,Deboarding,16
+2024-09-11,16:50:00,Connaught Place,Boarding,18
+2024-09-11,16:55:00,Rajiv Chowk,Boarding,20
