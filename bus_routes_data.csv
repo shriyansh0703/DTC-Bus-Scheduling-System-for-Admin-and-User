@@ -1,0 +1,2699 @@
+Start Bus Stop,End Bus Stop,Distance (km),Travel Time (minutes)
+India Gate,Connaught Place,8.12,57.29
+Red Fort,Chandni Chowk,14.91,37.93
+Chandni Chowk,Karol Bagh,3.96,13.58
+India Gate,Delhi University,2.1,52.64
+India Gate,Gurgaon,12.42,43.94
+Hauz Khas,Connaught Place,1.39,58.35
+Connaught Place,India Gate,16.82,16.68
+Delhi University,Gurgaon,4.45,15.09
+Connaught Place,Delhi University,6.78,33.86
+Chandni Chowk,Delhi University,9.21,21.02
+Hauz Khas,Chandni Chowk,12.63,12.67
+Nehru Place,Gurgaon,6.55,25.15
+Red Fort,Connaught Place,9.67,48.18
+Karol Bagh,Hauz Khas,4.79,33.28
+Rajiv Chowk,Red Fort,12.26,7.55
+Karol Bagh,Chandni Chowk,12.54,14.38
+Rajiv Chowk,India Gate,2.24,57.19
+India Gate,Hauz Khas,19.35,49.46
+India Gate,Rajiv Chowk,6.79,10.37
+Rajiv Chowk,Gurgaon,14.0,29.21
+Red Fort,Connaught Place,3.32,32.23
+Nehru Place,Delhi University,1.65,55.01
+India Gate,Hauz Khas,5.92,41.44
+India Gate,Delhi University,6.92,33.6
+Red Fort,Gurgaon,11.39,15.17
+Rajiv Chowk,Gurgaon,19.42,47.63
+Chandni Chowk,India Gate,18.85,54.22
+Connaught Place,Chandni Chowk,12.36,55.7
+Red Fort,India Gate,2.68,15.78
+Chandni Chowk,India Gate,1.86,22.89
+Hauz Khas,Red Fort,8.38,19.92
+Nehru Place,Rajiv Chowk,16.75,24.62
+Karol Bagh,Rajiv Chowk,6.34,34.85
+Rajiv Chowk,Chandni Chowk,3.68,49.12
+Red Fort,India Gate,2.42,59.28
+Gurgaon,Karol Bagh,15.67,15.93
+Delhi University,Chandni Chowk,1.1,49.85
+Karol Bagh,Nehru Place,14.43,45.1
+Hauz Khas,Red Fort,15.65,9.07
+Delhi University,Chandni Chowk,7.81,11.37
+Rajiv Chowk,Connaught Place,17.4,39.28
+Chandni Chowk,Connaught Place,7.29,8.5
+Rajiv Chowk,Hauz Khas,6.91,22.89
+Red Fort,India Gate,14.86,40.07
+Chandni Chowk,Gurgaon,17.86,30.97
+Rajiv Chowk,Chandni Chowk,3.27,44.23
+Nehru Place,Hauz Khas,15.45,35.87
+Nehru Place,Karol Bagh,15.65,32.16
+Red Fort,Karol Bagh,10.93,28.51
+Chandni Chowk,Delhi University,1.48,10.93
+Delhi University,Red Fort,1.6,40.0
+Gurgaon,Hauz Khas,6.97,32.97
+Gurgaon,Hauz Khas,18.24,18.71
+Rajiv Chowk,Chandni Chowk,8.8,46.56
+Karol Bagh,Delhi University,5.35,9.23
+Nehru Place,India Gate,6.51,13.87
+Connaught Place,India Gate,18.66,49.45
+Hauz Khas,Gurgaon,13.03,52.93
+India Gate,Hauz Khas,16.27,15.26
+Hauz Khas,Gurgaon,17.96,34.66
+Nehru Place,Delhi University,16.34,54.29
+Red Fort,Delhi University,7.04,11.05
+Connaught Place,India Gate,5.33,28.49
+Delhi University,Red Fort,16.54,52.34
+Rajiv Chowk,India Gate,1.13,33.09
+Red Fort,Hauz Khas,8.93,17.22
+Karol Bagh,Nehru Place,3.28,23.57
+Connaught Place,Red Fort,18.92,22.78
+Delhi University,Karol Bagh,10.86,43.67
+Delhi University,India Gate,7.91,58.45
+Red Fort,Delhi University,19.29,18.85
+Gurgaon,Chandni Chowk,10.45,21.55
+Karol Bagh,Rajiv Chowk,6.41,7.03
+Karol Bagh,Delhi University,12.58,32.65
+Delhi University,Connaught Place,1.98,20.33
+Gurgaon,Rajiv Chowk,18.26,18.18
+Nehru Place,Connaught Place,3.75,31.92
+India Gate,Rajiv Chowk,19.73,18.31
+Red Fort,Chandni Chowk,13.77,46.89
+Connaught Place,Chandni Chowk,5.52,45.05
+Gurgaon,India Gate,7.99,39.78
+India Gate,Nehru Place,13.04,34.47
+India Gate,Delhi University,2.72,50.94
+Nehru Place,Delhi University,7.09,15.26
+Karol Bagh,Red Fort,1.77,37.5
+Delhi University,Gurgaon,13.87,5.91
+Hauz Khas,Chandni Chowk,10.73,17.46
+Delhi University,Chandni Chowk,13.26,14.59
+Red Fort,Hauz Khas,14.13,26.27
+Rajiv Chowk,Nehru Place,18.8,12.56
+Delhi University,Nehru Place,7.48,11.24
+India Gate,Chandni Chowk,18.57,53.25
+Chandni Chowk,India Gate,5.9,41.3
+Rajiv Chowk,Connaught Place,16.53,35.54
+Gurgaon,Delhi University,11.06,18.3
+Chandni Chowk,Gurgaon,2.77,54.35
+Chandni Chowk,Connaught Place,18.11,39.82
+India Gate,Connaught Place,7.44,24.21
+Chandni Chowk,India Gate,14.79,54.34
+Connaught Place,Rajiv Chowk,17.85,47.89
+India Gate,Delhi University,13.2,9.63
+Chandni Chowk,Red Fort,4.07,54.42
+Nehru Place,Chandni Chowk,12.52,5.51
+Delhi University,Karol Bagh,2.93,41.49
+Nehru Place,Chandni Chowk,1.1,13.84
+Nehru Place,Hauz Khas,11.43,43.05
+Chandni Chowk,India Gate,13.39,17.33
+India Gate,Hauz Khas,14.53,18.05
+Rajiv Chowk,Hauz Khas,7.18,46.06
+Hauz Khas,Nehru Place,13.34,51.71
+Connaught Place,India Gate,13.49,36.26
+Connaught Place,Hauz Khas,2.78,25.22
+Rajiv Chowk,India Gate,6.04,18.42
+Chandni Chowk,Delhi University,19.49,26.62
+Nehru Place,Karol Bagh,17.95,39.71
+Hauz Khas,Karol Bagh,16.1,32.65
+Red Fort,Nehru Place,11.96,32.09
+Chandni Chowk,India Gate,4.71,44.73
+Nehru Place,Delhi University,6.33,6.34
+India Gate,Connaught Place,13.26,14.74
+Delhi University,Connaught Place,18.87,57.47
+India Gate,Chandni Chowk,18.38,25.36
+Karol Bagh,Hauz Khas,1.29,56.06
+Chandni Chowk,Hauz Khas,9.14,58.17
+Connaught Place,Karol Bagh,19.31,51.92
+Hauz Khas,Connaught Place,6.59,26.18
+Hauz Khas,Red Fort,17.17,22.43
+Nehru Place,Red Fort,4.22,35.62
+Hauz Khas,Delhi University,18.79,43.28
+Nehru Place,Karol Bagh,11.83,10.34
+Chandni Chowk,Red Fort,12.69,59.45
+Chandni Chowk,Connaught Place,3.66,33.51
+Gurgaon,Delhi University,17.67,45.74
+Connaught Place,Rajiv Chowk,14.24,43.64
+Gurgaon,Nehru Place,7.83,21.15
+Karol Bagh,Connaught Place,16.38,49.56
+Delhi University,India Gate,17.47,55.23
+Karol Bagh,India Gate,10.72,32.58
+Gurgaon,India Gate,16.17,40.75
+Chandni Chowk,Hauz Khas,14.34,48.77
+India Gate,Gurgaon,17.91,23.59
+Chandni Chowk,Gurgaon,8.14,10.17
+Gurgaon,Connaught Place,11.99,6.98
+Gurgaon,India Gate,9.85,34.85
+Hauz Khas,Gurgaon,6.44,37.5
+Gurgaon,Delhi University,1.58,7.05
+Rajiv Chowk,Red Fort,16.63,24.81
+Chandni Chowk,Rajiv Chowk,3.41,33.72
+Chandni Chowk,Red Fort,15.63,16.87
+Hauz Khas,Karol Bagh,12.83,9.69
+Red Fort,Nehru Place,1.98,34.22
+Rajiv Chowk,India Gate,11.27,40.06
+Connaught Place,Nehru Place,14.8,58.67
+Delhi University,Chandni Chowk,10.81,22.76
+Delhi University,Red Fort,16.11,19.9
+Karol Bagh,Rajiv Chowk,9.34,9.32
+India Gate,Chandni Chowk,1.48,57.95
+Rajiv Chowk,Red Fort,16.88,43.28
+Karol Bagh,Nehru Place,8.77,14.53
+Delhi University,Red Fort,3.97,18.76
+Gurgaon,Delhi University,11.44,44.3
+Connaught Place,Delhi University,13.54,20.4
+Red Fort,India Gate,19.14,45.58
+Karol Bagh,Red Fort,11.53,38.64
+Delhi University,Karol Bagh,8.97,18.63
+Gurgaon,Chandni Chowk,7.76,46.68
+Rajiv Chowk,Chandni Chowk,1.27,11.38
+Red Fort,Delhi University,1.87,7.24
+Nehru Place,Red Fort,17.25,43.7
+Connaught Place,India Gate,10.01,10.38
+Hauz Khas,Red Fort,10.34,31.04
+Rajiv Chowk,Karol Bagh,4.29,28.86
+Red Fort,Karol Bagh,8.57,38.87
+Nehru Place,Delhi University,13.07,7.49
+Hauz Khas,Delhi University,8.12,39.42
+Connaught Place,India Gate,10.56,52.11
+India Gate,Karol Bagh,13.52,13.96
+Delhi University,Connaught Place,2.34,40.33
+Rajiv Chowk,Gurgaon,1.5,37.22
+Delhi University,Karol Bagh,18.86,36.65
+Hauz Khas,Karol Bagh,8.38,40.38
+Connaught Place,Red Fort,9.71,35.01
+Rajiv Chowk,Connaught Place,18.89,26.24
+Rajiv Chowk,Chandni Chowk,19.26,54.79
+Chandni Chowk,India Gate,4.72,8.81
+Rajiv Chowk,Delhi University,2.91,6.0
+Hauz Khas,Gurgaon,2.79,42.57
+Karol Bagh,Chandni Chowk,2.35,22.54
+Hauz Khas,Connaught Place,17.05,6.28
+Karol Bagh,Rajiv Chowk,16.47,20.5
+Hauz Khas,Chandni Chowk,3.25,43.32
+Red Fort,Karol Bagh,12.95,53.26
+India Gate,Hauz Khas,14.97,49.19
+Connaught Place,Nehru Place,6.36,14.76
+Nehru Place,Rajiv Chowk,15.26,49.38
+Red Fort,Chandni Chowk,19.82,27.69
+Chandni Chowk,Connaught Place,8.07,47.7
+Chandni Chowk,Hauz Khas,7.48,56.19
+Rajiv Chowk,Red Fort,17.31,28.59
+India Gate,Red Fort,15.27,46.5
+Rajiv Chowk,Delhi University,2.96,54.64
+Hauz Khas,Delhi University,10.6,50.46
+Rajiv Chowk,Connaught Place,7.08,54.25
+India Gate,Red Fort,8.39,5.6
+Karol Bagh,Gurgaon,18.2,10.02
+Red Fort,Connaught Place,7.07,57.25
+India Gate,Gurgaon,19.06,36.54
+Hauz Khas,Rajiv Chowk,13.0,29.66
+Rajiv Chowk,Hauz Khas,6.57,23.08
+Gurgaon,Delhi University,13.78,46.38
+India Gate,Hauz Khas,16.04,48.43
+Gurgaon,Chandni Chowk,2.73,32.19
+Red Fort,Connaught Place,2.09,35.22
+Hauz Khas,Connaught Place,9.39,53.82
+Chandni Chowk,Rajiv Chowk,7.67,11.44
+Hauz Khas,India Gate,3.72,46.88
+Rajiv Chowk,Gurgaon,12.75,10.56
+Rajiv Chowk,India Gate,2.6,43.55
+Red Fort,Delhi University,2.38,50.2
+Red Fort,Hauz Khas,14.42,9.47
+Rajiv Chowk,Hauz Khas,2.61,59.27
+Red Fort,Delhi University,8.11,25.39
+Karol Bagh,Chandni Chowk,16.44,57.1
+Karol Bagh,Gurgaon,19.73,46.44
+Gurgaon,Red Fort,8.15,9.59
+Hauz Khas,Delhi University,15.77,35.71
+Connaught Place,Red Fort,9.06,54.85
+Red Fort,Chandni Chowk,3.11,32.09
+Hauz Khas,Gurgaon,1.22,30.78
+Gurgaon,Rajiv Chowk,2.07,11.53
+Nehru Place,Chandni Chowk,3.23,40.71
+Delhi University,Nehru Place,15.17,37.09
+Karol Bagh,India Gate,19.28,25.62
+Red Fort,Delhi University,6.43,52.77
+Gurgaon,Rajiv Chowk,5.25,57.98
+India Gate,Chandni Chowk,1.23,58.34
+Red Fort,Chandni Chowk,1.82,54.01
+Chandni Chowk,Karol Bagh,11.03,59.61
+Chandni Chowk,Nehru Place,2.4,35.46
+Gurgaon,India Gate,19.42,33.77
+Nehru Place,Hauz Khas,12.96,43.27
+Gurgaon,Chandni Chowk,9.64,39.52
+Hauz Khas,Nehru Place,12.1,54.56
+Hauz Khas,Chandni Chowk,1.86,20.45
+Karol Bagh,Connaught Place,19.06,53.96
+India Gate,Hauz Khas,9.66,39.11
+Chandni Chowk,Karol Bagh,6.27,15.35
+Delhi University,Nehru Place,9.81,24.43
+Connaught Place,Delhi University,12.09,9.28
+Chandni Chowk,India Gate,19.51,59.24
+Nehru Place,Karol Bagh,14.27,34.49
+Nehru Place,Delhi University,6.88,49.76
+Delhi University,Gurgaon,14.01,13.94
+Rajiv Chowk,Nehru Place,18.31,50.24
+Gurgaon,Delhi University,19.05,44.91
+Hauz Khas,Delhi University,12.65,28.0
+Nehru Place,Karol Bagh,18.72,52.63
+Red Fort,Chandni Chowk,1.86,6.45
+Red Fort,Delhi University,8.15,49.58
+Nehru Place,Chandni Chowk,19.76,13.27
+Red Fort,Nehru Place,12.29,25.95
+India Gate,Red Fort,19.43,51.32
+Chandni Chowk,Red Fort,16.93,30.78
+Delhi University,India Gate,8.88,20.04
+Chandni Chowk,Hauz Khas,2.07,52.56
+Karol Bagh,Chandni Chowk,16.45,59.98
+India Gate,Hauz Khas,19.94,35.55
+Hauz Khas,Rajiv Chowk,15.61,56.96
+Delhi University,Nehru Place,17.14,18.6
+Hauz Khas,Connaught Place,9.56,12.1
+Chandni Chowk,Hauz Khas,19.13,38.34
+Hauz Khas,Gurgaon,5.34,41.94
+Connaught Place,Gurgaon,12.74,24.7
+Hauz Khas,Nehru Place,3.16,41.94
+Connaught Place,Rajiv Chowk,10.89,47.48
+Red Fort,Hauz Khas,10.88,51.87
+Hauz Khas,Delhi University,11.49,35.85
+Delhi University,Gurgaon,17.66,27.19
+Chandni Chowk,Nehru Place,3.55,6.58
+Chandni Chowk,Red Fort,15.35,39.12
+Hauz Khas,Nehru Place,14.38,16.71
+Connaught Place,Hauz Khas,3.59,5.8
+Rajiv Chowk,Hauz Khas,7.66,37.45
+Karol Bagh,Nehru Place,8.45,29.06
+Karol Bagh,Gurgaon,18.18,24.15
+Delhi University,Connaught Place,10.77,48.1
+Hauz Khas,Gurgaon,8.53,39.21
+Gurgaon,Connaught Place,17.38,57.22
+India Gate,Hauz Khas,3.79,55.96
+Karol Bagh,Nehru Place,10.35,19.2
+Karol Bagh,Connaught Place,9.72,58.9
+Red Fort,Hauz Khas,10.36,23.08
+Rajiv Chowk,Chandni Chowk,13.03,18.21
+Nehru Place,Rajiv Chowk,2.44,12.09
+Rajiv Chowk,Hauz Khas,3.43,13.35
+Red Fort,Hauz Khas,3.64,40.25
+Red Fort,India Gate,4.46,24.01
+Nehru Place,Connaught Place,18.04,31.07
+Delhi University,Connaught Place,13.68,14.48
+Rajiv Chowk,Chandni Chowk,4.65,7.25
+India Gate,Connaught Place,4.21,20.32
+Connaught Place,Chandni Chowk,4.36,9.88
+Chandni Chowk,Connaught Place,3.29,30.34
+Gurgaon,Karol Bagh,4.92,25.03
+Chandni Chowk,Karol Bagh,10.56,42.97
+Nehru Place,India Gate,1.75,48.97
+Gurgaon,Chandni Chowk,12.93,9.5
+Nehru Place,Red Fort,17.6,55.65
+Rajiv Chowk,Karol Bagh,2.16,20.23
+India Gate,Karol Bagh,16.32,46.15
+Red Fort,India Gate,4.51,16.51
+Gurgaon,Connaught Place,8.04,31.65
+Red Fort,Gurgaon,12.75,25.29
+Chandni Chowk,India Gate,9.79,46.11
+Gurgaon,Chandni Chowk,1.7,18.88
+India Gate,Red Fort,14.55,54.24
+Gurgaon,India Gate,10.72,34.27
+Gurgaon,Connaught Place,3.04,29.61
+Rajiv Chowk,Delhi University,11.12,18.34
+Hauz Khas,Rajiv Chowk,6.12,25.75
+India Gate,Delhi University,1.38,22.71
+Rajiv Chowk,Connaught Place,5.02,23.01
+Hauz Khas,Nehru Place,3.28,53.98
+India Gate,Hauz Khas,12.28,42.35
+Rajiv Chowk,Nehru Place,15.99,32.41
+Karol Bagh,Hauz Khas,2.65,34.54
+Karol Bagh,Delhi University,12.15,46.0
+Red Fort,Gurgaon,9.2,12.02
+Delhi University,Nehru Place,6.39,24.97
+Nehru Place,Hauz Khas,13.27,36.39
+Gurgaon,Red Fort,7.77,59.26
+Rajiv Chowk,Chandni Chowk,12.51,18.05
+India Gate,Red Fort,2.93,13.41
+Nehru Place,Chandni Chowk,5.67,13.84
+Nehru Place,Gurgaon,4.54,20.68
+Gurgaon,Hauz Khas,4.29,54.32
+Rajiv Chowk,Connaught Place,2.52,33.85
+Nehru Place,Rajiv Chowk,8.8,59.03
+Karol Bagh,Nehru Place,3.13,26.88
+Chandni Chowk,Rajiv Chowk,19.42,52.6
+Red Fort,Rajiv Chowk,16.52,19.18
+Red Fort,Gurgaon,4.25,41.78
+Red Fort,Delhi University,18.66,35.62
+Connaught Place,Delhi University,11.86,20.4
+Chandni Chowk,India Gate,15.62,15.29
+Chandni Chowk,Hauz Khas,7.15,28.4
+Nehru Place,Delhi University,10.64,18.33
+Chandni Chowk,Nehru Place,3.18,38.58
+Connaught Place,India Gate,6.48,36.97
+Red Fort,Chandni Chowk,3.93,31.46
+Hauz Khas,Chandni Chowk,11.12,7.85
+Red Fort,Gurgaon,7.4,12.39
+Rajiv Chowk,Nehru Place,2.2,59.45
+Rajiv Chowk,Hauz Khas,7.12,49.54
+Delhi University,Rajiv Chowk,5.84,42.48
+Rajiv Chowk,Nehru Place,15.44,37.76
+Red Fort,Chandni Chowk,9.96,27.65
+India Gate,Chandni Chowk,7.63,56.12
+Rajiv Chowk,India Gate,16.78,58.08
+Delhi University,Karol Bagh,3.36,45.2
+Nehru Place,Red Fort,18.83,14.97
+Gurgaon,Delhi University,2.26,45.76
+Gurgaon,Red Fort,11.91,51.3
+India Gate,Chandni Chowk,3.66,48.74
+Red Fort,Chandni Chowk,4.83,14.0
+Rajiv Chowk,Karol Bagh,4.12,49.8
+Red Fort,Connaught Place,13.64,33.77
+Delhi University,Karol Bagh,7.82,53.25
+Red Fort,Connaught Place,8.46,49.91
+Connaught Place,Delhi University,9.34,25.73
+Red Fort,Karol Bagh,9.79,21.58
+Nehru Place,India Gate,15.2,32.65
+Connaught Place,Gurgaon,5.41,54.48
+Red Fort,Nehru Place,8.29,34.9
+Rajiv Chowk,Karol Bagh,18.22,39.33
+Connaught Place,Red Fort,3.22,56.69
+Nehru Place,India Gate,12.93,23.42
+India Gate,Hauz Khas,3.65,48.67
+Nehru Place,India Gate,12.78,34.34
+Gurgaon,Connaught Place,17.98,48.37
+Gurgaon,Red Fort,3.88,22.14
+India Gate,Chandni Chowk,5.72,45.92
+India Gate,Delhi University,1.64,36.34
+Hauz Khas,Gurgaon,15.49,53.22
+Chandni Chowk,Delhi University,7.5,50.17
+Hauz Khas,Nehru Place,3.1,51.55
+Nehru Place,Red Fort,3.42,26.85
+Gurgaon,Hauz Khas,16.15,13.25
+Red Fort,Gurgaon,5.36,44.72
+Gurgaon,Connaught Place,14.68,40.26
+Gurgaon,India Gate,14.19,34.85
+Red Fort,India Gate,5.78,24.01
+Karol Bagh,Chandni Chowk,4.45,54.96
+Karol Bagh,Delhi University,12.08,27.05
+India Gate,Karol Bagh,9.78,57.1
+Connaught Place,Hauz Khas,3.91,37.24
+Nehru Place,Gurgaon,10.61,38.63
+Nehru Place,Red Fort,1.34,52.97
+Connaught Place,Chandni Chowk,18.71,36.08
+Nehru Place,India Gate,14.24,55.74
+Chandni Chowk,Red Fort,14.44,13.39
+Gurgaon,Chandni Chowk,11.95,38.37
+Hauz Khas,India Gate,9.06,45.5
+Delhi University,Chandni Chowk,18.75,55.91
+Karol Bagh,Red Fort,9.57,11.23
+Karol Bagh,India Gate,19.71,51.14
+Connaught Place,Karol Bagh,3.37,55.65
+Red Fort,Gurgaon,17.53,33.54
+Gurgaon,Red Fort,12.23,26.95
+Nehru Place,India Gate,2.04,23.44
+Nehru Place,Red Fort,16.25,5.25
+Hauz Khas,Red Fort,7.34,26.9
+India Gate,Gurgaon,11.21,55.59
+Connaught Place,Hauz Khas,7.58,24.08
+Rajiv Chowk,Gurgaon,15.01,29.87
+Red Fort,Connaught Place,5.27,29.88
+India Gate,Chandni Chowk,3.68,14.7
+Connaught Place,Red Fort,10.47,28.04
+Gurgaon,Connaught Place,18.38,24.93
+Karol Bagh,Nehru Place,12.03,39.77
+Delhi University,Nehru Place,1.25,41.49
+Red Fort,Karol Bagh,4.38,57.86
+Gurgaon,Hauz Khas,3.82,27.8
+Nehru Place,India Gate,2.62,59.83
+Nehru Place,Rajiv Chowk,10.54,37.75
+Hauz Khas,Rajiv Chowk,2.27,46.25
+Rajiv Chowk,India Gate,4.99,54.39
+Karol Bagh,Rajiv Chowk,4.9,15.49
+Hauz Khas,Nehru Place,1.69,30.96
+Red Fort,Hauz Khas,11.73,8.61
+Delhi University,Connaught Place,15.74,29.93
+Nehru Place,India Gate,10.96,29.24
+Rajiv Chowk,Red Fort,8.61,35.78
+Rajiv Chowk,India Gate,3.95,15.01
+Hauz Khas,Delhi University,17.37,57.04
+Connaught Place,Delhi University,8.09,19.89
+Nehru Place,Hauz Khas,13.24,27.48
+Connaught Place,Chandni Chowk,1.48,13.59
+Delhi University,Rajiv Chowk,14.6,41.24
+Gurgaon,Nehru Place,1.51,17.21
+Nehru Place,Connaught Place,5.39,41.95
+Chandni Chowk,Red Fort,1.37,10.73
+Delhi University,Karol Bagh,16.2,14.82
+Red Fort,Nehru Place,13.4,18.1
+Nehru Place,India Gate,2.89,18.37
+Connaught Place,Gurgaon,14.72,52.06
+Chandni Chowk,Karol Bagh,16.77,26.85
+Red Fort,Delhi University,13.69,16.27
+Connaught Place,Delhi University,6.57,54.3
+Hauz Khas,India Gate,1.25,9.7
+Chandni Chowk,India Gate,4.95,6.46
+Nehru Place,India Gate,4.45,37.07
+Karol Bagh,Nehru Place,9.01,54.1
+Red Fort,Delhi University,16.53,23.8
+Red Fort,Hauz Khas,5.93,25.88
+Chandni Chowk,Nehru Place,12.22,19.74
+Delhi University,Karol Bagh,12.86,27.52
+Hauz Khas,Chandni Chowk,11.49,28.99
+Gurgaon,Delhi University,6.59,57.16
+Karol Bagh,India Gate,15.51,12.71
+Red Fort,Hauz Khas,17.5,31.81
+Rajiv Chowk,Delhi University,18.0,48.99
+Red Fort,Connaught Place,9.08,6.24
+Nehru Place,Karol Bagh,6.1,34.79
+Nehru Place,Delhi University,13.04,19.18
+Nehru Place,Rajiv Chowk,3.65,50.92
+Rajiv Chowk,Delhi University,19.7,33.91
+Delhi University,Hauz Khas,4.26,19.98
+Nehru Place,Rajiv Chowk,1.35,55.29
+Gurgaon,Hauz Khas,3.24,36.71
+Chandni Chowk,Hauz Khas,6.21,35.48
+Connaught Place,Rajiv Chowk,13.38,50.64
+Nehru Place,Hauz Khas,4.92,5.6
+Hauz Khas,Karol Bagh,3.6,54.5
+Nehru Place,Connaught Place,17.6,37.86
+Karol Bagh,Delhi University,12.41,41.58
+Gurgaon,Rajiv Chowk,4.33,55.29
+India Gate,Nehru Place,8.96,26.07
+India Gate,Delhi University,10.86,7.58
+Nehru Place,Connaught Place,4.16,45.59
+Karol Bagh,Hauz Khas,2.57,38.17
+Karol Bagh,India Gate,5.66,26.41
+Nehru Place,Red Fort,6.49,24.56
+Rajiv Chowk,Gurgaon,14.66,21.34
+Hauz Khas,India Gate,11.76,31.18
+Rajiv Chowk,Delhi University,13.61,56.53
+Hauz Khas,Rajiv Chowk,14.92,16.82
+Nehru Place,Delhi University,1.59,19.42
+Connaught Place,Gurgaon,12.31,7.83
+India Gate,Chandni Chowk,10.43,37.83
+Red Fort,Chandni Chowk,7.35,47.4
+India Gate,Hauz Khas,3.03,9.13
+Nehru Place,Karol Bagh,14.84,32.25
+Red Fort,Connaught Place,14.08,28.92
+Connaught Place,Rajiv Chowk,5.68,50.05
+Connaught Place,Red Fort,16.19,43.21
+Hauz Khas,Karol Bagh,6.17,37.46
+Chandni Chowk,Delhi University,7.86,10.04
+Hauz Khas,Gurgaon,18.43,12.53
+Karol Bagh,India Gate,19.05,29.53
+Gurgaon,Hauz Khas,4.52,34.8
+Gurgaon,Chandni Chowk,17.59,45.27
+Nehru Place,Gurgaon,16.32,41.23
+Karol Bagh,Chandni Chowk,14.15,51.71
+Nehru Place,Red Fort,5.74,31.92
+Nehru Place,Red Fort,5.2,59.32
+Connaught Place,Nehru Place,18.94,7.17
+Red Fort,Delhi University,14.41,55.89
+Karol Bagh,India Gate,4.43,36.24
+Nehru Place,Rajiv Chowk,18.39,6.87
+Gurgaon,Red Fort,14.25,21.35
+Hauz Khas,Red Fort,18.56,58.41
+Nehru Place,Red Fort,18.94,31.08
+Chandni Chowk,Hauz Khas,17.38,51.45
+Nehru Place,India Gate,7.06,50.59
+Chandni Chowk,Hauz Khas,1.7,37.79
+Gurgaon,Rajiv Chowk,5.37,11.63
+Gurgaon,Red Fort,2.46,43.3
+Red Fort,Connaught Place,7.46,44.86
+Hauz Khas,Red Fort,2.24,22.34
+Connaught Place,Gurgaon,11.25,48.49
+Connaught Place,Gurgaon,7.06,39.42
+Nehru Place,Red Fort,17.83,38.87
+Chandni Chowk,Gurgaon,5.43,6.34
+Rajiv Chowk,Chandni Chowk,17.53,6.17
+Chandni Chowk,Gurgaon,17.62,34.09
+Red Fort,Karol Bagh,18.84,48.93
+India Gate,Connaught Place,19.96,24.29
+Red Fort,Nehru Place,15.58,27.11
+Connaught Place,Gurgaon,10.12,39.51
+Rajiv Chowk,Karol Bagh,17.6,59.12
+India Gate,Red Fort,15.6,27.98
+Rajiv Chowk,Hauz Khas,9.01,45.57
+Karol Bagh,Chandni Chowk,5.54,11.08
+Karol Bagh,Delhi University,7.74,20.8
+Rajiv Chowk,Delhi University,6.63,17.85
+Delhi University,Red Fort,1.8,5.98
+Karol Bagh,Red Fort,19.77,28.53
+Nehru Place,Red Fort,8.3,42.38
+Rajiv Chowk,India Gate,5.15,57.25
+Nehru Place,India Gate,15.94,9.92
+Karol Bagh,Chandni Chowk,8.93,53.35
+Hauz Khas,Delhi University,18.95,30.71
+Rajiv Chowk,India Gate,12.65,14.19
+Hauz Khas,Connaught Place,19.83,17.74
+Red Fort,Delhi University,18.91,40.73
+India Gate,Nehru Place,12.55,33.2
+Rajiv Chowk,Red Fort,5.38,14.71
+Gurgaon,Hauz Khas,5.19,15.25
+Rajiv Chowk,India Gate,15.81,24.26
+Chandni Chowk,Nehru Place,2.1,58.3
+Connaught Place,Gurgaon,17.79,56.03
+Delhi University,Rajiv Chowk,19.9,14.56
+Gurgaon,Chandni Chowk,8.53,46.7
+India Gate,Nehru Place,14.22,13.46
+Red Fort,Hauz Khas,16.5,17.34
+India Gate,Karol Bagh,5.25,34.53
+Red Fort,Nehru Place,12.27,36.9
+Chandni Chowk,Delhi University,2.74,53.26
+Karol Bagh,Hauz Khas,6.05,12.12
+Nehru Place,Rajiv Chowk,17.89,57.56
+Delhi University,Hauz Khas,17.38,49.52
+Gurgaon,Karol Bagh,13.45,35.3
+Hauz Khas,India Gate,2.65,27.46
+Nehru Place,Gurgaon,8.08,19.29
+Hauz Khas,Red Fort,14.74,32.27
+Connaught Place,Rajiv Chowk,2.54,17.11
+Chandni Chowk,Nehru Place,13.98,9.19
+Nehru Place,Chandni Chowk,17.17,32.23
+Rajiv Chowk,India Gate,10.13,37.58
+Rajiv Chowk,Delhi University,16.67,24.13
+Rajiv Chowk,Connaught Place,13.88,36.12
+Hauz Khas,Red Fort,6.07,53.32
+Chandni Chowk,India Gate,16.15,41.21
+Nehru Place,India Gate,17.16,52.7
+Chandni Chowk,Gurgaon,14.46,51.04
+Rajiv Chowk,Chandni Chowk,14.25,42.41
+Karol Bagh,Gurgaon,12.75,46.4
+Chandni Chowk,India Gate,4.01,53.45
+Delhi University,Chandni Chowk,17.57,6.61
+Gurgaon,Chandni Chowk,16.69,12.09
+Chandni Chowk,Rajiv Chowk,7.37,45.89
+Karol Bagh,Gurgaon,4.05,49.99
+Connaught Place,Red Fort,16.81,32.91
+Delhi University,Red Fort,1.12,20.79
+Karol Bagh,India Gate,12.72,58.97
+Connaught Place,Karol Bagh,13.0,19.29
+Connaught Place,Rajiv Chowk,13.05,34.7
+Chandni Chowk,Gurgaon,15.82,10.88
+Rajiv Chowk,Connaught Place,15.46,34.77
+Karol Bagh,Red Fort,19.3,23.8
+Connaught Place,Karol Bagh,13.02,56.26
+Hauz Khas,Delhi University,2.95,56.55
+Rajiv Chowk,Delhi University,14.07,8.73
+Gurgaon,India Gate,6.72,43.95
+Nehru Place,Delhi University,2.28,37.02
+Chandni Chowk,Gurgaon,7.57,39.15
+Connaught Place,Delhi University,1.87,52.93
+Red Fort,Nehru Place,19.5,58.29
+Nehru Place,Hauz Khas,15.24,12.15
+Hauz Khas,India Gate,15.41,6.35
+Rajiv Chowk,Gurgaon,1.42,22.8
+Karol Bagh,India Gate,10.28,47.37
+Karol Bagh,Red Fort,13.98,29.52
+Delhi University,Rajiv Chowk,6.2,59.84
+Hauz Khas,Gurgaon,9.1,29.83
+Delhi University,Red Fort,4.11,48.71
+Nehru Place,Delhi University,14.18,17.14
+Gurgaon,Hauz Khas,2.57,42.43
+Delhi University,Chandni Chowk,13.44,20.03
+Hauz Khas,Nehru Place,19.07,13.31
+Chandni Chowk,Hauz Khas,9.21,56.9
+Rajiv Chowk,Nehru Place,8.97,40.12
+India Gate,Rajiv Chowk,8.55,20.08
+Hauz Khas,Rajiv Chowk,19.7,27.51
+Red Fort,Rajiv Chowk,17.99,17.65
+Karol Bagh,Nehru Place,5.05,6.71
+Hauz Khas,India Gate,13.38,25.27
+Rajiv Chowk,Karol Bagh,17.42,31.03
+Delhi University,Connaught Place,19.4,15.2
+Gurgaon,Delhi University,17.5,47.71
+Delhi University,Rajiv Chowk,15.65,51.46
+India Gate,Hauz Khas,15.46,39.44
+Rajiv Chowk,Hauz Khas,3.49,6.79
+Connaught Place,Red Fort,18.5,38.92
+Gurgaon,Red Fort,16.13,31.48
+Rajiv Chowk,India Gate,3.23,11.89
+Gurgaon,Delhi University,14.03,28.67
+Chandni Chowk,Karol Bagh,4.81,32.04
+Nehru Place,Chandni Chowk,2.22,37.01
+India Gate,Rajiv Chowk,6.11,48.87
+Delhi University,Rajiv Chowk,6.9,30.04
+India Gate,Red Fort,1.22,8.98
+Gurgaon,Chandni Chowk,8.46,31.4
+Hauz Khas,Delhi University,12.4,21.04
+Delhi University,Connaught Place,14.2,52.31
+Gurgaon,Red Fort,15.82,7.18
+Connaught Place,Karol Bagh,10.13,10.77
+Connaught Place,Karol Bagh,5.6,59.27
+Karol Bagh,Gurgaon,3.71,32.44
+Hauz Khas,India Gate,12.74,43.64
+Karol Bagh,Connaught Place,11.63,5.54
+India Gate,Delhi University,7.2,33.47
+Chandni Chowk,Hauz Khas,2.67,24.28
+Hauz Khas,Nehru Place,1.63,9.32
+Rajiv Chowk,Karol Bagh,8.54,12.3
+Rajiv Chowk,Red Fort,11.78,42.92
+Rajiv Chowk,Gurgaon,16.21,16.01
+Gurgaon,India Gate,4.18,10.75
+Connaught Place,Karol Bagh,13.09,43.86
+Karol Bagh,Gurgaon,1.6,56.49
+Connaught Place,India Gate,1.99,34.77
+Red Fort,Nehru Place,14.47,52.9
+Hauz Khas,Nehru Place,14.57,49.1
+Gurgaon,Nehru Place,7.45,49.82
+Hauz Khas,Red Fort,2.52,54.21
+Chandni Chowk,Delhi University,11.4,49.95
+India Gate,Rajiv Chowk,9.59,40.4
+Hauz Khas,India Gate,11.0,45.24
+Red Fort,Gurgaon,2.55,8.32
+Nehru Place,Delhi University,5.69,13.77
+Red Fort,Connaught Place,17.56,17.06
+Chandni Chowk,Hauz Khas,19.54,23.53
+Gurgaon,Connaught Place,4.46,48.43
+Connaught Place,Chandni Chowk,13.52,32.4
+Red Fort,Chandni Chowk,11.55,44.56
+Karol Bagh,Red Fort,5.34,59.8
+Red Fort,Rajiv Chowk,19.52,40.77
+India Gate,Connaught Place,4.79,42.41
+Nehru Place,Hauz Khas,2.37,6.69
+Hauz Khas,Delhi University,5.9,30.44
+Chandni Chowk,Delhi University,17.5,44.99
+Delhi University,Rajiv Chowk,15.11,28.4
+India Gate,Hauz Khas,7.57,25.41
+Connaught Place,Hauz Khas,19.77,7.21
+Connaught Place,Nehru Place,17.47,36.83
+India Gate,Rajiv Chowk,9.33,44.89
+Gurgaon,Hauz Khas,10.25,53.04
+Gurgaon,Hauz Khas,18.11,28.19
+Hauz Khas,Red Fort,6.26,37.58
+India Gate,Hauz Khas,18.33,16.59
+Connaught Place,Rajiv Chowk,12.84,39.74
+Karol Bagh,Gurgaon,14.93,12.24
+Nehru Place,Rajiv Chowk,14.6,55.0
+India Gate,Hauz Khas,4.41,18.06
+India Gate,Chandni Chowk,19.46,14.95
+Hauz Khas,Gurgaon,17.23,32.08
+Hauz Khas,Delhi University,5.7,52.89
+India Gate,Hauz Khas,9.46,33.31
+Red Fort,Rajiv Chowk,7.83,37.61
+Chandni Chowk,Rajiv Chowk,4.11,26.51
+Karol Bagh,India Gate,19.42,19.2
+Delhi University,India Gate,13.48,22.89
+Chandni Chowk,Rajiv Chowk,15.7,12.2
+Rajiv Chowk,Karol Bagh,19.43,29.96
+Chandni Chowk,India Gate,5.48,9.04
+Karol Bagh,Red Fort,4.23,33.59
+Chandni Chowk,Karol Bagh,7.4,50.59
+Gurgaon,Karol Bagh,9.19,18.68
+India Gate,Karol Bagh,12.73,43.87
+Nehru Place,Gurgaon,4.17,14.22
+Gurgaon,Rajiv Chowk,1.7,45.5
+Rajiv Chowk,Karol Bagh,13.61,31.1
+Nehru Place,India Gate,17.04,49.31
+Gurgaon,Connaught Place,12.12,52.75
+Rajiv Chowk,Delhi University,4.91,11.16
+India Gate,Red Fort,6.13,8.14
+Rajiv Chowk,Red Fort,11.09,56.51
+Delhi University,Hauz Khas,1.75,11.72
+Nehru Place,Gurgaon,9.59,56.36
+Delhi University,Connaught Place,7.01,32.9
+Nehru Place,Gurgaon,1.79,13.16
+Chandni Chowk,Rajiv Chowk,19.75,58.08
+Gurgaon,Nehru Place,1.09,57.35
+Delhi University,Karol Bagh,13.14,52.74
+Connaught Place,Nehru Place,9.64,33.36
+India Gate,Rajiv Chowk,10.29,41.68
+India Gate,Delhi University,3.65,6.65
+Karol Bagh,Connaught Place,6.85,43.76
+Chandni Chowk,Nehru Place,4.84,42.04
+Nehru Place,Delhi University,19.43,10.16
+Delhi University,Gurgaon,13.78,29.41
+Karol Bagh,Rajiv Chowk,17.49,14.74
+Rajiv Chowk,Red Fort,14.16,51.1
+Rajiv Chowk,Gurgaon,18.95,42.58
+Connaught Place,Rajiv Chowk,10.45,38.98
+India Gate,Rajiv Chowk,17.51,36.38
+India Gate,Delhi University,1.58,56.2
+Hauz Khas,Red Fort,14.1,42.21
+Red Fort,Gurgaon,5.1,41.24
+Karol Bagh,Rajiv Chowk,8.48,40.82
+India Gate,Gurgaon,3.03,41.18
+Karol Bagh,Rajiv Chowk,19.99,7.65
+Red Fort,Hauz Khas,19.57,27.38
+Karol Bagh,Gurgaon,17.54,48.03
+India Gate,Red Fort,11.77,45.61
+Delhi University,Hauz Khas,17.69,27.23
+Rajiv Chowk,Karol Bagh,7.21,41.72
+Delhi University,India Gate,16.35,46.93
+Hauz Khas,Delhi University,16.16,28.96
+Rajiv Chowk,Connaught Place,16.54,11.61
+Rajiv Chowk,Red Fort,11.35,5.32
+Karol Bagh,Chandni Chowk,7.17,25.16
+Rajiv Chowk,Nehru Place,8.53,43.25
+India Gate,Red Fort,8.38,29.68
+India Gate,Delhi University,5.51,25.53
+Connaught Place,Rajiv Chowk,5.32,9.03
+Gurgaon,Karol Bagh,12.47,41.75
+Gurgaon,Hauz Khas,12.77,30.49
+Karol Bagh,Gurgaon,8.22,52.48
+Karol Bagh,Nehru Place,10.86,31.36
+Connaught Place,Hauz Khas,1.49,23.77
+Rajiv Chowk,Chandni Chowk,8.22,26.94
+Nehru Place,Gurgaon,12.02,34.35
+Red Fort,Nehru Place,12.55,47.07
+Chandni Chowk,Delhi University,16.45,44.5
+Chandni Chowk,Red Fort,19.15,6.0
+Nehru Place,Chandni Chowk,4.72,5.42
+Rajiv Chowk,Gurgaon,13.3,54.39
+Red Fort,Hauz Khas,5.63,55.99
+Hauz Khas,Karol Bagh,2.15,56.39
+Chandni Chowk,Gurgaon,7.68,10.58
+Karol Bagh,Red Fort,10.23,19.12
+Connaught Place,Nehru Place,6.41,21.9
+Rajiv Chowk,Delhi University,16.26,34.65
+India Gate,Delhi University,6.91,38.57
+India Gate,Red Fort,14.61,19.99
+India Gate,Karol Bagh,8.86,11.7
+Red Fort,Nehru Place,4.44,42.46
+Delhi University,Karol Bagh,4.45,33.88
+Hauz Khas,India Gate,14.47,10.88
+Chandni Chowk,Nehru Place,11.78,19.11
+Rajiv Chowk,Connaught Place,19.3,31.6
+Hauz Khas,Connaught Place,16.31,35.26
+Hauz Khas,Delhi University,1.82,39.82
+Rajiv Chowk,Chandni Chowk,19.08,38.09
+Hauz Khas,India Gate,16.56,53.63
+Rajiv Chowk,Chandni Chowk,5.33,16.66
+Connaught Place,Rajiv Chowk,12.61,27.61
+India Gate,Rajiv Chowk,16.96,54.5
+Connaught Place,Red Fort,7.72,18.03
+Nehru Place,Karol Bagh,15.83,20.11
+Gurgaon,Connaught Place,16.63,28.31
+India Gate,Connaught Place,13.68,10.25
+Red Fort,Chandni Chowk,12.85,29.85
+Karol Bagh,Delhi University,12.15,14.24
+Gurgaon,Delhi University,15.0,52.45
+Hauz Khas,India Gate,5.12,10.26
+Red Fort,Chandni Chowk,1.45,40.31
+Red Fort,India Gate,12.53,35.07
+Connaught Place,Chandni Chowk,5.41,26.5
+Hauz Khas,Gurgaon,12.3,32.32
+Nehru Place,India Gate,19.77,12.5
+India Gate,Nehru Place,14.21,27.24
+Gurgaon,Delhi University,9.14,44.47
+Connaught Place,Delhi University,14.16,59.52
+Gurgaon,Chandni Chowk,3.44,10.73
+Karol Bagh,Red Fort,14.76,36.81
+Hauz Khas,Connaught Place,6.21,9.37
+Gurgaon,Rajiv Chowk,2.63,54.18
+Chandni Chowk,Gurgaon,4.65,22.79
+Hauz Khas,Karol Bagh,5.31,24.52
+India Gate,Delhi University,2.32,33.55
+Rajiv Chowk,India Gate,2.28,49.02
+Delhi University,Connaught Place,5.44,34.7
+Hauz Khas,Nehru Place,17.72,40.8
+Connaught Place,Hauz Khas,11.13,22.84
+Rajiv Chowk,Red Fort,7.33,41.82
+Connaught Place,Rajiv Chowk,19.89,41.4
+India Gate,Rajiv Chowk,11.6,45.19
+Chandni Chowk,India Gate,9.84,8.31
+Gurgaon,Rajiv Chowk,11.68,57.67
+Karol Bagh,Connaught Place,4.33,42.95
+Rajiv Chowk,Delhi University,4.82,34.47
+Rajiv Chowk,Karol Bagh,2.84,29.77
+India Gate,Nehru Place,15.37,24.12
+Connaught Place,Red Fort,13.63,48.75
+Chandni Chowk,Connaught Place,18.62,17.91
+Chandni Chowk,Connaught Place,8.59,13.38
+Rajiv Chowk,Red Fort,19.86,55.99
+Delhi University,Hauz Khas,11.26,51.31
+Delhi University,Nehru Place,10.9,39.3
+Red Fort,Connaught Place,2.69,46.54
+Chandni Chowk,Red Fort,3.43,50.43
+Rajiv Chowk,Connaught Place,15.86,43.98
+Rajiv Chowk,Red Fort,1.69,21.67
+India Gate,Rajiv Chowk,6.0,24.81
+Nehru Place,Hauz Khas,2.67,56.53
+Rajiv Chowk,Karol Bagh,11.52,21.8
+Rajiv Chowk,Delhi University,8.54,29.6
+Red Fort,India Gate,12.41,33.36
+Hauz Khas,India Gate,18.47,32.33
+Hauz Khas,Gurgaon,19.85,51.83
+Karol Bagh,Delhi University,4.96,56.18
+Red Fort,Rajiv Chowk,3.21,49.96
+Rajiv Chowk,Red Fort,8.23,53.29
+Red Fort,Nehru Place,17.49,49.33
+Gurgaon,Hauz Khas,16.01,21.76
+Karol Bagh,Nehru Place,2.54,27.16
+Rajiv Chowk,Nehru Place,4.3,43.22
+Connaught Place,Rajiv Chowk,7.58,58.66
+Gurgaon,Hauz Khas,13.18,50.24
+Red Fort,Connaught Place,3.52,52.41
+India Gate,Hauz Khas,18.53,31.79
+Rajiv Chowk,Delhi University,12.52,47.06
+Karol Bagh,Connaught Place,4.32,32.64
+Karol Bagh,Gurgaon,8.57,13.05
+Nehru Place,Connaught Place,7.98,8.75
+Karol Bagh,India Gate,1.49,12.43
+Chandni Chowk,Rajiv Chowk,19.3,35.22
+Rajiv Chowk,Hauz Khas,19.35,28.79
+Gurgaon,Connaught Place,6.92,32.84
+Gurgaon,Karol Bagh,9.35,10.81
+Nehru Place,Rajiv Chowk,13.18,16.88
+Rajiv Chowk,Nehru Place,12.77,40.76
+India Gate,Gurgaon,3.89,8.37
+Karol Bagh,Delhi University,15.83,30.29
+Rajiv Chowk,Hauz Khas,2.11,59.72
+Rajiv Chowk,Red Fort,2.1,43.23
+Chandni Chowk,India Gate,19.69,18.15
+Connaught Place,Karol Bagh,3.7,11.68
+Nehru Place,Delhi University,6.76,10.56
+Hauz Khas,Delhi University,14.15,8.43
+India Gate,Red Fort,10.68,59.82
+Red Fort,Nehru Place,16.47,38.84
+Chandni Chowk,Gurgaon,6.82,39.31
+Red Fort,Nehru Place,11.01,28.43
+Chandni Chowk,India Gate,3.48,53.76
+Karol Bagh,India Gate,9.55,15.7
+Nehru Place,Karol Bagh,7.99,27.78
+Nehru Place,India Gate,16.72,45.35
+India Gate,Delhi University,15.62,5.61
+Delhi University,Red Fort,8.91,31.47
+Red Fort,Karol Bagh,1.36,19.29
+Karol Bagh,Rajiv Chowk,15.45,12.54
+Delhi University,Chandni Chowk,11.17,16.84
+India Gate,Chandni Chowk,1.23,18.27
+Karol Bagh,Chandni Chowk,19.54,49.08
+Nehru Place,Connaught Place,19.23,31.83
+Rajiv Chowk,Delhi University,3.08,35.14
+Gurgaon,Rajiv Chowk,9.63,51.44
+Nehru Place,Delhi University,2.86,31.85
+Karol Bagh,Gurgaon,3.85,22.86
+Red Fort,Hauz Khas,15.01,31.18
+Nehru Place,Delhi University,8.14,26.7
+Gurgaon,India Gate,9.73,48.18
+Karol Bagh,Rajiv Chowk,17.95,57.54
+India Gate,Nehru Place,15.95,22.35
+Nehru Place,Delhi University,14.07,29.07
+Rajiv Chowk,Karol Bagh,5.84,51.25
+Delhi University,Gurgaon,1.73,54.6
+Hauz Khas,Delhi University,9.77,40.05
+Connaught Place,India Gate,13.53,54.23
+Delhi University,Karol Bagh,13.1,38.77
+Red Fort,Karol Bagh,2.27,33.51
+Karol Bagh,Rajiv Chowk,3.85,45.56
+Chandni Chowk,Rajiv Chowk,10.73,42.41
+Delhi University,Red Fort,1.79,9.66
+India Gate,Red Fort,14.61,8.96
+Chandni Chowk,Delhi University,2.35,5.67
+Red Fort,Karol Bagh,19.17,45.56
+Red Fort,Gurgaon,7.71,21.31
+Delhi University,India Gate,7.64,47.61
+Delhi University,Karol Bagh,13.57,15.19
+Rajiv Chowk,Gurgaon,4.31,10.41
+India Gate,Connaught Place,13.55,47.04
+Gurgaon,Red Fort,6.04,6.15
+Chandni Chowk,Gurgaon,2.56,58.23
+Hauz Khas,Gurgaon,6.61,47.31
+Connaught Place,Nehru Place,12.87,26.01
+Delhi University,Red Fort,4.91,11.68
+Red Fort,Nehru Place,12.69,47.6
+Chandni Chowk,Hauz Khas,13.23,34.17
+Red Fort,Nehru Place,1.8,58.27
+India Gate,Connaught Place,16.18,21.11
+Karol Bagh,Nehru Place,19.62,38.1
+Hauz Khas,Nehru Place,12.07,46.14
+Nehru Place,Chandni Chowk,16.42,41.11
+Rajiv Chowk,Gurgaon,3.43,23.6
+Karol Bagh,Rajiv Chowk,18.63,17.35
+Hauz Khas,Karol Bagh,8.07,28.76
+Rajiv Chowk,Delhi University,9.35,38.71
+Delhi University,India Gate,18.92,18.24
+Rajiv Chowk,Chandni Chowk,3.31,15.86
+Nehru Place,India Gate,17.85,40.52
+Red Fort,Nehru Place,6.43,49.88
+Chandni Chowk,Karol Bagh,17.37,51.56
+India Gate,Connaught Place,18.46,18.87
+Red Fort,Hauz Khas,15.35,30.33
+Gurgaon,Hauz Khas,17.0,45.07
+Chandni Chowk,Karol Bagh,15.75,41.09
+Rajiv Chowk,Gurgaon,4.37,34.98
+Rajiv Chowk,Chandni Chowk,19.71,56.56
+Karol Bagh,Nehru Place,1.82,14.06
+Delhi University,Nehru Place,3.5,44.93
+Nehru Place,Red Fort,16.54,16.74
+Nehru Place,Connaught Place,10.61,51.24
+India Gate,Hauz Khas,14.92,34.82
+Delhi University,Nehru Place,12.22,32.96
+Gurgaon,Rajiv Chowk,6.65,36.08
+Red Fort,Nehru Place,14.09,53.03
+Gurgaon,Nehru Place,13.09,46.86
+Red Fort,Delhi University,4.04,30.39
+Connaught Place,India Gate,1.18,18.57
+Hauz Khas,Karol Bagh,14.8,59.55
+Red Fort,Rajiv Chowk,2.88,27.08
+Hauz Khas,Rajiv Chowk,16.2,16.22
+Connaught Place,Hauz Khas,11.55,45.32
+Connaught Place,Gurgaon,12.7,15.34
+Delhi University,Chandni Chowk,7.75,48.11
+Rajiv Chowk,Delhi University,11.53,5.29
+Red Fort,India Gate,15.46,6.94
+Hauz Khas,Delhi University,15.17,16.14
+Nehru Place,Delhi University,19.2,25.24
+Red Fort,Gurgaon,7.21,13.19
+Gurgaon,India Gate,6.81,53.22
+Karol Bagh,India Gate,19.93,25.26
+Hauz Khas,Rajiv Chowk,9.52,44.71
+Rajiv Chowk,Delhi University,17.84,37.62
+Rajiv Chowk,Karol Bagh,8.44,27.69
+Chandni Chowk,Gurgaon,14.22,5.18
+Delhi University,Hauz Khas,12.77,24.55
+Delhi University,Connaught Place,16.09,10.11
+Karol Bagh,Rajiv Chowk,12.18,31.45
+Nehru Place,Delhi University,13.2,8.57
+Nehru Place,Karol Bagh,12.02,35.88
+Gurgaon,Delhi University,11.65,38.19
+Karol Bagh,Rajiv Chowk,13.85,49.27
+Gurgaon,Rajiv Chowk,6.13,50.38
+Karol Bagh,Hauz Khas,10.47,9.24
+Gurgaon,Red Fort,2.11,23.38
+Gurgaon,Rajiv Chowk,15.91,43.92
+Delhi University,Nehru Place,15.98,33.45
+Gurgaon,Red Fort,9.36,13.11
+Nehru Place,Connaught Place,7.24,28.87
+India Gate,Hauz Khas,2.68,17.13
+Gurgaon,Red Fort,12.37,45.46
+Connaught Place,Gurgaon,19.97,56.32
+Nehru Place,Red Fort,13.21,28.17
+Chandni Chowk,Connaught Place,13.09,48.21
+Gurgaon,Nehru Place,3.25,27.54
+Karol Bagh,Delhi University,16.96,26.11
+Gurgaon,Hauz Khas,11.87,37.33
+Karol Bagh,Chandni Chowk,4.51,24.92
+Connaught Place,Gurgaon,7.36,6.44
+India Gate,Chandni Chowk,1.46,50.74
+Connaught Place,Nehru Place,6.19,33.49
+Rajiv Chowk,Hauz Khas,6.68,56.74
+Karol Bagh,Hauz Khas,5.93,28.63
+Chandni Chowk,Hauz Khas,17.58,51.31
+Delhi University,Gurgaon,4.54,49.15
+Nehru Place,Connaught Place,9.71,31.56
+Karol Bagh,Delhi University,3.54,9.43
+Chandni Chowk,Delhi University,14.83,32.31
+Rajiv Chowk,Nehru Place,9.3,45.12
+Delhi University,Hauz Khas,15.54,13.74
+Rajiv Chowk,Karol Bagh,12.59,12.44
+Nehru Place,Delhi University,15.28,41.13
+Rajiv Chowk,Delhi University,19.18,8.79
+Rajiv Chowk,Red Fort,2.08,20.52
+Gurgaon,Nehru Place,5.97,18.58
+Red Fort,Delhi University,18.22,18.73
+Red Fort,Chandni Chowk,6.17,46.77
+Chandni Chowk,Nehru Place,9.55,47.72
+Rajiv Chowk,Nehru Place,2.24,31.82
+Rajiv Chowk,Delhi University,1.64,8.45
+India Gate,Gurgaon,18.22,12.66
+Delhi University,Hauz Khas,11.12,27.61
+Hauz Khas,Rajiv Chowk,7.6,54.49
+Karol Bagh,Red Fort,1.41,41.51
+Connaught Place,Red Fort,19.3,35.81
+India Gate,Rajiv Chowk,18.8,7.87
+Nehru Place,Red Fort,8.96,19.31
+Nehru Place,Chandni Chowk,14.89,58.97
+Chandni Chowk,Delhi University,5.87,40.98
+Red Fort,Delhi University,4.76,36.09
+Red Fort,Karol Bagh,9.81,58.46
+India Gate,Gurgaon,12.56,24.22
+Gurgaon,Chandni Chowk,3.17,13.32
+Chandni Chowk,Connaught Place,5.28,18.8
+Delhi University,Chandni Chowk,17.16,35.87
+Chandni Chowk,Connaught Place,10.94,11.31
+India Gate,Hauz Khas,17.34,44.75
+Rajiv Chowk,Nehru Place,2.29,43.93
+India Gate,Karol Bagh,11.33,9.49
+Connaught Place,Delhi University,9.71,31.66
+Karol Bagh,Hauz Khas,4.15,57.01
+Chandni Chowk,Red Fort,17.15,41.8
+Rajiv Chowk,Red Fort,9.78,27.65
+Connaught Place,India Gate,13.37,35.0
+Gurgaon,Chandni Chowk,2.18,33.19
+Delhi University,Connaught Place,16.32,30.26
+Karol Bagh,Hauz Khas,1.99,48.25
+Karol Bagh,Connaught Place,4.83,19.22
+Hauz Khas,Nehru Place,4.13,23.16
+Karol Bagh,Red Fort,15.38,33.57
+Red Fort,Gurgaon,4.89,53.28
+Gurgaon,India Gate,17.71,52.88
+Rajiv Chowk,Red Fort,5.54,29.82
+Nehru Place,Delhi University,19.71,47.46
+Delhi University,Nehru Place,1.52,8.59
+Karol Bagh,Delhi University,9.81,55.01
+Nehru Place,Red Fort,11.24,32.38
+Chandni Chowk,India Gate,3.0,41.12
+Rajiv Chowk,Karol Bagh,16.62,25.92
+Nehru Place,Red Fort,15.74,58.05
+Karol Bagh,Connaught Place,4.87,33.78
+Rajiv Chowk,Red Fort,6.46,48.61
+Gurgaon,Chandni Chowk,11.97,39.9
+Karol Bagh,Gurgaon,16.16,26.78
+Delhi University,Rajiv Chowk,18.39,34.32
+India Gate,Hauz Khas,4.0,43.27
+India Gate,Karol Bagh,16.07,22.42
+Karol Bagh,Nehru Place,17.29,54.84
+Rajiv Chowk,Chandni Chowk,6.26,59.09
+Connaught Place,Red Fort,3.67,16.11
+Hauz Khas,Chandni Chowk,4.5,54.17
+Nehru Place,Red Fort,13.43,13.37
+Rajiv Chowk,Red Fort,9.37,38.84
+Connaught Place,Red Fort,2.59,53.53
+Rajiv Chowk,Chandni Chowk,16.27,32.79
+Connaught Place,India Gate,19.38,27.98
+Nehru Place,Red Fort,19.7,41.74
+Karol Bagh,Hauz Khas,13.06,14.13
+Delhi University,Red Fort,17.76,28.51
+India Gate,Red Fort,4.08,5.69
+Rajiv Chowk,Gurgaon,11.64,34.01
+Karol Bagh,Nehru Place,14.67,53.96
+Karol Bagh,Nehru Place,2.51,45.23
+Gurgaon,Rajiv Chowk,4.56,52.2
+Hauz Khas,Delhi University,16.56,34.74
+Nehru Place,Delhi University,14.49,22.29
+Gurgaon,India Gate,9.95,50.19
+Delhi University,Nehru Place,9.73,24.68
+Delhi University,Rajiv Chowk,10.39,50.55
+India Gate,Gurgaon,7.37,14.56
+India Gate,Connaught Place,14.53,50.43
+Chandni Chowk,Gurgaon,2.91,18.19
+Delhi University,Karol Bagh,3.7,24.14
+Karol Bagh,Rajiv Chowk,9.56,46.19
+Delhi University,Nehru Place,13.37,39.15
+India Gate,Chandni Chowk,7.7,51.28
+Gurgaon,Nehru Place,9.95,58.85
+India Gate,Delhi University,13.05,11.94
+Nehru Place,Connaught Place,13.85,22.88
+Nehru Place,Karol Bagh,14.04,8.83
+Delhi University,Hauz Khas,4.32,52.07
+Nehru Place,Gurgaon,5.32,51.04
+Connaught Place,Delhi University,6.31,40.36
+Nehru Place,Red Fort,14.19,33.2
+Connaught Place,Hauz Khas,6.8,16.7
+Red Fort,Connaught Place,1.63,21.72
+Chandni Chowk,Gurgaon,13.41,56.61
+India Gate,Connaught Place,17.55,47.13
+Hauz Khas,Rajiv Chowk,15.98,41.57
+India Gate,Delhi University,5.95,54.9
+Connaught Place,India Gate,13.74,35.82
+Nehru Place,Connaught Place,3.11,29.59
+Red Fort,Hauz Khas,9.75,52.55
+Hauz Khas,Rajiv Chowk,11.39,25.92
+Hauz Khas,Nehru Place,19.56,11.09
+India Gate,Delhi University,9.03,7.31
+Karol Bagh,Rajiv Chowk,15.06,55.49
+India Gate,Karol Bagh,6.32,52.21
+Delhi University,Hauz Khas,6.55,55.09
+Delhi University,Karol Bagh,15.33,49.27
+Chandni Chowk,Connaught Place,1.34,57.95
+Connaught Place,Red Fort,14.81,21.76
+Nehru Place,Delhi University,16.76,20.48
+Hauz Khas,Delhi University,17.58,11.19
+Hauz Khas,Chandni Chowk,14.37,34.74
+Chandni Chowk,Nehru Place,2.83,18.3
+Rajiv Chowk,Karol Bagh,1.24,30.78
+Red Fort,Chandni Chowk,6.72,37.91
+India Gate,Connaught Place,6.65,21.5
+Hauz Khas,Gurgaon,15.12,7.65
+Connaught Place,Chandni Chowk,18.16,51.87
+Chandni Chowk,India Gate,13.69,37.63
+India Gate,Gurgaon,17.95,15.19
+Connaught Place,Nehru Place,2.5,18.17
+Gurgaon,Connaught Place,16.1,6.91
+Chandni Chowk,Connaught Place,12.07,59.75
+Hauz Khas,Nehru Place,17.26,33.68
+Chandni Chowk,Delhi University,2.21,50.73
+Chandni Chowk,Connaught Place,12.38,11.32
+Karol Bagh,Delhi University,2.78,55.03
+Red Fort,Chandni Chowk,13.71,50.61
+Gurgaon,Rajiv Chowk,17.7,36.45
+Rajiv Chowk,Chandni Chowk,10.83,28.67
+Red Fort,Karol Bagh,7.02,28.9
+Delhi University,Chandni Chowk,15.7,38.11
+Hauz Khas,Red Fort,17.96,29.39
+Red Fort,Connaught Place,12.53,39.72
+Delhi University,Gurgaon,12.24,43.64
+Karol Bagh,Hauz Khas,5.51,33.18
+Delhi University,Nehru Place,2.98,26.15
+Connaught Place,Rajiv Chowk,10.27,40.87
+Hauz Khas,Delhi University,19.06,38.04
+Rajiv Chowk,Hauz Khas,15.13,32.84
+Hauz Khas,Karol Bagh,13.05,8.9
+Red Fort,Hauz Khas,5.83,24.9
+Karol Bagh,Delhi University,9.98,7.51
+Nehru Place,Chandni Chowk,3.66,20.22
+Chandni Chowk,Red Fort,19.46,23.22
+Karol Bagh,Nehru Place,10.16,15.79
+Connaught Place,Delhi University,12.6,20.44
+Karol Bagh,Hauz Khas,4.93,33.41
+Chandni Chowk,Red Fort,1.1,5.42
+Chandni Chowk,Rajiv Chowk,5.16,7.02
+India Gate,Nehru Place,3.05,23.64
+Rajiv Chowk,India Gate,16.25,36.46
+Delhi University,Chandni Chowk,10.74,21.14
+Connaught Place,Red Fort,18.7,26.84
+Hauz Khas,Gurgaon,2.65,38.94
+Gurgaon,Connaught Place,3.16,23.99
+India Gate,Chandni Chowk,10.64,53.08
+Gurgaon,Delhi University,10.38,43.62
+Chandni Chowk,Nehru Place,19.86,12.23
+Chandni Chowk,Rajiv Chowk,6.22,26.7
+Red Fort,Connaught Place,9.01,27.61
+India Gate,Nehru Place,18.24,44.27
+Chandni Chowk,Gurgaon,12.55,22.02
+Chandni Chowk,Hauz Khas,16.65,57.53
+Chandni Chowk,Delhi University,16.6,5.09
+Rajiv Chowk,Red Fort,13.09,7.81
+Hauz Khas,Nehru Place,5.89,8.27
+Delhi University,Rajiv Chowk,12.47,42.76
+Rajiv Chowk,Delhi University,3.18,26.11
+India Gate,Nehru Place,9.67,25.3
+Rajiv Chowk,Chandni Chowk,3.3,28.04
+Hauz Khas,Connaught Place,15.27,8.91
+Gurgaon,Chandni Chowk,2.52,24.51
+Karol Bagh,Connaught Place,18.89,41.77
+Red Fort,Delhi University,13.89,24.91
+Hauz Khas,Red Fort,12.28,5.56
+Karol Bagh,Chandni Chowk,13.09,55.23
+Rajiv Chowk,Chandni Chowk,12.64,53.05
+Hauz Khas,Gurgaon,14.76,11.63
+Chandni Chowk,Nehru Place,18.15,8.65
+Delhi University,Rajiv Chowk,11.15,12.82
+Red Fort,Nehru Place,1.22,28.21
+Karol Bagh,Rajiv Chowk,6.61,31.73
+Delhi University,Nehru Place,11.97,7.41
+Karol Bagh,Delhi University,3.34,35.73
+Connaught Place,Delhi University,7.52,45.1
+Connaught Place,India Gate,13.39,51.51
+Hauz Khas,Karol Bagh,14.16,28.65
+Chandni Chowk,India Gate,13.79,20.15
+Karol Bagh,Connaught Place,6.82,48.39
+Chandni Chowk,Delhi University,9.48,48.91
+Nehru Place,Rajiv Chowk,16.63,52.17
+Connaught Place,Gurgaon,18.42,28.7
+Gurgaon,Nehru Place,7.06,37.02
+Nehru Place,Connaught Place,8.05,38.06
+Connaught Place,Delhi University,14.41,42.86
+Delhi University,Hauz Khas,8.12,14.18
+Delhi University,Red Fort,9.18,12.84
+Delhi University,Red Fort,17.91,24.02
+Connaught Place,Delhi University,3.93,6.4
+Hauz Khas,Karol Bagh,13.27,40.03
+Delhi University,Karol Bagh,7.47,8.94
+Gurgaon,Delhi University,8.78,22.12
+Red Fort,Rajiv Chowk,13.87,38.32
+Red Fort,Hauz Khas,7.93,16.98
+India Gate,Rajiv Chowk,19.77,29.97
+Hauz Khas,Nehru Place,14.08,12.73
+Gurgaon,Chandni Chowk,10.23,6.51
+Chandni Chowk,Red Fort,10.6,58.02
+India Gate,Connaught Place,8.3,7.14
+India Gate,Hauz Khas,1.59,26.34
+Delhi University,Nehru Place,4.04,6.28
+Karol Bagh,India Gate,15.37,30.22
+Nehru Place,Hauz Khas,6.5,54.5
+Rajiv Chowk,Gurgaon,3.21,57.58
+India Gate,Delhi University,6.97,53.86
+Connaught Place,Chandni Chowk,12.46,50.47
+Chandni Chowk,Gurgaon,19.7,20.86
+Nehru Place,Red Fort,19.26,26.42
+Connaught Place,India Gate,8.32,23.72
+Red Fort,Delhi University,11.29,13.48
+Gurgaon,Connaught Place,11.52,34.79
+Karol Bagh,Rajiv Chowk,15.48,50.85
+Connaught Place,Chandni Chowk,9.37,21.63
+Gurgaon,Karol Bagh,5.93,15.7
+Hauz Khas,India Gate,2.1,23.83
+Red Fort,Karol Bagh,6.13,58.15
+Gurgaon,Chandni Chowk,11.6,24.1
+Gurgaon,Hauz Khas,12.03,12.66
+Delhi University,Rajiv Chowk,9.44,39.44
+Hauz Khas,Karol Bagh,10.29,27.1
+India Gate,Delhi University,19.88,53.42
+Rajiv Chowk,Connaught Place,12.84,36.32
+India Gate,Hauz Khas,12.79,16.07
+Chandni Chowk,India Gate,8.51,7.17
+Rajiv Chowk,Gurgaon,10.04,34.87
+Hauz Khas,Rajiv Chowk,5.33,58.02
+Connaught Place,Red Fort,18.28,44.72
+Chandni Chowk,Rajiv Chowk,11.13,52.85
+Delhi University,Hauz Khas,3.48,48.48
+Hauz Khas,Karol Bagh,3.37,48.68
+Gurgaon,Hauz Khas,6.24,53.24
+India Gate,Gurgaon,18.94,13.18
+Red Fort,Chandni Chowk,9.79,58.95
+Red Fort,Karol Bagh,10.18,52.5
+Hauz Khas,Karol Bagh,12.19,25.64
+Hauz Khas,Rajiv Chowk,6.43,16.18
+Rajiv Chowk,India Gate,15.47,26.26
+India Gate,Connaught Place,10.71,32.08
+Red Fort,Nehru Place,11.97,52.61
+Rajiv Chowk,Red Fort,19.63,27.42
+India Gate,Karol Bagh,16.72,47.05
+India Gate,Karol Bagh,11.9,57.58
+Hauz Khas,Nehru Place,4.81,11.01
+Delhi University,Hauz Khas,17.23,29.15
+India Gate,Connaught Place,17.09,54.12
+India Gate,Rajiv Chowk,2.19,53.59
+Delhi University,India Gate,9.52,33.07
+Rajiv Chowk,Hauz Khas,12.91,55.95
+Connaught Place,Red Fort,1.36,31.23
+India Gate,Delhi University,14.07,44.75
+Chandni Chowk,Gurgaon,14.16,12.39
+Delhi University,Karol Bagh,6.69,24.73
+Hauz Khas,Karol Bagh,16.28,20.33
+Karol Bagh,Red Fort,5.0,57.66
+Nehru Place,Karol Bagh,1.17,59.88
+India Gate,Karol Bagh,13.86,50.57
+Hauz Khas,Red Fort,6.6,5.79
+Hauz Khas,Red Fort,15.02,50.88
+Nehru Place,India Gate,15.07,12.86
+Rajiv Chowk,Red Fort,15.32,47.29
+Chandni Chowk,Nehru Place,13.51,47.14
+Chandni Chowk,Nehru Place,17.07,38.75
+India Gate,Karol Bagh,2.68,31.82
+Red Fort,Connaught Place,2.48,27.41
+Hauz Khas,Rajiv Chowk,8.74,8.63
+Gurgaon,Hauz Khas,7.63,11.1
+Rajiv Chowk,Nehru Place,16.36,57.12
+Rajiv Chowk,Hauz Khas,2.37,57.53
+Gurgaon,Karol Bagh,10.93,21.48
+Red Fort,Rajiv Chowk,2.46,32.53
+Gurgaon,Chandni Chowk,16.1,43.89
+Nehru Place,Rajiv Chowk,1.95,9.01
+Karol Bagh,Hauz Khas,8.65,21.24
+Rajiv Chowk,Red Fort,5.42,20.46
+Nehru Place,Gurgaon,16.27,56.11
+Chandni Chowk,Rajiv Chowk,8.7,54.84
+Hauz Khas,Red Fort,7.11,31.2
+Hauz Khas,Rajiv Chowk,5.29,40.23
+India Gate,Gurgaon,19.6,38.19
+Chandni Chowk,Gurgaon,7.8,40.63
+Delhi University,Karol Bagh,3.34,53.88
+Delhi University,Connaught Place,10.56,29.71
+Nehru Place,Chandni Chowk,12.13,39.36
+Nehru Place,Red Fort,2.36,42.54
+India Gate,Hauz Khas,5.6,44.27
+Nehru Place,Karol Bagh,16.63,49.22
+Red Fort,Chandni Chowk,11.5,33.61
+Red Fort,Karol Bagh,3.71,47.64
+India Gate,Nehru Place,6.16,32.32
+Gurgaon,Nehru Place,6.4,12.36
+Gurgaon,Hauz Khas,12.96,7.99
+Hauz Khas,Delhi University,15.22,22.47
+Connaught Place,Rajiv Chowk,1.0,33.11
+Delhi University,Gurgaon,1.89,20.19
+Chandni Chowk,Rajiv Chowk,14.43,8.45
+Karol Bagh,Gurgaon,16.95,5.21
+Connaught Place,Gurgaon,5.69,45.75
+Hauz Khas,Rajiv Chowk,7.01,10.6
+Hauz Khas,India Gate,7.84,19.87
+Connaught Place,India Gate,17.01,22.23
+Red Fort,Chandni Chowk,15.99,54.05
+Delhi University,Gurgaon,9.24,55.05
+Gurgaon,Chandni Chowk,8.17,58.02
+Nehru Place,Rajiv Chowk,2.7,42.79
+Hauz Khas,Nehru Place,10.38,26.32
+Gurgaon,Delhi University,13.02,43.71
+Karol Bagh,Rajiv Chowk,1.08,14.18
+Connaught Place,Nehru Place,14.55,41.65
+India Gate,Red Fort,19.35,46.86
+Hauz Khas,India Gate,19.06,43.64
+India Gate,Karol Bagh,6.66,10.8
+Rajiv Chowk,Red Fort,15.85,40.43
+Rajiv Chowk,Nehru Place,1.92,24.8
+Chandni Chowk,Delhi University,19.18,32.52
+Nehru Place,Rajiv Chowk,9.22,30.17
+Nehru Place,India Gate,4.97,25.28
+Rajiv Chowk,India Gate,8.03,7.88
+Red Fort,Connaught Place,15.58,27.91
+India Gate,Connaught Place,16.62,51.77
+Rajiv Chowk,India Gate,5.03,41.15
+Karol Bagh,Chandni Chowk,9.97,53.41
+Delhi University,Karol Bagh,5.1,42.28
+Delhi University,Karol Bagh,12.55,21.24
+Rajiv Chowk,Delhi University,3.6,40.84
+Hauz Khas,Nehru Place,15.03,22.36
+Chandni Chowk,Hauz Khas,13.25,26.73
+Connaught Place,Gurgaon,14.55,15.96
+Chandni Chowk,Nehru Place,17.91,20.81
+Gurgaon,Hauz Khas,7.99,8.2
+Hauz Khas,Connaught Place,3.12,33.37
+Red Fort,India Gate,6.08,50.95
+Gurgaon,India Gate,1.28,25.85
+Delhi University,Karol Bagh,7.41,6.06
+Chandni Chowk,Nehru Place,3.36,27.75
+India Gate,Red Fort,10.36,27.24
+Nehru Place,Delhi University,11.09,37.73
+Rajiv Chowk,Gurgaon,1.19,30.53
+Hauz Khas,Gurgaon,19.31,33.55
+Hauz Khas,Gurgaon,13.87,22.15
+India Gate,Rajiv Chowk,15.71,47.51
+Rajiv Chowk,Nehru Place,10.9,58.68
+Gurgaon,Karol Bagh,3.39,5.93
+Red Fort,Gurgaon,15.63,49.39
+Gurgaon,India Gate,3.28,19.61
+Karol Bagh,Rajiv Chowk,1.33,21.13
+India Gate,Chandni Chowk,15.69,33.49
+Red Fort,India Gate,7.61,25.45
+Karol Bagh,Rajiv Chowk,1.03,21.49
+Karol Bagh,Delhi University,13.28,58.58
+Gurgaon,Karol Bagh,17.09,6.3
+Gurgaon,Hauz Khas,18.07,48.08
+Hauz Khas,Karol Bagh,15.83,30.19
+Nehru Place,Delhi University,8.56,21.66
+Karol Bagh,Delhi University,2.25,17.55
+Karol Bagh,Nehru Place,5.69,31.62
+Red Fort,Karol Bagh,15.2,31.06
+Karol Bagh,Rajiv Chowk,2.1,57.68
+Nehru Place,Gurgaon,18.91,48.19
+Connaught Place,Rajiv Chowk,19.84,34.95
+Connaught Place,Nehru Place,19.29,9.16
+Karol Bagh,Chandni Chowk,7.95,17.4
+Hauz Khas,Delhi University,4.72,12.74
+Delhi University,Nehru Place,12.83,47.97
+Hauz Khas,Nehru Place,11.99,13.08
+Hauz Khas,Nehru Place,16.41,39.98
+Nehru Place,Karol Bagh,8.38,42.08
+India Gate,Gurgaon,5.94,23.99
+Connaught Place,Chandni Chowk,18.43,20.98
+Red Fort,Connaught Place,9.93,53.96
+Red Fort,Chandni Chowk,14.45,8.42
+Delhi University,Red Fort,3.8,5.43
+Karol Bagh,Nehru Place,12.99,29.62
+Gurgaon,Nehru Place,3.55,57.69
+India Gate,Gurgaon,11.06,18.3
+India Gate,Red Fort,10.51,42.38
+Delhi University,Rajiv Chowk,2.45,20.11
+Delhi University,Connaught Place,16.33,30.28
+Nehru Place,Delhi University,11.38,28.8
+Chandni Chowk,Hauz Khas,1.83,14.12
+India Gate,Chandni Chowk,9.47,16.51
+Red Fort,Connaught Place,1.95,51.4
+Nehru Place,Red Fort,19.64,48.62
+Rajiv Chowk,India Gate,17.22,18.31
+Nehru Place,India Gate,19.25,15.83
+Gurgaon,Rajiv Chowk,19.08,59.72
+Gurgaon,Hauz Khas,14.52,58.96
+Karol Bagh,Gurgaon,11.82,19.27
+Karol Bagh,Chandni Chowk,9.3,37.65
+Chandni Chowk,Connaught Place,2.39,39.23
+Gurgaon,Rajiv Chowk,19.64,15.46
+Delhi University,Red Fort,16.06,54.93
+Gurgaon,Delhi University,18.93,57.81
+Karol Bagh,Rajiv Chowk,10.91,58.75
+Gurgaon,Red Fort,15.39,13.89
+Delhi University,India Gate,10.06,44.51
+Karol Bagh,Hauz Khas,5.7,40.23
+Connaught Place,Red Fort,13.67,13.95
+Chandni Chowk,Karol Bagh,11.74,47.44
+Rajiv Chowk,Chandni Chowk,10.48,5.67
+Hauz Khas,Nehru Place,1.17,24.64
+Karol Bagh,Gurgaon,18.6,17.58
+Red Fort,Hauz Khas,13.05,17.21
+Hauz Khas,Nehru Place,7.11,51.64
+Hauz Khas,Delhi University,14.85,10.25
+Red Fort,Rajiv Chowk,9.15,6.6
+Rajiv Chowk,Gurgaon,10.14,41.43
+Connaught Place,India Gate,3.25,20.89
+Nehru Place,Rajiv Chowk,8.56,55.57
+India Gate,Delhi University,19.87,7.47
+Hauz Khas,Chandni Chowk,15.46,25.44
+Hauz Khas,Chandni Chowk,8.46,46.48
+Nehru Place,Red Fort,18.45,57.3
+Rajiv Chowk,Red Fort,11.97,24.64
+Rajiv Chowk,Delhi University,15.96,18.81
+Gurgaon,Karol Bagh,11.72,24.72
+Gurgaon,Nehru Place,13.48,18.22
+Rajiv Chowk,Connaught Place,4.64,55.5
+Connaught Place,India Gate,2.93,32.83
+Nehru Place,Connaught Place,5.2,7.14
+India Gate,Karol Bagh,1.68,14.64
+Connaught Place,Hauz Khas,17.47,20.54
+Chandni Chowk,Karol Bagh,19.06,36.99
+Red Fort,Karol Bagh,9.3,36.9
+Red Fort,India Gate,10.82,46.73
+Rajiv Chowk,Red Fort,6.37,24.42
+India Gate,Rajiv Chowk,17.99,57.06
+Karol Bagh,Connaught Place,17.96,28.07
+Hauz Khas,Red Fort,15.83,31.2
+Chandni Chowk,Hauz Khas,10.45,16.26
+Connaught Place,Chandni Chowk,12.23,15.24
+Nehru Place,India Gate,7.3,52.03
+Karol Bagh,Gurgaon,4.93,8.91
+Chandni Chowk,Delhi University,2.31,56.74
+Nehru Place,Connaught Place,10.63,27.52
+Connaught Place,Rajiv Chowk,16.41,50.97
+India Gate,Hauz Khas,7.31,43.15
+Karol Bagh,Nehru Place,15.65,41.01
+India Gate,Chandni Chowk,3.88,53.17
+Hauz Khas,India Gate,11.24,20.54
+Red Fort,Karol Bagh,9.08,7.07
+Hauz Khas,Karol Bagh,3.43,47.11
+Karol Bagh,India Gate,1.0,27.91
+Delhi University,Gurgaon,10.93,8.0
+Connaught Place,Gurgaon,19.49,17.44
+Karol Bagh,Nehru Place,6.78,21.72
+Rajiv Chowk,Chandni Chowk,5.38,5.08
+Karol Bagh,Hauz Khas,14.86,58.18
+Gurgaon,Nehru Place,5.26,41.47
+Chandni Chowk,India Gate,15.1,51.66
+India Gate,Karol Bagh,9.03,21.66
+India Gate,Gurgaon,7.18,44.19
+Hauz Khas,Rajiv Chowk,16.52,14.99
+Hauz Khas,Rajiv Chowk,8.05,54.61
+Karol Bagh,Chandni Chowk,16.33,59.17
+Red Fort,India Gate,15.33,26.63
+Chandni Chowk,Delhi University,12.22,41.36
+Gurgaon,Red Fort,2.49,34.95
+Connaught Place,Red Fort,14.48,14.2
+Chandni Chowk,Delhi University,15.83,37.11
+Gurgaon,Delhi University,19.09,7.33
+Chandni Chowk,Hauz Khas,6.04,38.09
+Red Fort,Connaught Place,6.63,44.29
+Chandni Chowk,Nehru Place,15.42,10.64
+Hauz Khas,India Gate,10.76,32.99
+Chandni Chowk,Nehru Place,8.02,56.31
+Gurgaon,India Gate,16.72,43.35
+Delhi University,Connaught Place,14.57,30.39
+Karol Bagh,Hauz Khas,18.5,43.2
+Gurgaon,Hauz Khas,14.85,52.39
+Rajiv Chowk,Delhi University,6.21,49.39
+Karol Bagh,Nehru Place,4.71,23.99
+India Gate,Connaught Place,7.38,58.82
+Gurgaon,India Gate,17.27,43.56
+Connaught Place,Red Fort,14.81,35.91
+Chandni Chowk,Connaught Place,18.99,32.29
+Connaught Place,Hauz Khas,8.23,13.97
+Delhi University,Red Fort,15.94,45.39
+Delhi University,Hauz Khas,8.3,6.39
+India Gate,Delhi University,16.94,5.63
+Delhi University,Gurgaon,14.37,58.36
+Karol Bagh,Red Fort,9.32,17.92
+India Gate,Red Fort,14.39,49.94
+India Gate,Delhi University,11.38,58.19
+Chandni Chowk,Karol Bagh,1.98,32.76
+Delhi University,Rajiv Chowk,14.65,52.45
+Hauz Khas,Gurgaon,4.41,49.0
+India Gate,Red Fort,11.5,26.81
+Hauz Khas,Chandni Chowk,3.5,52.59
+Connaught Place,Chandni Chowk,3.99,22.04
+India Gate,Hauz Khas,6.51,52.93
+India Gate,Nehru Place,13.78,48.82
+Connaught Place,Red Fort,5.76,39.37
+Karol Bagh,India Gate,11.86,50.81
+Connaught Place,Karol Bagh,18.22,5.67
+Connaught Place,Karol Bagh,13.81,7.85
+Nehru Place,Rajiv Chowk,11.43,20.82
+Red Fort,Karol Bagh,6.83,24.41
+Rajiv Chowk,Karol Bagh,12.8,23.37
+Red Fort,India Gate,14.92,27.25
+Connaught Place,Rajiv Chowk,2.3,48.11
+Hauz Khas,Red Fort,6.43,28.8
+Delhi University,India Gate,14.02,23.29
+Red Fort,Gurgaon,2.08,25.57
+India Gate,Nehru Place,18.94,40.3
+Nehru Place,Delhi University,13.76,39.78
+Rajiv Chowk,Connaught Place,4.78,28.01
+Nehru Place,Gurgaon,15.27,10.58
+Karol Bagh,Rajiv Chowk,6.28,20.2
+Karol Bagh,Red Fort,9.21,58.92
+India Gate,Gurgaon,2.28,33.53
+India Gate,Chandni Chowk,4.41,58.39
+Delhi University,Connaught Place,3.15,27.2
+Chandni Chowk,Connaught Place,15.02,43.75
+Nehru Place,Rajiv Chowk,9.03,24.06
+Hauz Khas,Karol Bagh,8.55,19.54
+Karol Bagh,Connaught Place,4.9,31.57
+Delhi University,Hauz Khas,6.1,20.81
+Chandni Chowk,Rajiv Chowk,13.48,58.27
+Chandni Chowk,Hauz Khas,12.47,9.23
+Rajiv Chowk,Red Fort,2.44,57.33
+India Gate,Gurgaon,6.65,10.06
+Rajiv Chowk,India Gate,12.38,39.3
+Delhi University,Connaught Place,13.32,19.71
+Karol Bagh,Chandni Chowk,1.29,58.08
+Delhi University,Connaught Place,5.77,42.18
+Hauz Khas,India Gate,14.43,38.55
+Nehru Place,Red Fort,6.95,19.91
+Red Fort,Rajiv Chowk,12.36,52.64
+India Gate,Delhi University,18.99,10.82
+Nehru Place,Connaught Place,3.94,56.96
+Rajiv Chowk,Chandni Chowk,14.99,53.56
+Red Fort,Gurgaon,4.85,37.32
+Red Fort,Gurgaon,14.32,42.41
+Chandni Chowk,Nehru Place,8.75,5.85
+Rajiv Chowk,Gurgaon,12.08,18.92
+Nehru Place,Chandni Chowk,9.55,57.67
+Delhi University,Chandni Chowk,8.58,51.19
+Karol Bagh,Connaught Place,4.58,41.99
+Hauz Khas,Connaught Place,19.56,10.6
+Chandni Chowk,Delhi University,1.16,28.85
+Rajiv Chowk,Connaught Place,2.76,46.16
+Rajiv Chowk,Connaught Place,18.38,28.87
+Hauz Khas,Red Fort,5.92,28.89
+India Gate,Chandni Chowk,14.75,5.5
+Delhi University,Chandni Chowk,12.2,38.73
+Hauz Khas,Nehru Place,13.12,18.31
+Connaught Place,Karol Bagh,14.57,10.03
+Red Fort,India Gate,4.79,53.26
+Connaught Place,Chandni Chowk,15.04,5.76
+Delhi University,Hauz Khas,5.72,16.79
+Rajiv Chowk,Nehru Place,6.15,18.62
+India Gate,Gurgaon,2.19,30.24
+India Gate,Delhi University,14.92,38.37
+Karol Bagh,Hauz Khas,13.78,9.46
+India Gate,Gurgaon,19.08,51.12
+Gurgaon,Connaught Place,16.3,50.26
+Hauz Khas,Karol Bagh,18.72,34.93
+Chandni Chowk,Red Fort,4.81,38.92
+Red Fort,Rajiv Chowk,15.11,45.59
+Hauz Khas,Rajiv Chowk,10.91,8.77
+Rajiv Chowk,Nehru Place,8.05,55.64
+Red Fort,Chandni Chowk,12.1,34.61
+India Gate,Chandni Chowk,6.11,25.26
+Karol Bagh,Gurgaon,18.01,41.66
+India Gate,Karol Bagh,15.96,29.99
+India Gate,Karol Bagh,12.97,18.66
+Rajiv Chowk,Hauz Khas,14.4,28.52
+India Gate,Delhi University,9.41,40.71
+Rajiv Chowk,Chandni Chowk,18.79,8.52
+Nehru Place,Red Fort,16.67,21.08
+Nehru Place,Red Fort,9.43,6.21
+Karol Bagh,Red Fort,6.72,32.64
+Gurgaon,Connaught Place,2.07,32.01
+Chandni Chowk,Rajiv Chowk,18.62,10.8
+Karol Bagh,India Gate,15.52,27.53
+Chandni Chowk,Rajiv Chowk,13.45,19.31
+Hauz Khas,Delhi University,4.03,13.83
+Connaught Place,Red Fort,2.34,15.21
+Red Fort,Karol Bagh,13.62,53.49
+Connaught Place,Hauz Khas,16.47,42.68
+Nehru Place,Delhi University,3.1,20.91
+Delhi University,Chandni Chowk,6.89,18.75
+India Gate,Nehru Place,10.79,34.46
+India Gate,Karol Bagh,7.78,24.46
+India Gate,Connaught Place,16.74,48.41
+Connaught Place,Chandni Chowk,6.85,55.26
+Karol Bagh,Chandni Chowk,19.1,22.97
+Hauz Khas,Rajiv Chowk,7.73,32.81
+India Gate,Gurgaon,18.88,53.2
+Gurgaon,Red Fort,2.95,26.6
+India Gate,Connaught Place,11.51,32.67
+India Gate,Chandni Chowk,4.68,52.23
+Nehru Place,Karol Bagh,13.86,51.08
+India Gate,Rajiv Chowk,17.32,46.16
+India Gate,Connaught Place,9.35,38.58
+Nehru Place,Connaught Place,4.05,42.05
+Karol Bagh,Gurgaon,4.41,43.17
+Nehru Place,Connaught Place,5.36,11.47
+Karol Bagh,Rajiv Chowk,4.14,5.11
+Chandni Chowk,Karol Bagh,14.66,45.28
+Nehru Place,Karol Bagh,10.78,13.87
+Connaught Place,Gurgaon,2.59,6.05
+Chandni Chowk,Red Fort,4.15,54.0
+Nehru Place,Hauz Khas,5.59,24.48
+Delhi University,Nehru Place,3.0,17.23
+Connaught Place,India Gate,10.87,38.43
+Red Fort,Hauz Khas,5.66,8.18
+Karol Bagh,Hauz Khas,8.43,17.88
+Chandni Chowk,Delhi University,5.17,57.79
+Chandni Chowk,Delhi University,12.71,35.63
+Connaught Place,Hauz Khas,8.9,28.59
+Rajiv Chowk,Nehru Place,11.28,43.3
+Delhi University,Nehru Place,14.34,14.44
+Rajiv Chowk,Gurgaon,10.5,27.66
+Delhi University,Rajiv Chowk,17.54,39.73
+Hauz Khas,Red Fort,11.12,11.35
+Karol Bagh,Connaught Place,12.51,11.45
+Rajiv Chowk,Gurgaon,7.41,12.86
+Chandni Chowk,Connaught Place,14.15,16.34
+Red Fort,Connaught Place,8.45,54.26
+Nehru Place,Delhi University,4.88,32.93
+Rajiv Chowk,Gurgaon,8.97,6.0
+Chandni Chowk,Karol Bagh,16.06,8.8
+India Gate,Chandni Chowk,10.01,35.84
+Chandni Chowk,Red Fort,12.94,42.87
+Delhi University,Connaught Place,5.81,5.55
+Chandni Chowk,Gurgaon,14.75,34.46
+Hauz Khas,Rajiv Chowk,16.89,50.18
+Chandni Chowk,Gurgaon,17.02,31.68
+Gurgaon,Connaught Place,7.34,48.54
+Rajiv Chowk,Gurgaon,9.57,15.09
+Gurgaon,Karol Bagh,17.24,53.54
+Gurgaon,Chandni Chowk,9.86,9.16
+Nehru Place,Delhi University,8.37,49.19
+Red Fort,Karol Bagh,18.13,16.19
+Nehru Place,Connaught Place,2.27,53.25
+India Gate,Connaught Place,8.4,34.8
+Chandni Chowk,Gurgaon,19.39,8.66
+Chandni Chowk,Connaught Place,13.32,9.08
+Delhi University,Nehru Place,8.13,49.21
+Connaught Place,Rajiv Chowk,9.24,59.85
+Gurgaon,Chandni Chowk,11.62,22.66
+Karol Bagh,Rajiv Chowk,5.18,24.28
+Karol Bagh,Rajiv Chowk,8.08,8.78
+Karol Bagh,Gurgaon,8.02,30.53
+Karol Bagh,India Gate,14.73,41.12
+Delhi University,Rajiv Chowk,14.47,5.46
+India Gate,Rajiv Chowk,5.14,41.39
+Hauz Khas,Gurgaon,10.2,5.29
+India Gate,Rajiv Chowk,16.29,47.5
+Red Fort,Rajiv Chowk,11.42,8.66
+Hauz Khas,Nehru Place,15.56,37.1
+Rajiv Chowk,Karol Bagh,15.86,46.35
+Delhi University,Gurgaon,16.26,33.49
+Rajiv Chowk,Chandni Chowk,3.67,41.91
+Gurgaon,Karol Bagh,12.79,45.82
+Hauz Khas,Red Fort,4.23,15.72
+Red Fort,Karol Bagh,17.92,46.25
+Karol Bagh,Connaught Place,18.26,46.73
+Gurgaon,Hauz Khas,12.35,40.98
+Gurgaon,Connaught Place,17.89,36.83
+Karol Bagh,Gurgaon,13.02,13.61
+Rajiv Chowk,Gurgaon,10.0,44.4
+Chandni Chowk,Gurgaon,6.15,16.12
+India Gate,Nehru Place,6.96,18.28
+Karol Bagh,Rajiv Chowk,5.08,28.37
+India Gate,Chandni Chowk,18.25,32.89
+Karol Bagh,India Gate,4.57,9.23
+Rajiv Chowk,Nehru Place,14.23,26.05
+Connaught Place,Red Fort,16.61,41.27
+India Gate,Rajiv Chowk,16.13,19.96
+Red Fort,India Gate,14.15,19.52
+Hauz Khas,Nehru Place,18.84,40.0
+Hauz Khas,Karol Bagh,7.17,19.82
+Hauz Khas,Nehru Place,4.63,43.21
+Hauz Khas,Rajiv Chowk,5.16,37.74
+Delhi University,Hauz Khas,6.03,41.41
+India Gate,Nehru Place,16.48,47.79
+Gurgaon,Chandni Chowk,15.46,15.32
+Karol Bagh,Nehru Place,2.68,43.44
+India Gate,Connaught Place,8.0,28.78
+Red Fort,Connaught Place,1.59,19.28
+Rajiv Chowk,Red Fort,1.64,53.36
+Rajiv Chowk,Karol Bagh,5.62,35.65
+Hauz Khas,Karol Bagh,1.74,41.68
+India Gate,Delhi University,7.14,54.39
+India Gate,Rajiv Chowk,17.87,22.89
+Nehru Place,Connaught Place,18.12,59.79
+Hauz Khas,Karol Bagh,16.68,51.47
+Gurgaon,Hauz Khas,5.73,36.72
+Karol Bagh,Connaught Place,2.28,10.22
+India Gate,Rajiv Chowk,19.98,22.97
+Hauz Khas,Delhi University,15.22,49.37
+Delhi University,Red Fort,17.3,59.87
+Chandni Chowk,India Gate,5.59,7.22
+Connaught Place,Hauz Khas,8.81,12.15
+Gurgaon,Delhi University,1.43,24.82
+Nehru Place,Karol Bagh,15.89,36.14
+Connaught Place,Rajiv Chowk,6.94,40.99
+Connaught Place,Hauz Khas,5.41,5.79
+India Gate,Red Fort,15.52,39.31
+Gurgaon,Nehru Place,15.48,7.14
+Chandni Chowk,India Gate,16.91,39.07
+Connaught Place,Chandni Chowk,11.7,39.35
+Karol Bagh,Red Fort,17.42,37.28
+India Gate,Nehru Place,12.04,59.49
+India Gate,Red Fort,15.38,29.33
+Hauz Khas,Nehru Place,14.44,26.41
+Nehru Place,Red Fort,5.35,37.83
+India Gate,Delhi University,18.64,56.1
+Hauz Khas,Karol Bagh,7.5,34.02
+Rajiv Chowk,Hauz Khas,5.02,59.76
+Rajiv Chowk,Karol Bagh,19.64,40.72
+Nehru Place,Connaught Place,16.28,44.33
+Red Fort,Nehru Place,12.27,7.93
+Nehru Place,Red Fort,9.64,42.11
+Chandni Chowk,Red Fort,13.87,25.52
+Gurgaon,Connaught Place,18.89,14.2
+Karol Bagh,India Gate,10.51,43.0
+India Gate,Rajiv Chowk,14.25,40.68
+Delhi University,Hauz Khas,6.23,13.59
+Gurgaon,Chandni Chowk,13.08,37.96
+Delhi University,Connaught Place,4.41,43.78
+Hauz Khas,Delhi University,9.65,41.73
+Hauz Khas,Delhi University,16.91,14.34
+Nehru Place,Gurgaon,1.36,47.85
+Chandni Chowk,Nehru Place,12.58,43.48
+Red Fort,India Gate,16.92,49.15
+Hauz Khas,Connaught Place,19.26,34.48
+Delhi University,Gurgaon,10.28,27.1
+Delhi University,Gurgaon,3.92,36.49
+Gurgaon,Karol Bagh,6.26,55.67
+India Gate,Nehru Place,12.08,37.61
+Karol Bagh,Connaught Place,7.74,7.86
+Hauz Khas,India Gate,1.6,28.28
+Hauz Khas,Chandni Chowk,2.61,38.38
+Karol Bagh,Gurgaon,17.74,53.56
+Red Fort,Rajiv Chowk,13.52,16.62
+Hauz Khas,Delhi University,17.4,53.74
+Hauz Khas,Delhi University,4.74,45.56
+Rajiv Chowk,Red Fort,6.44,49.15
+Delhi University,Nehru Place,19.95,6.65
+Connaught Place,Gurgaon,18.05,39.24
+Gurgaon,Delhi University,19.49,30.58
+Hauz Khas,India Gate,17.1,8.43
+Hauz Khas,Karol Bagh,7.37,8.69
+Karol Bagh,Gurgaon,19.53,49.93
+Gurgaon,India Gate,17.2,56.59
+Red Fort,Delhi University,2.62,26.21
+Rajiv Chowk,Hauz Khas,2.35,16.59
+Red Fort,Hauz Khas,5.36,30.8
+Nehru Place,Gurgaon,6.1,10.55
+Gurgaon,Nehru Place,4.18,13.1
+Connaught Place,Karol Bagh,19.49,46.76
+Red Fort,Hauz Khas,19.39,29.19
+Karol Bagh,Gurgaon,6.29,48.91
+Gurgaon,Hauz Khas,7.2,21.47
+Connaught Place,Hauz Khas,5.42,12.13
+Rajiv Chowk,Chandni Chowk,5.87,24.54
+Connaught Place,Nehru Place,13.81,8.44
+Red Fort,Rajiv Chowk,5.0,49.5
+Connaught Place,Rajiv Chowk,3.79,23.85
+Red Fort,Nehru Place,17.43,13.52
+India Gate,Chandni Chowk,2.57,31.65
+Karol Bagh,Red Fort,6.75,35.99
+Nehru Place,Rajiv Chowk,16.27,12.54
+Red Fort,Hauz Khas,12.03,32.8
+Gurgaon,India Gate,3.74,39.32
+Chandni Chowk,Nehru Place,6.2,31.83
+Chandni Chowk,Hauz Khas,2.56,30.28
+Nehru Place,Delhi University,6.82,50.23
+Rajiv Chowk,Connaught Place,2.08,28.02
+Delhi University,Karol Bagh,9.71,44.88
+India Gate,Red Fort,11.91,41.7
+Delhi University,Hauz Khas,15.76,52.42
+Karol Bagh,Delhi University,6.96,34.59
+Gurgaon,Connaught Place,16.96,59.42
+Karol Bagh,Chandni Chowk,17.9,25.43
+Chandni Chowk,Connaught Place,4.71,31.92
+Chandni Chowk,Connaught Place,15.09,32.09
+Nehru Place,Connaught Place,10.18,51.1
+Rajiv Chowk,Chandni Chowk,7.87,52.29
+Red Fort,Rajiv Chowk,8.73,23.05
+Nehru Place,Delhi University,9.63,46.93
+Hauz Khas,India Gate,3.39,15.8
+Connaught Place,Chandni Chowk,19.08,14.65
+Rajiv Chowk,Nehru Place,11.79,36.86
+Gurgaon,Nehru Place,10.3,40.46
+Karol Bagh,Nehru Place,5.37,35.4
+Gurgaon,Delhi University,8.07,41.39
+Karol Bagh,Red Fort,3.68,36.4
+India Gate,Red Fort,4.52,20.33
+Connaught Place,Hauz Khas,5.16,15.06
+Connaught Place,Karol Bagh,16.69,20.71
+Gurgaon,Chandni Chowk,18.62,58.35
+Chandni Chowk,Red Fort,11.85,12.87
+Hauz Khas,Delhi University,8.12,48.88
+Nehru Place,Karol Bagh,7.98,9.79
+Karol Bagh,Gurgaon,11.58,51.48
+Connaught Place,Chandni Chowk,16.12,14.63
+Red Fort,Gurgaon,13.78,17.13
+Rajiv Chowk,Nehru Place,5.15,53.07
+Red Fort,Chandni Chowk,5.74,19.48
+Nehru Place,Red Fort,1.01,52.89
+Delhi University,Gurgaon,16.06,39.5
+Hauz Khas,Gurgaon,15.26,13.36
+India Gate,Connaught Place,9.71,24.32
+Delhi University,Rajiv Chowk,2.78,31.74
+Delhi University,Gurgaon,18.49,7.2
+Gurgaon,Red Fort,6.54,16.41
+Red Fort,India Gate,5.52,54.96
+Nehru Place,India Gate,9.89,30.65
+Rajiv Chowk,Red Fort,15.45,13.5
+Rajiv Chowk,Red Fort,10.26,28.65
+Chandni Chowk,Karol Bagh,12.34,59.98
+Delhi University,Chandni Chowk,15.62,26.88
+Connaught Place,Gurgaon,16.72,14.39
+Hauz Khas,Rajiv Chowk,1.58,16.24
+Karol Bagh,Connaught Place,7.47,33.08
+Nehru Place,Red Fort,12.69,55.08
+Red Fort,Hauz Khas,10.69,32.57
+Connaught Place,Gurgaon,1.95,6.92
+Gurgaon,Chandni Chowk,11.47,29.1
+Rajiv Chowk,Chandni Chowk,16.94,13.84
+Delhi University,Nehru Place,1.47,29.7
+Rajiv Chowk,Delhi University,5.51,7.73
+Red Fort,Karol Bagh,14.77,11.14
+Delhi University,Karol Bagh,12.56,20.46
+Red Fort,India Gate,4.3,25.89
+Nehru Place,Karol Bagh,16.23,26.57
+Red Fort,Delhi University,15.26,11.9
+Karol Bagh,Rajiv Chowk,15.68,18.03
+India Gate,Chandni Chowk,13.87,36.12
+Rajiv Chowk,Chandni Chowk,18.65,26.3
+Red Fort,Hauz Khas,2.26,6.05
+Red Fort,Gurgaon,16.71,33.86
+Red Fort,Nehru Place,15.73,17.89
+India Gate,Nehru Place,7.56,6.66
+Connaught Place,Gurgaon,19.27,41.73
+India Gate,Nehru Place,18.73,19.6
+Chandni Chowk,Delhi University,12.62,42.32
+India Gate,Hauz Khas,7.03,51.65
+Delhi University,Red Fort,19.0,53.67
+Hauz Khas,Connaught Place,15.04,20.26
+Chandni Chowk,Rajiv Chowk,6.35,57.98
+Hauz Khas,Gurgaon,1.2,44.38
+Nehru Place,Karol Bagh,14.42,39.25
+Rajiv Chowk,Karol Bagh,19.81,22.15
+India Gate,Nehru Place,7.46,9.34
+Rajiv Chowk,Karol Bagh,9.41,19.36
+Rajiv Chowk,Connaught Place,7.52,50.9
+Connaught Place,Nehru Place,18.77,15.22
+Red Fort,Chandni Chowk,8.08,56.07
+Karol Bagh,Gurgaon,2.17,10.08
+Karol Bagh,Nehru Place,4.09,37.74
+India Gate,Karol Bagh,3.86,58.24
+Gurgaon,Hauz Khas,9.49,32.58
+Hauz Khas,Nehru Place,5.69,30.9
+Hauz Khas,Connaught Place,13.58,46.31
+Connaught Place,Delhi University,15.32,36.78
+Chandni Chowk,Rajiv Chowk,18.18,49.96
+Connaught Place,Rajiv Chowk,15.38,8.06
+Delhi University,Chandni Chowk,1.13,16.68
+Rajiv Chowk,Red Fort,13.61,27.62
+Karol Bagh,India Gate,8.65,53.65
+Hauz Khas,Delhi University,18.02,55.0
+Gurgaon,Red Fort,6.96,43.01
+Karol Bagh,India Gate,6.16,15.48
+Connaught Place,Red Fort,4.51,23.82
+Red Fort,Nehru Place,9.17,50.7
+Delhi University,Gurgaon,3.28,45.42
+Delhi University,Rajiv Chowk,11.1,20.84
+Hauz Khas,Karol Bagh,10.36,21.5
+Rajiv Chowk,Nehru Place,12.33,28.86
+Rajiv Chowk,Chandni Chowk,4.12,11.41
+Karol Bagh,Hauz Khas,11.39,54.63
+Connaught Place,Chandni Chowk,7.54,45.32
+Chandni Chowk,Karol Bagh,13.51,56.24
+Chandni Chowk,Connaught Place,16.6,36.16
+Gurgaon,Delhi University,13.48,54.41
+Karol Bagh,India Gate,8.59,22.97
+Rajiv Chowk,Connaught Place,1.21,50.46
+Hauz Khas,Red Fort,16.22,10.74
+Delhi University,Gurgaon,11.96,30.52
+Connaught Place,Gurgaon,3.26,58.93
+Connaught Place,India Gate,5.08,8.7
+India Gate,Hauz Khas,12.3,45.64
+Nehru Place,Hauz Khas,1.62,41.23
+India Gate,Delhi University,11.11,10.68
+Red Fort,Nehru Place,4.28,36.24
+Karol Bagh,Chandni Chowk,6.63,56.61
+Connaught Place,Red Fort,16.56,59.1
+Hauz Khas,India Gate,5.93,58.33
+Delhi University,Red Fort,9.19,24.11
+Karol Bagh,Hauz Khas,1.96,7.9
+India Gate,Delhi University,14.15,30.19
+Gurgaon,India Gate,5.3,38.77
+Red Fort,India Gate,5.8,36.77
+India Gate,Nehru Place,7.82,50.3
+Chandni Chowk,Gurgaon,16.59,31.25
+Chandni Chowk,Red Fort,7.67,24.94
+Delhi University,Chandni Chowk,16.31,23.05
+Rajiv Chowk,Hauz Khas,4.97,9.66
+Red Fort,Karol Bagh,9.87,31.52
+Connaught Place,Delhi University,16.98,17.17
+Nehru Place,Chandni Chowk,8.24,49.46
+Nehru Place,Rajiv Chowk,16.65,26.15
+Chandni Chowk,Connaught Place,9.72,21.68
+Connaught Place,India Gate,18.72,11.53
+India Gate,Gurgaon,18.74,42.61
+Nehru Place,Karol Bagh,11.1,6.8
+India Gate,Delhi University,10.04,27.43
+Red Fort,Chandni Chowk,4.06,41.1
+Nehru Place,Red Fort,19.45,35.92
+Red Fort,Nehru Place,14.58,8.76
+Connaught Place,India Gate,8.94,11.4
+Karol Bagh,Connaught Place,12.64,56.62
+Red Fort,Rajiv Chowk,13.57,9.22
+Rajiv Chowk,Hauz Khas,7.74,35.29
+Nehru Place,Gurgaon,8.66,50.85
+Red Fort,India Gate,16.48,38.65
+Karol Bagh,India Gate,8.1,19.04
+Nehru Place,Red Fort,3.01,24.52
+Hauz Khas,Nehru Place,8.85,42.17
+Hauz Khas,Karol Bagh,13.51,8.86
+India Gate,Karol Bagh,8.51,15.0
+Connaught Place,Karol Bagh,3.98,50.5
+India Gate,Hauz Khas,1.8,28.06
+Gurgaon,Nehru Place,4.2,53.36
+Gurgaon,Nehru Place,11.58,17.73
+Karol Bagh,Gurgaon,10.55,45.23
+Hauz Khas,Rajiv Chowk,19.2,17.12
+Gurgaon,Connaught Place,17.84,56.39
+Karol Bagh,Nehru Place,18.41,39.95
+Nehru Place,India Gate,12.97,27.18
+Hauz Khas,Nehru Place,15.3,34.22
+Connaught Place,India Gate,13.87,28.57
+Red Fort,Rajiv Chowk,14.9,50.35
+Connaught Place,Delhi University,3.78,50.81
+Chandni Chowk,Rajiv Chowk,11.27,51.46
+Gurgaon,India Gate,9.19,25.85
+Hauz Khas,Chandni Chowk,18.39,18.81
+Nehru Place,Rajiv Chowk,17.04,31.62
+Hauz Khas,Karol Bagh,10.77,21.97
+Delhi University,Gurgaon,11.89,22.89
+Karol Bagh,Delhi University,1.75,19.96
+Karol Bagh,India Gate,1.12,58.81
+Nehru Place,Rajiv Chowk,19.35,26.73
+Chandni Chowk,Rajiv Chowk,14.84,24.02
+Red Fort,Connaught Place,13.75,49.3
+Delhi University,Chandni Chowk,18.99,27.01
+Delhi University,Hauz Khas,15.88,19.63
+Hauz Khas,Chandni Chowk,19.82,6.42
+India Gate,Nehru Place,12.47,41.27
+Nehru Place,Gurgaon,14.07,11.62
+Nehru Place,India Gate,18.83,14.97
+Rajiv Chowk,India Gate,12.83,17.25
+Nehru Place,Connaught Place,6.84,35.06
+India Gate,Hauz Khas,8.93,13.81
+Hauz Khas,Connaught Place,4.25,28.0
+Connaught Place,India Gate,15.39,54.39
+Red Fort,Delhi University,2.6,26.62
+Delhi University,Chandni Chowk,2.9,5.91
+Nehru Place,Rajiv Chowk,13.57,38.13
+Rajiv Chowk,Connaught Place,4.1,17.86
+Chandni Chowk,Nehru Place,1.45,50.92
+Rajiv Chowk,Delhi University,19.52,12.45
+Nehru Place,Rajiv Chowk,5.4,52.76
+Nehru Place,India Gate,18.6,28.08
+India Gate,Chandni Chowk,1.96,7.17
+Connaught Place,Rajiv Chowk,11.91,26.61
+Rajiv Chowk,Red Fort,1.54,37.08
+Rajiv Chowk,India Gate,1.21,48.31
+Connaught Place,Karol Bagh,6.82,7.21
+Nehru Place,Karol Bagh,12.18,26.87
+Hauz Khas,India Gate,19.5,34.93
+Red Fort,Gurgaon,6.23,44.02
+India Gate,Hauz Khas,6.16,54.73
+Chandni Chowk,Nehru Place,8.12,35.24
+Chandni Chowk,Rajiv Chowk,1.96,28.44
+India Gate,Hauz Khas,16.81,49.31
+Connaught Place,Gurgaon,5.26,17.43
+India Gate,Nehru Place,16.53,56.17
+Nehru Place,Gurgaon,2.81,29.75
+Delhi University,Karol Bagh,7.41,52.89
+Nehru Place,Connaught Place,2.59,16.61
+Delhi University,Connaught Place,15.3,7.82
+Delhi University,Hauz Khas,10.36,29.32
+Gurgaon,Nehru Place,7.35,26.7
+Delhi University,Karol Bagh,11.07,13.88
+Gurgaon,Karol Bagh,11.87,49.3
+Karol Bagh,India Gate,15.44,13.46
+Hauz Khas,Gurgaon,3.84,19.75
+Gurgaon,Rajiv Chowk,7.86,27.47
+Delhi University,Hauz Khas,13.91,8.12
+Hauz Khas,Gurgaon,1.66,26.56
+Chandni Chowk,Red Fort,14.25,15.64
+Hauz Khas,Rajiv Chowk,13.19,19.29
+Red Fort,Nehru Place,17.84,54.26
+Hauz Khas,Gurgaon,6.65,17.65
+Delhi University,Red Fort,8.81,18.23
+Delhi University,Rajiv Chowk,13.78,50.43
+Delhi University,Chandni Chowk,13.79,50.34
+Gurgaon,Red Fort,8.54,13.6
+Rajiv Chowk,Karol Bagh,15.02,24.83
+Karol Bagh,Delhi University,13.75,19.89
+Delhi University,Rajiv Chowk,2.54,59.59
+India Gate,Rajiv Chowk,3.97,59.36
+Delhi University,Nehru Place,19.57,48.66
+Hauz Khas,Delhi University,13.53,36.78
+Red Fort,Hauz Khas,17.46,20.92
+Connaught Place,Delhi University,9.89,39.07
+India Gate,Connaught Place,8.81,28.51
+Hauz Khas,Karol Bagh,7.28,36.03
+Chandni Chowk,Red Fort,17.16,16.08
+Karol Bagh,Red Fort,18.75,42.9
+Red Fort,Karol Bagh,16.64,35.59
+Connaught Place,Red Fort,15.81,5.89
+Chandni Chowk,Delhi University,16.55,7.21
+Connaught Place,Rajiv Chowk,17.91,59.56
+Nehru Place,India Gate,6.59,16.57
+Gurgaon,Delhi University,15.54,18.92
+Chandni Chowk,Delhi University,17.45,10.66
+Hauz Khas,Chandni Chowk,3.39,58.85
+Delhi University,Red Fort,13.8,51.58
+Connaught Place,Hauz Khas,7.16,42.21
+Rajiv Chowk,Delhi University,12.29,38.17
+Red Fort,Chandni Chowk,13.97,36.64
+Gurgaon,Nehru Place,9.15,20.18
+Chandni Chowk,Rajiv Chowk,15.6,17.44
+Gurgaon,Delhi University,14.15,17.83
+Gurgaon,Chandni Chowk,12.88,46.09
+Chandni Chowk,Red Fort,5.16,8.3
+Nehru Place,Karol Bagh,3.49,38.33
+India Gate,Karol Bagh,17.14,7.47
+Karol Bagh,Delhi University,14.95,23.77
+India Gate,Hauz Khas,10.09,56.09
+Connaught Place,Hauz Khas,7.31,30.59
+Red Fort,Delhi University,1.26,9.49
+Red Fort,Karol Bagh,5.91,6.53
+Karol Bagh,Gurgaon,13.0,28.45
+Red Fort,Connaught Place,11.41,14.61
+Rajiv Chowk,Nehru Place,6.62,41.51
+Karol Bagh,Connaught Place,19.34,7.77
+Karol Bagh,Rajiv Chowk,17.92,36.73
+Gurgaon,Connaught Place,11.71,32.52
+Gurgaon,Red Fort,2.32,9.94
+Nehru Place,Gurgaon,12.42,23.75
+Delhi University,Rajiv Chowk,18.43,27.36
+India Gate,Rajiv Chowk,3.72,44.31
+Delhi University,Chandni Chowk,6.57,33.9
+Karol Bagh,Delhi University,14.26,54.51
+India Gate,Delhi University,16.05,42.2
+Karol Bagh,Hauz Khas,13.91,57.03
+Hauz Khas,India Gate,6.62,5.06
+Rajiv Chowk,Chandni Chowk,6.17,16.98
+Chandni Chowk,Rajiv Chowk,13.57,39.85
+Red Fort,Chandni Chowk,12.28,5.89
+Gurgaon,Delhi University,14.85,22.79
+Nehru Place,Delhi University,13.64,35.61
+Connaught Place,India Gate,7.51,12.4
+Rajiv Chowk,Nehru Place,2.79,50.73
+Chandni Chowk,Gurgaon,18.45,40.74
+Gurgaon,Chandni Chowk,2.97,27.11
+Connaught Place,Rajiv Chowk,14.85,47.89
+Hauz Khas,India Gate,3.25,5.0
+Hauz Khas,Red Fort,14.53,24.61
+Delhi University,Red Fort,5.84,5.71
+Connaught Place,Delhi University,11.27,51.81
+Rajiv Chowk,Delhi University,19.2,36.12
+Delhi University,Nehru Place,10.77,9.68
+Nehru Place,Connaught Place,11.43,25.9
+Red Fort,Chandni Chowk,12.54,26.38
+Rajiv Chowk,Delhi University,5.57,10.22
+Karol Bagh,Delhi University,6.98,10.32
+Delhi University,Connaught Place,4.36,59.3
+India Gate,Chandni Chowk,9.44,34.25
+Chandni Chowk,Hauz Khas,17.6,59.76
+India Gate,Chandni Chowk,12.07,49.69
+Delhi University,Hauz Khas,7.21,21.82
+India Gate,Karol Bagh,8.65,41.99
+Connaught Place,Nehru Place,13.96,22.34
+Rajiv Chowk,Connaught Place,3.53,39.78
+Connaught Place,Karol Bagh,3.44,36.82
+Red Fort,Delhi University,14.18,43.53
+India Gate,Gurgaon,15.32,53.01
+Chandni Chowk,Red Fort,10.5,45.16
+Nehru Place,Hauz Khas,12.76,15.27
+Hauz Khas,Rajiv Chowk,1.49,20.65
+Connaught Place,Hauz Khas,9.42,38.94
+India Gate,Delhi University,17.15,15.79
+Connaught Place,Gurgaon,3.39,57.99
+India Gate,Gurgaon,3.05,31.32
+Connaught Place,India Gate,12.13,34.78
+Rajiv Chowk,Delhi University,2.63,8.14
+India Gate,Red Fort,3.0,37.21
+Red Fort,Gurgaon,11.34,17.86
+India Gate,Red Fort,13.12,50.1
+Nehru Place,Hauz Khas,1.79,32.4
+Hauz Khas,Connaught Place,14.1,18.88
+Nehru Place,Karol Bagh,6.85,38.75
+Delhi University,Chandni Chowk,18.06,49.55
+Karol Bagh,Hauz Khas,12.08,45.16
+Delhi University,Red Fort,7.93,40.25
+Karol Bagh,Red Fort,9.86,15.45
+Rajiv Chowk,Connaught Place,14.33,35.61
+Karol Bagh,India Gate,7.81,55.12
+Hauz Khas,Delhi University,1.4,22.37
+Delhi University,India Gate,2.08,47.16
+Red Fort,Chandni Chowk,14.34,23.22
+Rajiv Chowk,Chandni Chowk,13.84,26.78
+Hauz Khas,Delhi University,15.37,29.98
+Karol Bagh,Chandni Chowk,8.83,56.41
+Gurgaon,Red Fort,5.77,11.62
+Chandni Chowk,India Gate,12.11,58.31
+Karol Bagh,Gurgaon,8.18,8.41
+Connaught Place,Delhi University,7.45,32.83
+Nehru Place,Delhi University,4.08,41.2
+India Gate,Red Fort,19.96,29.85
+India Gate,Red Fort,7.74,27.04
+India Gate,Chandni Chowk,3.19,53.58
+Gurgaon,Nehru Place,8.88,26.3
+Karol Bagh,Chandni Chowk,13.53,29.31
+India Gate,Red Fort,13.32,8.38
+Gurgaon,India Gate,16.46,56.73
+Chandni Chowk,Rajiv Chowk,13.33,57.5
+Rajiv Chowk,Gurgaon,3.88,31.26
+Red Fort,Gurgaon,12.43,37.0
+Karol Bagh,Gurgaon,8.63,23.59
+Gurgaon,Rajiv Chowk,3.41,26.55
+Rajiv Chowk,Hauz Khas,4.09,45.39
+Karol Bagh,Connaught Place,4.97,8.22
+Rajiv Chowk,Chandni Chowk,11.49,37.74
+Chandni Chowk,Hauz Khas,17.57,36.73
+Red Fort,Rajiv Chowk,7.56,49.17
+Karol Bagh,Rajiv Chowk,11.27,9.36
+Nehru Place,Rajiv Chowk,11.75,54.94
+Red Fort,Nehru Place,8.53,21.3
+Delhi University,India Gate,3.73,13.33
+Karol Bagh,Gurgaon,9.22,37.76
+India Gate,Red Fort,2.53,56.68
+Karol Bagh,Delhi University,15.35,37.26
+Chandni Chowk,Red Fort,16.74,9.41
+Connaught Place,Delhi University,10.06,39.66
+Connaught Place,Gurgaon,16.74,48.09
+Gurgaon,Hauz Khas,6.26,56.75
+Gurgaon,Chandni Chowk,3.36,53.13
+Connaught Place,Delhi University,19.45,14.74
+Red Fort,Delhi University,14.72,7.22
+Delhi University,Nehru Place,8.7,33.4
+Karol Bagh,Rajiv Chowk,12.03,56.48
+Hauz Khas,Chandni Chowk,13.77,31.47
+Gurgaon,Red Fort,16.38,57.28
+Karol Bagh,Nehru Place,1.42,59.04
+India Gate,Hauz Khas,2.64,49.79
+Rajiv Chowk,Delhi University,6.33,12.27
+Connaught Place,Chandni Chowk,9.36,40.42
+Gurgaon,Karol Bagh,8.24,8.0
+Delhi University,Karol Bagh,12.39,54.63
+Nehru Place,Karol Bagh,8.28,16.9
+Karol Bagh,Gurgaon,9.41,7.66
+Gurgaon,Karol Bagh,16.59,50.45
+Nehru Place,Rajiv Chowk,12.17,24.42
+Connaught Place,Chandni Chowk,16.2,35.51
+Nehru Place,Chandni Chowk,16.69,39.73
+India Gate,Red Fort,15.9,37.92
+Rajiv Chowk,Chandni Chowk,8.87,57.69
+Connaught Place,Chandni Chowk,11.28,38.28
+Delhi University,Rajiv Chowk,5.19,39.41
+Hauz Khas,Nehru Place,11.86,15.17
+Nehru Place,Connaught Place,2.13,38.24
+Connaught Place,Rajiv Chowk,15.51,33.79
+India Gate,Delhi University,5.31,41.66
+Gurgaon,Delhi University,2.52,29.3
+Gurgaon,Karol Bagh,4.1,15.15
+Rajiv Chowk,Gurgaon,4.84,26.27
+India Gate,Delhi University,1.97,26.88
+Red Fort,Hauz Khas,10.72,31.58
+Chandni Chowk,Delhi University,8.27,51.15
+Hauz Khas,Rajiv Chowk,3.76,32.81
+Rajiv Chowk,Nehru Place,2.18,8.91
+Nehru Place,Gurgaon,11.9,36.13
+Connaught Place,Delhi University,17.68,35.68
+Karol Bagh,Nehru Place,19.24,7.68
+Karol Bagh,Chandni Chowk,2.86,7.42
+India Gate,Delhi University,4.52,34.77
+Red Fort,Chandni Chowk,13.27,7.51
+Karol Bagh,Rajiv Chowk,18.97,51.32
+Gurgaon,India Gate,6.64,9.25
+Chandni Chowk,Hauz Khas,4.23,11.98
+Rajiv Chowk,India Gate,3.34,33.52
+Nehru Place,Chandni Chowk,5.67,24.7
+Gurgaon,Karol Bagh,19.8,42.64
+Hauz Khas,Connaught Place,19.03,12.84
+Chandni Chowk,Connaught Place,8.26,35.51
+Karol Bagh,Gurgaon,2.46,5.23
+Gurgaon,Karol Bagh,13.74,40.3
+Karol Bagh,Delhi University,8.8,31.93
+Connaught Place,Gurgaon,8.89,6.32
+Karol Bagh,Connaught Place,7.37,14.74
+Karol Bagh,Red Fort,2.87,57.62
+Karol Bagh,Delhi University,12.39,45.08
+Hauz Khas,Gurgaon,6.99,26.62
+Gurgaon,Connaught Place,5.5,10.33
+Red Fort,India Gate,4.4,48.86
+Chandni Chowk,Nehru Place,13.87,35.08
+Gurgaon,Nehru Place,10.03,55.73
+Nehru Place,Karol Bagh,2.38,20.43
+Chandni Chowk,Hauz Khas,7.65,48.03
+Gurgaon,Karol Bagh,19.86,18.24
+Gurgaon,Karol Bagh,17.61,50.68
+Gurgaon,Delhi University,5.27,26.96
+Red Fort,Karol Bagh,8.78,58.8
+Rajiv Chowk,Nehru Place,4.44,48.95
+India Gate,Chandni Chowk,7.35,45.2
+Karol Bagh,India Gate,8.98,36.81
+Connaught Place,Chandni Chowk,16.82,49.23
+Hauz Khas,Karol Bagh,17.46,8.28
+Gurgaon,India Gate,14.15,12.7
+Karol Bagh,Nehru Place,8.9,35.17
+Connaught Place,Delhi University,8.65,33.58
+Delhi University,India Gate,19.93,12.44
+India Gate,Nehru Place,13.83,26.78
+Karol Bagh,Gurgaon,3.53,13.73
+Delhi University,Connaught Place,19.04,53.38
+Hauz Khas,Delhi University,18.23,59.53
+Hauz Khas,Rajiv Chowk,4.96,24.55
+Connaught Place,Delhi University,13.72,31.61
+Hauz Khas,Chandni Chowk,8.95,24.68
+Nehru Place,Hauz Khas,12.28,36.66
+Rajiv Chowk,Gurgaon,4.07,30.95
+Gurgaon,India Gate,11.52,36.37
+Hauz Khas,Karol Bagh,4.99,45.82
+Red Fort,Nehru Place,1.48,24.52
+Chandni Chowk,India Gate,15.82,36.01
+Red Fort,Gurgaon,5.96,43.22
+Delhi University,Hauz Khas,11.78,48.79
+Red Fort,Chandni Chowk,14.97,38.56
+Gurgaon,Delhi University,10.28,12.33
+India Gate,Delhi University,5.97,28.05
+Connaught Place,Hauz Khas,12.39,33.25
+Chandni Chowk,Rajiv Chowk,6.48,5.36
+Hauz Khas,Rajiv Chowk,10.43,20.71
+India Gate,Karol Bagh,14.96,6.32
+Hauz Khas,Gurgaon,12.11,56.78
+Delhi University,Hauz Khas,4.31,30.94
+Gurgaon,Rajiv Chowk,2.74,39.41
+Gurgaon,Red Fort,11.46,27.41
+Hauz Khas,Chandni Chowk,10.91,54.31
+Hauz Khas,Delhi University,4.73,6.24
+Delhi University,Nehru Place,17.37,36.74
+Karol Bagh,Rajiv Chowk,17.92,37.83
+Nehru Place,Red Fort,16.39,28.63
+Red Fort,Gurgaon,15.25,55.22
+Rajiv Chowk,Hauz Khas,11.87,14.94
+Karol Bagh,India Gate,6.11,15.93
+Chandni Chowk,Nehru Place,5.69,21.85
+Karol Bagh,India Gate,11.55,37.34
+Chandni Chowk,Delhi University,9.1,38.85
+Hauz Khas,Rajiv Chowk,2.55,9.83
+Delhi University,Gurgaon,4.26,33.49
+Connaught Place,Karol Bagh,5.07,20.58
+Hauz Khas,Connaught Place,8.61,49.65
+India Gate,Karol Bagh,1.26,40.72
+Nehru Place,Gurgaon,13.71,48.93
+Hauz Khas,India Gate,18.72,6.11
+India Gate,Red Fort,3.92,53.74
+Chandni Chowk,Rajiv Chowk,9.71,36.05
+India Gate,Gurgaon,13.6,42.35
+Connaught Place,Hauz Khas,18.7,59.83
+Hauz Khas,Gurgaon,14.68,20.8
+Delhi University,Red Fort,17.72,7.71
+Gurgaon,Connaught Place,5.39,54.36
+Karol Bagh,Nehru Place,5.87,17.14
+Nehru Place,Connaught Place,3.62,52.25
+Chandni Chowk,Delhi University,10.5,42.12
+Red Fort,Chandni Chowk,5.54,46.69
+Connaught Place,Gurgaon,15.44,22.19
+Chandni Chowk,Gurgaon,8.8,16.53
+Karol Bagh,Connaught Place,19.55,40.51
+Rajiv Chowk,Chandni Chowk,18.76,21.69
+Connaught Place,Karol Bagh,15.86,47.12
+India Gate,Red Fort,14.14,58.11
+Hauz Khas,Rajiv Chowk,8.48,12.19
+Gurgaon,Chandni Chowk,13.76,45.11
+Delhi University,Connaught Place,11.93,16.37
+Delhi University,Red Fort,10.58,22.17
+Delhi University,Gurgaon,9.12,40.49
+Red Fort,Chandni Chowk,15.16,17.77
+Gurgaon,Chandni Chowk,8.7,19.8
+Nehru Place,Hauz Khas,4.77,48.09
+Gurgaon,Connaught Place,18.28,25.36
+Red Fort,Karol Bagh,15.27,54.33
+Hauz Khas,Delhi University,17.08,15.05
+India Gate,Delhi University,19.17,25.72
+India Gate,Delhi University,7.45,8.43
+Red Fort,Rajiv Chowk,10.24,11.0
+India Gate,Delhi University,5.72,22.43
+Red Fort,Delhi University,16.37,53.15
+Gurgaon,Red Fort,6.75,52.23
+Nehru Place,Hauz Khas,17.29,47.06
+Gurgaon,Nehru Place,3.79,42.97
+Chandni Chowk,Rajiv Chowk,18.96,42.54
+Gurgaon,Connaught Place,7.3,32.53
+Nehru Place,India Gate,13.27,33.08
+Red Fort,India Gate,3.28,22.16
+Hauz Khas,Chandni Chowk,16.25,52.38
+Chandni Chowk,Rajiv Chowk,3.61,57.38
+Hauz Khas,Rajiv Chowk,7.25,41.43
+Connaught Place,Red Fort,15.28,49.66
+Chandni Chowk,Red Fort,18.97,22.21
+India Gate,Hauz Khas,17.31,12.24
+Rajiv Chowk,India Gate,14.4,45.81
+Delhi University,Karol Bagh,13.88,18.88
+Nehru Place,Rajiv Chowk,17.59,14.29
+Rajiv Chowk,Chandni Chowk,2.02,44.46
+Gurgaon,Red Fort,10.03,51.7
+Karol Bagh,Chandni Chowk,8.28,14.26
+Nehru Place,Chandni Chowk,16.89,35.19
+Red Fort,Chandni Chowk,4.59,44.62
+Chandni Chowk,Gurgaon,10.71,38.24
+Rajiv Chowk,Karol Bagh,9.76,50.58
+India Gate,Nehru Place,16.76,44.02
+Gurgaon,Connaught Place,3.0,51.14
+Delhi University,Connaught Place,13.75,43.34
+Nehru Place,Rajiv Chowk,7.9,53.36
+Gurgaon,Rajiv Chowk,14.78,11.19
+Nehru Place,Gurgaon,8.75,53.75
+Red Fort,Nehru Place,1.9,57.88
+Karol Bagh,Delhi University,13.9,39.73
+Red Fort,Hauz Khas,6.14,18.68
+Chandni Chowk,Gurgaon,18.9,21.4
+Karol Bagh,Connaught Place,15.73,26.62
+Delhi University,Hauz Khas,3.65,5.59
+Nehru Place,Delhi University,11.34,58.67
+Connaught Place,Delhi University,8.01,24.65
+Rajiv Chowk,Hauz Khas,7.54,33.63
+Karol Bagh,Nehru Place,9.37,53.4
+India Gate,Delhi University,10.6,32.93
+Nehru Place,Rajiv Chowk,3.63,59.05
+Chandni Chowk,Hauz Khas,5.75,9.04
+Gurgaon,India Gate,13.6,37.75
+Gurgaon,Red Fort,8.89,28.22
+Karol Bagh,Delhi University,15.92,15.76
+Red Fort,Chandni Chowk,16.58,40.68
+Red Fort,Nehru Place,8.96,30.19
+Gurgaon,Rajiv Chowk,5.88,46.37
+Rajiv Chowk,Karol Bagh,10.74,22.65
+Nehru Place,Hauz Khas,12.32,59.77
+Chandni Chowk,Hauz Khas,9.27,55.64
+Hauz Khas,Red Fort,7.56,8.01
+Nehru Place,Karol Bagh,4.88,28.03
+Gurgaon,Karol Bagh,5.17,5.01
+Gurgaon,Chandni Chowk,18.39,51.41
+India Gate,Red Fort,15.1,14.23
+Chandni Chowk,Delhi University,3.29,8.72
+Chandni Chowk,Karol Bagh,14.76,56.08
+Karol Bagh,Nehru Place,9.18,11.55
+Connaught Place,Karol Bagh,10.74,24.19
+Hauz Khas,Nehru Place,8.12,39.17
+Karol Bagh,Delhi University,14.66,11.08
+Delhi University,Rajiv Chowk,1.68,59.69
+Nehru Place,Red Fort,5.42,7.96
+Red Fort,Delhi University,4.61,7.14
+Gurgaon,Connaught Place,8.44,49.13
+Hauz Khas,India Gate,7.48,29.43
+Karol Bagh,Connaught Place,13.84,32.99
+Chandni Chowk,Red Fort,17.37,52.63
+Nehru Place,India Gate,1.19,47.79
+Nehru Place,Rajiv Chowk,9.75,59.39
+Red Fort,Rajiv Chowk,10.18,59.28
+Rajiv Chowk,Delhi University,15.34,18.67
+Delhi University,Red Fort,11.23,59.57
+Rajiv Chowk,Connaught Place,17.29,10.36
+Hauz Khas,India Gate,14.42,24.01
+Rajiv Chowk,Gurgaon,1.13,27.19
+Chandni Chowk,Gurgaon,5.46,50.04
+Gurgaon,Delhi University,7.41,50.51
+Karol Bagh,Red Fort,1.01,21.93
+Delhi University,Nehru Place,5.58,17.85
+Nehru Place,India Gate,2.3,15.29
+Hauz Khas,Gurgaon,11.56,21.02
+Red Fort,Nehru Place,8.93,25.73
+Rajiv Chowk,Hauz Khas,17.64,54.79
+Hauz Khas,India Gate,10.37,23.16
+India Gate,Karol Bagh,3.03,57.44
+Rajiv Chowk,Chandni Chowk,2.14,21.37
+Gurgaon,Hauz Khas,6.66,22.62
+Red Fort,Nehru Place,4.12,48.07
+Rajiv Chowk,Gurgaon,3.33,39.92
+Delhi University,Nehru Place,3.35,8.88
+Hauz Khas,Karol Bagh,18.28,15.46
+Karol Bagh,Connaught Place,16.6,34.95
+Karol Bagh,Chandni Chowk,2.48,57.55
+Red Fort,India Gate,5.69,52.28
+Chandni Chowk,Karol Bagh,4.21,51.97
+Hauz Khas,India Gate,1.25,33.15
+Nehru Place,Delhi University,15.62,56.41
+Hauz Khas,Delhi University,18.27,50.08
+Red Fort,Gurgaon,17.88,15.96
+Karol Bagh,India Gate,6.4,20.89
+Hauz Khas,Red Fort,8.16,26.63
+Red Fort,Nehru Place,11.35,13.79
+Delhi University,Karol Bagh,14.13,14.22
+Delhi University,Red Fort,6.9,32.68
+Delhi University,Nehru Place,16.13,45.67
+Karol Bagh,Delhi University,13.27,13.57
+Karol Bagh,Gurgaon,11.39,9.81
+Gurgaon,Nehru Place,8.17,27.74
+Gurgaon,Hauz Khas,1.76,20.07
+Red Fort,Rajiv Chowk,19.16,57.45
+Nehru Place,Delhi University,7.69,7.37
+Chandni Chowk,India Gate,4.4,26.57
+Nehru Place,Red Fort,19.01,12.77
+Rajiv Chowk,Hauz Khas,15.51,10.98
+Red Fort,Karol Bagh,19.64,25.99
+Red Fort,Connaught Place,15.73,23.84
+Connaught Place,Delhi University,12.93,15.56
+Karol Bagh,Rajiv Chowk,3.77,56.59
+Red Fort,Nehru Place,18.44,53.81
+Delhi University,Connaught Place,12.88,49.45
+Red Fort,Connaught Place,2.31,23.41
+Hauz Khas,Red Fort,6.96,39.96
+Gurgaon,Chandni Chowk,7.76,13.17
+Connaught Place,Delhi University,12.33,49.79
+Rajiv Chowk,Chandni Chowk,8.26,12.27
+Hauz Khas,Delhi University,4.74,18.06
+Chandni Chowk,Karol Bagh,6.7,40.35
+Chandni Chowk,Red Fort,12.42,43.28
+India Gate,Hauz Khas,7.89,50.32
+Chandni Chowk,Delhi University,4.88,30.8
+Gurgaon,Red Fort,16.22,14.91
+Red Fort,Delhi University,3.09,53.6
+Red Fort,Hauz Khas,7.52,42.61
+Chandni Chowk,India Gate,1.48,42.95
+Red Fort,India Gate,7.01,8.07
+Nehru Place,Gurgaon,12.59,18.24
+Nehru Place,Red Fort,8.35,9.43
+Gurgaon,Nehru Place,3.8,21.39
+Chandni Chowk,Rajiv Chowk,2.71,55.1
+Connaught Place,Karol Bagh,1.11,31.61
+Connaught Place,Delhi University,3.34,21.92
+Connaught Place,Karol Bagh,18.6,13.89
+India Gate,Red Fort,19.35,16.32
+Red Fort,Karol Bagh,15.09,35.07
+Nehru Place,Connaught Place,17.81,35.47
+Chandni Chowk,India Gate,11.16,15.75
+Karol Bagh,Connaught Place,4.16,55.41
+Nehru Place,Chandni Chowk,7.23,25.46
+Rajiv Chowk,Hauz Khas,15.44,23.64
+Red Fort,Nehru Place,19.09,45.59
+Rajiv Chowk,Nehru Place,12.35,53.45
+Connaught Place,Rajiv Chowk,1.94,19.14
+India Gate,Karol Bagh,9.84,17.48
+Connaught Place,Red Fort,15.13,55.56
+Hauz Khas,India Gate,9.05,23.82
+Delhi University,Nehru Place,19.27,29.47
+Karol Bagh,Chandni Chowk,10.29,24.34
+Red Fort,Hauz Khas,18.28,36.29
+Connaught Place,India Gate,15.48,49.65
+Chandni Chowk,Hauz Khas,7.5,28.85
+Nehru Place,Chandni Chowk,17.12,24.98
+Connaught Place,Chandni Chowk,16.08,56.75
+Nehru Place,India Gate,12.84,45.79
+Delhi University,Chandni Chowk,16.3,51.48
+Nehru Place,Hauz Khas,8.51,7.82
+Red Fort,Rajiv Chowk,8.64,42.06
+Karol Bagh,Connaught Place,9.56,46.19
+India Gate,Red Fort,7.78,39.91
+Nehru Place,Red Fort,4.54,46.22
+Chandni Chowk,Rajiv Chowk,11.37,16.22
+Connaught Place,Chandni Chowk,6.55,46.17
+India Gate,Chandni Chowk,10.17,16.88
+Hauz Khas,Rajiv Chowk,19.38,44.33
+Connaught Place,Karol Bagh,19.19,28.49
+Red Fort,Gurgaon,10.03,54.39
+India Gate,Hauz Khas,10.98,43.9
+Chandni Chowk,Connaught Place,5.79,29.57
+Connaught Place,Gurgaon,3.35,16.33
+Nehru Place,Gurgaon,1.02,7.16
+Karol Bagh,Rajiv Chowk,19.57,18.33
+India Gate,Chandni Chowk,13.6,51.15
+Karol Bagh,Nehru Place,11.46,13.42
+India Gate,Gurgaon,14.83,38.01
+Rajiv Chowk,Connaught Place,14.89,47.34
+Connaught Place,Rajiv Chowk,19.53,36.55
+Karol Bagh,Delhi University,7.49,40.67
+India Gate,Karol Bagh,2.3,54.36
+Nehru Place,Chandni Chowk,3.27,23.03
+Rajiv Chowk,Delhi University,16.5,37.85
+Rajiv Chowk,Nehru Place,8.48,31.04
+Chandni Chowk,Connaught Place,17.24,23.7
+Hauz Khas,Rajiv Chowk,17.52,9.85
+Karol Bagh,Red Fort,15.76,51.62
+Connaught Place,Nehru Place,4.45,28.67
+Nehru Place,Delhi University,4.14,43.86
+Red Fort,Delhi University,11.17,39.94
+Nehru Place,Chandni Chowk,4.73,16.65
+Gurgaon,Karol Bagh,1.79,22.71
+Delhi University,Rajiv Chowk,11.64,52.19
+Rajiv Chowk,Nehru Place,13.67,28.95
+Red Fort,Gurgaon,19.11,44.56
+Delhi University,Karol Bagh,18.67,34.02
+India Gate,Delhi University,5.92,7.91
+Karol Bagh,Nehru Place,14.8,11.67
+Delhi University,Rajiv Chowk,6.75,34.29
+Nehru Place,Connaught Place,11.72,38.03
+Delhi University,Hauz Khas,4.16,25.89
+Karol Bagh,Connaught Place,12.73,58.34
+Gurgaon,Rajiv Chowk,14.82,55.74
+Gurgaon,Chandni Chowk,15.48,37.54
+Rajiv Chowk,India Gate,4.65,41.67
+Delhi University,Hauz Khas,12.84,38.14
+Chandni Chowk,Delhi University,10.31,34.08
+Nehru Place,Delhi University,7.35,33.56
+Karol Bagh,Gurgaon,4.75,49.28
+Red Fort,Rajiv Chowk,4.53,9.67
+Hauz Khas,Rajiv Chowk,9.29,41.21
+Delhi University,India Gate,9.32,20.22
+Connaught Place,Karol Bagh,11.61,24.09
+Karol Bagh,Connaught Place,18.72,55.75
+Chandni Chowk,India Gate,10.55,23.03
+Nehru Place,Chandni Chowk,15.01,7.02
+India Gate,Connaught Place,10.02,23.5
+Gurgaon,Hauz Khas,18.49,5.66
+Nehru Place,Delhi University,11.5,45.74
+Red Fort,Connaught Place,10.22,9.7
+Rajiv Chowk,Chandni Chowk,19.48,33.49
+Gurgaon,India Gate,12.67,18.01
+Connaught Place,Chandni Chowk,10.19,28.6
+Nehru Place,India Gate,2.42,10.84
+Nehru Place,Connaught Place,16.91,18.19
+Rajiv Chowk,Delhi University,4.7,32.77
+Hauz Khas,Rajiv Chowk,15.61,8.41
+Connaught Place,Gurgaon,11.96,11.56
+Red Fort,Delhi University,1.69,7.9
+Connaught Place,India Gate,16.85,11.49
+Red Fort,India Gate,1.86,29.08
+Chandni Chowk,Delhi University,17.04,19.43
+Chandni Chowk,Delhi University,9.01,7.2
+Hauz Khas,Chandni Chowk,9.53,36.77
+Chandni Chowk,Delhi University,11.85,23.28
+Chandni Chowk,Gurgaon,7.0,10.86
+Karol Bagh,Delhi University,7.97,10.47
+Delhi University,Hauz Khas,15.57,58.15
+India Gate,Gurgaon,19.43,52.58
+Rajiv Chowk,Nehru Place,12.42,43.55
+Hauz Khas,India Gate,6.42,39.69
+Delhi University,Hauz Khas,9.66,31.51
+Delhi University,Rajiv Chowk,15.4,20.51
+Karol Bagh,Delhi University,7.04,55.86
+Gurgaon,Nehru Place,2.07,31.71
+Delhi University,Rajiv Chowk,18.34,38.57
+Rajiv Chowk,Hauz Khas,11.38,18.74
+Hauz Khas,Rajiv Chowk,7.52,51.86
+Gurgaon,Chandni Chowk,11.63,33.31
+Gurgaon,Delhi University,2.89,5.88
+Chandni Chowk,Hauz Khas,19.31,25.73
+Delhi University,Red Fort,12.46,9.38
+Rajiv Chowk,Nehru Place,13.98,56.29
+Nehru Place,Hauz Khas,11.94,11.94
+Red Fort,Gurgaon,12.05,47.15
+Connaught Place,Delhi University,8.72,53.39
+Karol Bagh,Red Fort,13.32,54.46
+Connaught Place,Red Fort,12.85,12.22
+Rajiv Chowk,Connaught Place,6.88,16.1
+Red Fort,Delhi University,18.27,46.82
+Karol Bagh,India Gate,13.85,21.55
+Connaught Place,Nehru Place,4.5,46.6
+Rajiv Chowk,Karol Bagh,10.01,17.42
+Karol Bagh,Red Fort,12.72,7.22
+Rajiv Chowk,Gurgaon,7.2,30.77
+India Gate,Gurgaon,3.81,59.16
+Hauz Khas,Gurgaon,4.97,12.17
+Chandni Chowk,India Gate,4.87,47.3
+Rajiv Chowk,Nehru Place,9.08,36.1
+Karol Bagh,Nehru Place,1.4,6.89
+Gurgaon,India Gate,9.47,49.92
+Gurgaon,Red Fort,17.82,9.77
+Connaught Place,Gurgaon,11.23,55.23
+Hauz Khas,India Gate,8.37,50.63
+Connaught Place,Rajiv Chowk,3.54,56.45
+Rajiv Chowk,Hauz Khas,15.28,56.77
+Hauz Khas,India Gate,13.86,24.99
+Chandni Chowk,Gurgaon,18.83,20.16
+Connaught Place,Hauz Khas,7.31,43.54
+Connaught Place,Red Fort,15.54,56.12
+Delhi University,Connaught Place,4.89,48.89
+Rajiv Chowk,Delhi University,15.03,8.51
+Gurgaon,Karol Bagh,8.36,20.55
+Rajiv Chowk,Delhi University,6.79,59.06
+Chandni Chowk,Karol Bagh,13.21,44.47
+Connaught Place,Hauz Khas,19.56,25.75
+Nehru Place,Gurgaon,16.23,28.9
+Gurgaon,Delhi University,17.52,14.94
+India Gate,Chandni Chowk,19.01,17.03
+Hauz Khas,Red Fort,7.2,46.59
+Hauz Khas,Karol Bagh,8.48,38.45
+Karol Bagh,Rajiv Chowk,9.45,45.83
+India Gate,Nehru Place,5.34,8.22
+Gurgaon,Connaught Place,6.7,31.09
+Delhi University,Hauz Khas,4.19,24.51
+Red Fort,India Gate,8.6,8.16
+Hauz Khas,Delhi University,12.08,53.64
+Hauz Khas,Karol Bagh,3.88,37.88
+Karol Bagh,Nehru Place,13.63,28.06
+Delhi University,Chandni Chowk,14.32,27.59
+Nehru Place,Hauz Khas,10.59,5.4
+Gurgaon,Chandni Chowk,14.14,41.37
+Delhi University,Gurgaon,1.73,25.25
+Delhi University,Chandni Chowk,19.6,28.14
+Chandni Chowk,India Gate,10.54,55.05
+Red Fort,Hauz Khas,14.63,37.01
+Rajiv Chowk,Gurgaon,16.16,52.54
+Chandni Chowk,Rajiv Chowk,9.68,31.13
+Rajiv Chowk,Gurgaon,8.33,58.17
+Connaught Place,Red Fort,14.25,9.58
+Karol Bagh,Rajiv Chowk,17.4,31.43
+Gurgaon,Nehru Place,2.31,35.23
+Gurgaon,Karol Bagh,8.93,53.28
+Nehru Place,Connaught Place,4.88,50.46
+Rajiv Chowk,Karol Bagh,11.6,8.0
+Connaught Place,Chandni Chowk,19.47,33.19
+Gurgaon,Karol Bagh,6.53,30.82
+Red Fort,Connaught Place,17.3,21.77
+Rajiv Chowk,India Gate,4.66,12.1
+Red Fort,Nehru Place,6.66,47.9
+Nehru Place,Connaught Place,9.96,17.51
+Rajiv Chowk,Chandni Chowk,4.16,23.3
+Delhi University,Chandni Chowk,18.86,23.87
+Chandni Chowk,Delhi University,19.77,31.69
+Delhi University,Red Fort,4.4,54.01
+Delhi University,Nehru Place,9.75,44.03
+Gurgaon,Karol Bagh,19.69,7.76
+Connaught Place,Hauz Khas,2.84,44.63
+Gurgaon,Delhi University,6.35,15.14
+Connaught Place,Red Fort,1.75,6.2
+Karol Bagh,Connaught Place,15.72,12.39
+Red Fort,Chandni Chowk,9.89,38.32
+Gurgaon,Red Fort,9.14,6.49
+Connaught Place,Nehru Place,15.89,5.58
+Connaught Place,India Gate,15.48,54.13
+Hauz Khas,Red Fort,9.22,34.45
+Rajiv Chowk,India Gate,10.06,26.41
+Connaught Place,Red Fort,17.86,54.17
+Hauz Khas,Chandni Chowk,7.38,38.83
+Hauz Khas,Delhi University,18.61,57.91
+India Gate,Rajiv Chowk,10.67,29.91
+Nehru Place,Gurgaon,6.3,57.74
+Delhi University,India Gate,3.71,36.89
+Karol Bagh,Chandni Chowk,6.37,20.35
+Delhi University,Nehru Place,8.69,59.93
+Delhi University,Connaught Place,2.04,36.82
+Connaught Place,Chandni Chowk,2.57,13.5
+Delhi University,Red Fort,9.35,33.08
+Rajiv Chowk,Nehru Place,5.92,22.41
+Hauz Khas,Karol Bagh,2.65,21.68
+Connaught Place,Rajiv Chowk,19.36,56.96
+Red Fort,Chandni Chowk,7.36,36.4
+Delhi University,Red Fort,18.28,5.34
+Connaught Place,Red Fort,16.4,57.16
+Hauz Khas,Connaught Place,2.74,13.88
+Delhi University,Red Fort,19.25,34.56
+Chandni Chowk,Karol Bagh,1.27,19.17
+Rajiv Chowk,Hauz Khas,9.55,43.11
+Karol Bagh,India Gate,14.93,59.75
+Hauz Khas,Delhi University,6.46,34.6
+Gurgaon,Chandni Chowk,11.13,27.31
+Hauz Khas,Chandni Chowk,4.21,58.76
+Gurgaon,Karol Bagh,17.21,32.41
+Hauz Khas,Red Fort,12.46,17.5
+Gurgaon,Rajiv Chowk,11.33,43.22
+Nehru Place,Delhi University,10.79,59.47
+Karol Bagh,Chandni Chowk,12.62,25.4
+Karol Bagh,Gurgaon,15.67,14.38
+Delhi University,Chandni Chowk,8.31,24.08
+Karol Bagh,Red Fort,9.2,48.0
+Delhi University,Karol Bagh,10.2,48.67
+Hauz Khas,Karol Bagh,11.95,23.81
+Gurgaon,Karol Bagh,16.39,18.11
+Rajiv Chowk,India Gate,5.26,32.75
+India Gate,Karol Bagh,5.96,5.5
+Rajiv Chowk,Karol Bagh,13.32,33.11
+Connaught Place,Rajiv Chowk,9.46,58.18
+Red Fort,Nehru Place,11.85,52.49
+Red Fort,Karol Bagh,3.65,36.31
+Chandni Chowk,India Gate,17.49,37.07
+Connaught Place,Gurgaon,14.64,25.46
