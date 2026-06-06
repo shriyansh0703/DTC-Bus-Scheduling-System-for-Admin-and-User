@@ -1,139 +1,58 @@
-🚌 DTC Bus Scheduling System for Admin and User
+# DTC SIH — Bus Data & Route Tools
 
-A full-stack web application designed to simplify and automate bus scheduling, route management, and timetable access for both administrators and users. The system provides a centralized platform for managing bus operations while allowing users to easily view route and schedule information.
+Small collection of scripts for analyzing Delhi Transport Corporation (DTC) bus data, route-finding, and revenue estimation.
 
-📖 Overview
+## Project structure
+- Python scripts: admin_control.py, user_control.py, api.py, find_shortest_route.py, revenue_generated.py, database.py
+- Data: CSV files in project root (e.g., bus_routes_data.csv, bus_revenue_data.csv, bus_passengers_delhi.csv)
 
-The DTC Bus Scheduling System addresses the challenges of manual bus scheduling and route management by providing a digital platform that streamlines operations and improves accessibility to schedule information.
+## Setup
+This project includes a local virtual environment in `env/`. On Windows PowerShell, activate it with:
 
-The application consists of two primary modules:
+```powershell
+& "env\\Scripts\\Activate.ps1"
+```
 
-Admin Module – Manage buses, routes, schedules, and system data.
-User Module – View routes, search schedules, and access bus information.
-✨ Features
-👨‍💼 Admin Features
-Secure Admin Authentication
-Dashboard for System Management
-Add, Update, and Delete Bus Details
-Route Management
-Bus Schedule Management
-User Management
-View and Monitor System Records
-Centralized Data Control
-👤 User Features
-User Registration and Login
-View Available Bus Routes
-Search Buses by Route
-Check Bus Timings and Schedules
-Access Route Information
-Simple and Responsive User Interface
-🛠️ Tech Stack
-Frontend
-React.js
-HTML5
-CSS3
-JavaScript
-Backend
-Node.js
-Express.js
-Database
-MongoDB
-Tools & Technologies
-Git
-GitHub
-REST APIs
-Postman
-📂 Project Structure
-DTC-Bus-Scheduling-System-for-Admin-and-User/
-│
-├── client/                 # React Frontend
-│   ├── public/
-│   ├── src/
-│   └── package.json
-│
-├── server/                 # Backend Server
-│   ├── controllers/
-│   ├── models/
-│   ├── routes/
-│   ├── middleware/
-│   └── package.json
-│
-├── README.md
-│
-└── .gitignore
-🚀 Getting Started
-Prerequisites
+If you prefer creating a new venv instead:
 
-Make sure the following are installed on your system:
+```powershell
+python -m venv env
+& "env\\Scripts\\Activate.ps1"
+pip install -r requirements.txt  # if you create one
+```
 
-Node.js
-npm
-MongoDB
-Installation
-1. Clone the Repository
-git clone https://github.com/shriyansh0703/DTC-Bus-Scheduling-System-for-Admin-and-User.git
-2. Navigate to the Project Directory
-cd DTC-Bus-Scheduling-System-for-Admin-and-User
-3. Install Backend Dependencies
-cd server
-npm install
-4. Install Frontend Dependencies
-cd ../client
-npm install
-⚙️ Environment Variables
+Note: The provided `env/` already contains commonly used packages (pandas, numpy, networkx, etc.).
 
-Create a .env file inside the server directory and configure the following:
+## Usage
+- Run an admin script:
 
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_jwt_secret
-▶️ Running the Application
-Start Backend Server
-cd server
-npm start
-Start Frontend Application
-cd client
-npm start
+```powershell
+python admin_control.py
+```
 
-The application will be available at:
+- Run the user interface script:
 
-Frontend: http://localhost:3000
-Backend:  http://localhost:5000
-📸 Screenshots
-Admin Dashboard
-Manage Buses
-Manage Routes
-Manage Schedules
-View Users
-User Dashboard
-Search Routes
-View Timetables
-Access Bus Information
+```powershell
+python user_control.py
+```
 
-Add screenshots here for better project presentation.
+- Run the API server (if implemented in `api.py`):
 
-🎯 Objectives
-Digitize bus scheduling operations.
-Reduce manual scheduling errors.
-Improve route and timetable management.
-Provide easy access to transportation information.
-Enhance operational efficiency.
-🔮 Future Enhancements
-Real-Time Bus Tracking
-GPS Integration
-Live Traffic Updates
-Mobile Application Support
-Online Ticket Booking
-Notification and Alert System
-AI-Based Route Optimization
-📊 Use Cases
-Admin
-Create and manage bus schedules.
-Update route information.
-Monitor system data.
-Manage user records.
-User
-Search bus routes.
-View schedules and timings.
-Access route details.
-Plan travel efficiently.
+```powershell
+python api.py
+```
+
+- Compute routes or revenue examples:
+
+```powershell
+python find_shortest_route.py
+python revenue_generated.py
+```
+
+## Data files
+Keep CSV files in the project root. Example files included:
+- bus_routes_data.csv
+- bus_revenue_data.csv
+- bus_passengers_delhi.csv
+- bus_passengers_estimated_fare_time.csv
+
